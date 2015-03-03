@@ -1,0 +1,106 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2014-05-13T12:22:39Z</responseDate>
+<request verb="ListRecords" metadataPrefix="arXiv" set="cs">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:arXiv.org:0704.0002</identifier>
+<datestamp>2008-12-13</datestamp>
+<setSpec>cs</setSpec>
+</header>
+<metadata>
+<arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+<id>0704.0002</id>
+<created>2007-03-30</created>
+<updated>2008-12-13</updated>
+<authors>
+<author>
+<keyname>Streinu</keyname>
+<forenames>Ileana</forenames>
+</author>
+<author>
+<keyname>Theran</keyname>
+<forenames>Louis</forenames>
+</author>
+</authors>
+<title>Sparsity-certifying Graph Decompositions</title>
+<categories>math.CO cs.CG</categories>
+<comments>To appear in Graphs and Combinatorics</comments>
+<msc-class>05C85; 05C70; 68R10; 05B35</msc-class>
+<license>
+http://arxiv.org/licenses/nonexclusive-distrib/1.0/
+</license>
+<abstract>
+We describe a new algorithm, the $(k,\ell)$-pebble game with colors, and use it obtain a characterization of the family of $(k,\ell)$-sparse graphs and algorithmic solutions to a family of problems concerning tree decompositions of graphs. Special instances of sparse graphs appear in rigidity theory and have received increased attention in recent years. In particular, our colored pebbles generalize and strengthen the previous results of Lee and Streinu and give a new proof of the Tutte-Nash-Williams characterization of arboricity. We also present a new decomposition that certifies sparsity based on the $(k,\ell)$-pebble game with colors. Our work also exposes connections between pebble game algorithms and previous sparse graph algorithms by Gabow, Gabow and Westermann and Hendrickson.
+</abstract>
+</arXiv>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:arXiv.org:0704.0046</identifier>
+<datestamp>2009-11-13</datestamp>
+<setSpec>cs</setSpec>
+</header>
+<metadata>
+<arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+<id>0704.0046</id>
+<created>2007-04-01</created>
+<authors>
+<author>
+<keyname>Csiszar</keyname>
+<forenames>I.</forenames>
+</author>
+<author>
+<keyname>Hiai</keyname>
+<forenames>F.</forenames>
+</author>
+<author>
+<keyname>Petz</keyname>
+<forenames>D.</forenames>
+</author>
+</authors>
+<title>
+A limit relation for entropy and channel capacity per unit cost
+</title>
+<categories>quant-ph cs.IT math.IT</categories>
+<comments>LATEX file, 11 pages</comments>
+<journal-ref>J. Math. Phys. 48(2007), 092102.</journal-ref>
+<doi>10.1063/1.2779138</doi>
+<abstract>
+In a quantum mechanical model, Diosi, Feldmann and Kosloff arrived at a conjecture stating that the limit of the entropy of certain mixtures is the relative entropy as system size goes to infinity. The conjecture is proven in this paper for density matrices. The first proof is analytic and uses the quantum law of large numbers. The second one clarifies the relation to channel capacity per unit cost for classical-quantum channels. Both proofs lead to generalization of the conjecture.
+</abstract>
+</arXiv>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:arXiv.org:0704.0047</identifier>
+<datestamp>2009-09-29</datestamp>
+<setSpec>cs</setSpec>
+</header>
+<metadata>
+<arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+<id>0704.0047</id>
+<created>2007-04-01</created>
+<authors>
+<author>
+<keyname>Kosel</keyname>
+<forenames>T.</forenames>
+</author>
+<author>
+<keyname>Grabec</keyname>
+<forenames>I.</forenames>
+</author>
+</authors>
+<title>
+Intelligent location of simultaneously active acoustic emission sources: Part I
+</title>
+<categories>cs.NE cs.AI</categories>
+<comments>5 pages, 5 eps figures, uses IEEEtran.cls</comments>
+<abstract>
+The intelligent acoustic emission locator is described in Part I, while Part II discusses blind source separation, time delay estimation and location of two simultaneously active continuous acoustic emission sources. The location of acoustic emission on complicated aircraft frame structures is a difficult problem of non-destructive testing. This article describes an intelligent acoustic emission source locator. The intelligent locator comprises a sensor antenna and a general regression neural network, which solves the location problem based on learning from examples. Locator performance was tested on different test specimens. Tests have shown that the accuracy of location depends on sound velocity and attenuation in the specimen, the dimensions of the tested area, and the properties of stored data. The location accuracy achieved by the intelligent locator is comparable to that obtained by the conventional triangulation method, while the applicability of the intelligent locator is more general since analysis of sonic ray paths is avoided. This is a promising method for non-destructive testing of aircraft frame structures by the acoustic emission method.
+</abstract>
+</arXiv>
+</metadata>
+</record>
