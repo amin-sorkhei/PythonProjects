@@ -28,28 +28,28 @@ def plot(date, bid, ask):
 
 
 def percentChange(startPoint, currentPoint):
-    return 100*(currentPoint - startPoint)/abs(float(startPoint))
+    return 100 * (currentPoint - startPoint) / abs(float(startPoint))
 
 
-def patternStorage(bid, ask, printDetails= False):
-    avgLine = (bid+ask)/2
+def patternStorage(bid, ask, printDetails=False):
+    avgLine = (bid + ask) / 2
     x = len(avgLine) - 30
     y = 11
     current_status = 'none'
     while y < x:
         pattern = []
-        p1 = percentChange(avgLine[y-10], avgLine[y-9])
-        p2 = percentChange(avgLine[y-10], avgLine[y-8])
-        p3 = percentChange(avgLine[y-10], avgLine[y-7])
-        p4 = percentChange(avgLine[y-10], avgLine[y-6])
-        p5 = percentChange(avgLine[y-10], avgLine[y-5])
-        p6 = percentChange(avgLine[y-10], avgLine[y-4])
-        p7 = percentChange(avgLine[y-10], avgLine[y-3])
-        p8 = percentChange(avgLine[y-10], avgLine[y-2])
-        p9 = percentChange(avgLine[y-10], avgLine[y-1])
-        p10 = percentChange(avgLine[y-10], avgLine[y])
+        p1 = percentChange(avgLine[y - 10], avgLine[y - 9])
+        p2 = percentChange(avgLine[y - 10], avgLine[y - 8])
+        p3 = percentChange(avgLine[y - 10], avgLine[y - 7])
+        p4 = percentChange(avgLine[y - 10], avgLine[y - 6])
+        p5 = percentChange(avgLine[y - 10], avgLine[y - 5])
+        p6 = percentChange(avgLine[y - 10], avgLine[y - 4])
+        p7 = percentChange(avgLine[y - 10], avgLine[y - 3])
+        p8 = percentChange(avgLine[y - 10], avgLine[y - 2])
+        p9 = percentChange(avgLine[y - 10], avgLine[y - 1])
+        p10 = percentChange(avgLine[y - 10], avgLine[y])
 
-        outcomeRange = avgLine[y+20:y+30]
+        outcomeRange = avgLine[y + 20:y + 30]
         avgOutcome = reduce(lambda x, y: x + y, outcomeRange) / len(outcomeRange)
 
         currentPoint = avgLine[y]
@@ -76,8 +76,13 @@ def patternStorage(bid, ask, printDetails= False):
         patternArray.append(pattern)
         performanceArray.append(futureOutcome)
 
+# ----------------------------------------------------------------
 
 
+def rolling_window(a, size):
+    shape = a.shape[:-1] + (a.shape[-1] - size + 1, size)
+    strides = a.strides + (a. strides[-1],)
+    return np.lib.stride_tricks.as_strided(a, shape=shape, strides=strides)
 
 
 def plot_rate(date, rate):
@@ -110,14 +115,23 @@ def main():
     rate = data[rate_label]
     ask = data[ask_label]
     bid = data[bid_label]
-    plot_rate(date, rate)
-    '''date, bid, ask = np.genfromtxt('1d.txt', unpack=True, delimiter=',',
-                                   converters={0: mdates.strpdate2num('%Y%m%d%H%M%S')})'''
-    # plot(date[0:30], bid[0:30], ask[0:30])
-    # patternStorage(bid, ask)
-    # print(patternArray[0])
-    # print(performanceArray[0])
+    # plot_rate(date, rate)
+    rate_change = np.zeros(data.size)
+    for i in range(1, rate.size):
+        if rate[i] >= rate[i - 1]:
+            rate_change[i] = True
+        else:
+            rate_change[i] = False
+    # print rate_change
 
+    # print np.sum(True == rate_change)
+    # print np.sum(False == rate_change)
+    # print rate_change.size
+
+    a = np.array([1, 1, -1, -1, -1, 1, -1])
+    b = rolling_window(a, 2)
+    print np.apply_along_axis(np.array_equal, 1, b, [1, -1])
+    print np.sum(True == np.apply_along_axis(np.array_equal, 1, b, [1, -1]))
 if __name__ == '__main__':
     main()
 
