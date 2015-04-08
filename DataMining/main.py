@@ -5,6 +5,28 @@ import itertools
 import time
 
 
+<<<<<<< HEAD
+=======
+def rule_generator(all_courses, size_of_the_set, students_list):
+    set_count_dic = {}
+    n_subset = itertools.combinations(all_courses, size_of_the_set)
+    for elem in n_subset:
+        support = support_counter(list(elem), students_list)
+        if support > 0:
+            set_count_dic[','.join(list(elem))] = support
+
+    return set_count_dic
+
+
+def support_counter(list_of_courses, student_list):
+    cnt = 0
+    for std in student_list:
+        if set(list_of_courses).issubset(set(std.courses)):
+            cnt += 1
+    return cnt / float(len(student_list))
+
+
+>>>>>>> 2000b4c3bfcc4dc8dea0bc30c84fd3de3a976dbf
 def read():
     input_file = open('data.txt', 'r')
     lines = input_file.readlines()
@@ -32,6 +54,7 @@ def read():
 
         students_list.append(student(registration_year, tmp_course_list))
     return students_list, course_info_dictionary
+<<<<<<< HEAD
 
 
 def support_count(list_of_items, transactions, threshold):
@@ -85,7 +108,17 @@ def main():
     end = time.clock()
     print 'the best answers: ' + str(final_items)
     print 'This is the elapsed time ' + str(end - start)
+=======
+>>>>>>> 2000b4c3bfcc4dc8dea0bc30c84fd3de3a976dbf
 
 
+def main():
+    students_list, course_info_dictionary = read()
+    print len(students_list)
+    courses = [crs[0] for crs in course_info_dictionary.values()]
+    start = time.clock()
+    rule_generator(courses, 3, students_list)
+    end = time.clock()
+    print end - start
 if __name__ == '__main__':
     main()
