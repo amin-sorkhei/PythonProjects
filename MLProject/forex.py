@@ -76,13 +76,19 @@ def patternStorage(bid, ask, printDetails=False):
         patternArray.append(pattern)
         performanceArray.append(futureOutcome)
 
+
 # ----------------------------------------------------------------
 
 
-def rolling_window(a, size):
-    shape = a.shape[:-1] + (a.shape[-1] - size + 1, size)
-    strides = a.strides + (a. strides[-1],)
-    return np.lib.stride_tricks.as_strided(a, shape=shape, strides=strides)
+def rolling_window(one_dim_data_set, size):
+    shape = one_dim_data_set.shape[:-1] + (one_dim_data_set.shape[-1] - size + 1, size)
+    strides = one_dim_data_set.strides + (one_dim_data_set.strides[-1],)
+    return np.lib.stride_tricks.as_strided(one_dim_data_set, shape=shape, strides=strides)
+
+
+def instantiation_counter(one_dim_data_set, instantiation):
+    one_dim_data_set_slices = rolling_window(one_dim_data_set, len(instantiation))
+    return np.sum(True == np.apply_along_axis(np.array_equal, 1, one_dim_data_set_slices, instantiation))
 
 
 def plot_rate(date, rate):
@@ -111,27 +117,37 @@ def main():
 
     print 'this is the data that the training set contains ' + str(data.dtype.names)
     data_label, rate_label, ask_label, bid_label = data.dtype.names
-    date = data[data_label]
+    # date = data[data_label]
     rate = data[rate_label]
-    ask = data[ask_label]
-    bid = data[bid_label]
-    # plot_rate(date, rate)
+    # ask = data[ask_label]
+    # bid = data[bid_label]
+
+
+
     rate_change = np.zeros(data.size)
     for i in range(1, rate.size):
         if rate[i] >= rate[i - 1]:
             rate_change[i] = True
         else:
             rate_change[i] = False
+
+    training_data = rate_change[0:627]
+    test_data = rate_change[627:]
+
     # print rate_change
+    # ------------- Order One Markov Model ------------- #
+    order_one_initial_probability = {'True': instantiation_counter(training_data[:-1], [True]),
+                                     'False': instantiation_counter(training_data[:-1], [False])}
+    print 'First Order Markov Model results :'
+    order_one_CPT = {'O_t = True | O_(t-1) = True': float(instantiation_counter(training_data, [True, True]))/ order_one_initial_probability['True'],
+                     'O_t = False | O_(t-1) = True': float(instantiation_counter(training_data, [True, False]))/ order_one_initial_probability['True'],
+                     'O_t = False | O_(t-1) = False': float(instantiation_counter(training_data, [False, False]))/ order_one_initial_probability['False'],
+                     'O_t = True | O_(t-1) = False': float(instantiation_counter(training_data, [False, True]))/ order_one_initial_probability['False']}
+    for item in order_one_CPT.items():
+        print item
+    predicted_y = np.zeros(test_data.size)
+    for i in range(1, )
 
-    # print np.sum(True == rate_change)
-    # print np.sum(False == rate_change)
-    # print rate_change.size
-
-    a = np.array([1, 1, -1, -1, -1, 1, -1])
-    b = rolling_window(a, 2)
-    print np.apply_along_axis(np.array_equal, 1, b, [1, -1])
-    print np.sum(True == np.apply_along_axis(np.array_equal, 1, b, [1, -1]))
 if __name__ == '__main__':
     main()
 
