@@ -11,6 +11,3 @@ class student_course:
     def display(self):
         return self.course_year_month + ' ' + str(self.course_code) + ' ' + self.course_name + ' ' + str(self.credits) + ' ' + self.final_grade
 
-
-
-

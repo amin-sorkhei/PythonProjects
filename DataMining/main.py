@@ -5,6 +5,8 @@ import itertools
 import time
 
 
+<<<<<<< HEAD
+=======
 def rule_generator(all_courses, size_of_the_set, students_list):
     set_count_dic = {}
     n_subset = itertools.combinations(all_courses, size_of_the_set)
@@ -24,12 +26,12 @@ def support_counter(list_of_courses, student_list):
     return cnt / float(len(student_list))
 
 
+>>>>>>> 2000b4c3bfcc4dc8dea0bc30c84fd3de3a976dbf
 def read():
     input_file = open('data.txt', 'r')
     lines = input_file.readlines()
     students_list = []
     course_info_dictionary = {}
-    print 'this is the number of students ' + str(len(lines))
     for line in lines:
         registration_year = line.split()[0]  # the first element is always the registration year
         data = ' '.join(line.split()[1:])  # Join the rest of the sentence but the first string which is the year
@@ -40,9 +42,9 @@ def read():
             print line
         for match in all_matches:
             course_year_month = match[0]
-            course_code = int(match[1])
+            course_code = match[1]
             course_name = match[2].decode('utf8')
-            course_credit = float(match[3])
+            course_credit = match[3]
             final_grade = match[4]
             tmp_student_course = student_course(course_year_month, course_code, course_name, course_credit, final_grade)
             tmp_course_list.append(tmp_student_course)
@@ -52,6 +54,62 @@ def read():
 
         students_list.append(student(registration_year, tmp_course_list))
     return students_list, course_info_dictionary
+<<<<<<< HEAD
+
+
+def support_count(list_of_items, transactions, threshold):
+    result = []
+    for item in list_of_items:
+        _item = item
+        count = 0
+        for transaction in transactions:
+            if type(item) != list:
+                _item = [item]
+            if set(_item) <= set(transaction):
+                    count += 1
+        support = float(count) / len(transactions)
+        # print str(item) + ' ' + str(support)
+        if support >= threshold:
+            result.append(item)
+    result.sort()
+    return result
+
+
+def merge(list_of_items):
+    result = []
+    for i in xrange(len(list_of_items) - 1):
+        j = i + 1
+        while j < len(list_of_items) and list_of_items[i][:-1] == list_of_items[j][:-1]:
+                result.append(list_of_items[i][:-1] + list_of_items[i][-1].split() + list_of_items[j][-1].split())
+                j += 1
+    return result
+
+
+def main():
+    students_list, course_info_dictionary = read()
+    transactions = []
+    for std in students_list:
+        transactions.append([course.course_code for course in std.course_list])
+    items = course_info_dictionary.keys()
+
+    threshold = 0.08
+    start = time.clock()
+    initial = support_count(items, transactions, threshold)
+    two_candidates = map(list, list(itertools.combinations(initial, 2)))
+    print 'length of two-candidates: ' + str(len(two_candidates))
+    final_items = two_candidates
+    new_candidates = support_count(two_candidates, transactions, threshold)
+    while new_candidates:
+        final_items = new_candidates
+        print 'length of best answers so far: ' + str(len(final_items)) + ' and the length of the rule is ' + str(len(final_items[0]))
+        new_candidates = merge(new_candidates)
+        if not new_candidates:
+            new_candidates = support_count(new_candidates, transactions, threshold)
+    end = time.clock()
+    print 'the best answers: ' + str(final_items)
+    print 'This is the elapsed time ' + str(end - start)
+=======
+>>>>>>> 2000b4c3bfcc4dc8dea0bc30c84fd3de3a976dbf
 
 
 def main():

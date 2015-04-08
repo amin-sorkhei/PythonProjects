@@ -1,4 +1,3 @@
-
 class student:
     'This class contains information regarding each student'
     def __init__(self, registration_year, course_list):
@@ -26,6 +25,9 @@ class student:
 
     def display(self):
         return self.registration_year + '\n'.join(self.courses)
+<<<<<<< HEAD
+=======
 
+>>>>>>> 2000b4c3bfcc4dc8dea0bc30c84fd3de3a976dbf
 
 

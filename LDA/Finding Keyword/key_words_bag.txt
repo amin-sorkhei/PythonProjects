@@ -1,0 +1,2152 @@
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/scicluna14a.pdf=====>
+Grammatical Inference
+Probabilistic Context-Free Grammars
+Minimum Satisfiability
+Congruential Grammars
+Small Grammars
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/rabusseau14a.pdf=====>
+Rational tree series
+Linear representation
+Metropolis-Hastings
+Markov chain Monte Carlo
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/isberner14a.pdf=====>
+Automata learning
+counterexamples
+Rivest&Schapire
+binary search
+exponential search
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/gybels14a.pdf=====>
+Probabilistic grammatical inference
+Rational series
+Machine Learning
+Spectral learning
+Structured low-rank approximation
+Maximum-Likelihood
+Baum-Welch Algorithm.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/shibata14a.pdf=====>
+nonparametric Bayesian model
+distributional learning
+Gibbes sampling
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/smetsers14a.pdf=====>
+Active learning
+automata learning
+distance metrics
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/beros14a.pdf=====>
+Transducers
+Semi-deterministic
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/stabler14a.pdf=====>
+learnability
+syntactic concept
+syntactic category
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/coste14a.pdf=====>
+(local) substitutable languages
+learning algorithm
+canonical grammar
+proteins
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/vanzaanen14a.pdf=====>
+Context-free grammars
+empirical grammatical inference
+evaluation.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/wieczorek14a.pdf=====>
+Automata Induction
+Grammatical Inference
+Amyloid Proteins
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/jardine14a.pdf=====>
+transduction
+onwardness
+identification with polynomial bounds
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v34/tajima14a.pdf=====>
+Learning via query
+Sample distribution
+Simple deterministic language
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/bartok11a.pdf=====>
+Online learning
+Imperfect feedback
+Regret analysis
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/maillard11a.pdf=====>
+Multi-armed bandit problem
+finite-time analysis
+Kullback-Leibler divergence
+Sanov’s lemma
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/vanerven11a.pdf=====>
+mixability
+regret bounds
+probability estimation
+proper losses
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/rigollet11a.pdf=====>
+binary classification
+Neyman-Pearson paradigm
+anomaly detection
+empirical constraint
+empirical risk minimization
+chance constrained optimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/mannor11a.pdf=====>
+Approchability
+partial monitoring
+regret
+adversarial learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/feldman11b.pdf=====>
+Evolvability
+statistical query dimension
+conjunction
+halfspace
+linear threshold function
+quadratic loss
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/gerchinovitz11a.pdf=====>
+Individual Sequences
+Sparsity
+Online Linear Regression
+Regret Bounds
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/mukherjee11a.pdf=====>
+AdaBoost
+optimization
+coordinate descent
+convergence rate
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/vainsencher11a.pdf=====>
+statistical machine learning
+dictionary learning
+generalization bounds
+signal processing
+kernel methods
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/shamir11a.pdf=====>
+Collaborative Filtering
+Trace-Norm Regularization
+Transductive Learning
+Sample Complexity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/michael11a.pdf=====>
+PAC learning
+missing information
+masking process
+open problems
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/li11a.pdf=====>
+Data Streams
+Entropy Estimation
+Maximally-Skewed Stable Random Projections
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/agarwal11a.pdf=====>
+Model selection
+oracle inequalities
+computational budget
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/rudin11a.pdf=====>
+statistical learning theory
+algorithmic stability
+association rules
+sequence prediction
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/gao11a.pdf=====>
+Consistency
+multi-label learning
+surrogate loss
+ranking loss
+hamming loss
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/yang11a.pdf=====>
+Statistical Learning Theory
+Transfer Learning
+Bayesian Learning
+Active Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/szita11a.pdf=====>
+KWIK learning
+agnostic learning
+reinforcement learning
+PAC-MDP
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/foygel11a.pdf=====>
+Matrix completion
+low-rank matrices
+trace norm
+nuclear norm
+max norm
+Rademacher complexity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/steinwart11a.pdf=====>
+Clustering
+Density Level Sets
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/hazan11a.pdf=====>
+Stochastic Optimization
+Regret Minimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/amin11a.pdf=====>
+Multi-armed bandits
+learning theory
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/feldman11a.pdf=====>
+statistical query learning
+Boolean formulas
+statistical query dimension
+hardness of learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v19/slivkins11a.pdf=====>
+online learning
+multi-armed bandits
+contextual bandits
+regret minimization
+metric spaces
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v26/salperwyck12a.pdf=====>
+online learning
+click through rate
+content selection problem
+online summary
+probability decision tree
+models averaging
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v26/nicol12a.pdf=====>
+Recommendation
+Bayesian
+Exploration
+Exploitation
+Evaluation
+Click prediction
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v26/li12a.pdf=====>
+Multi-armed bandit
+contextual bandit
+offline evaluation
+generalized linear model
+upper confidence bound
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v26/seldin12a.pdf=====>
+PAC-Bayesian Analysis
+Bernstein’s Inequality
+Martingales
+Multiarmed Bandits
+Model Order Selection
+Exploration-Exploitation Trade-off
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v26/lovell12a.pdf=====>
+Limited resources
+exploration–exploitation
+Bayesian surprise
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v26/choromanska12a.pdf=====>
+Clustering
+online learning
+online clustering
+clustering data streams
+k-means clustering objective
+learning with expert advice
+approximation algorithms
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/re10a.pdf=====>
+Gene function prediction
+ensemble methods
+biomolecular data integration
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/umek10a.pdf=====>
+chemical genomics
+structure-activity relationship
+subgroup discovery
+hierarchical clustering
+supervised learning
+MeSH term enrichment
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/slavkov10a.pdf=====>
+feature ranking evaluation
+biomarker discovery
+ranking aggregation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/saeys10a.pdf=====>
+Text mining
+event extraction
+integrated networks
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/isik10a.pdf=====>
+evaluation of signaling cascades
+chip-seq
+gene expression
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/hullam10a.pdf=====>
+Bayesian Networks
+Feature Subset Selection
+Genetic Association Studies
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/rahmani10a.pdf=====>
+Protein Function Prediction
+PPI Networks
+Important Protein Selection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/airola10a.pdf=====>
+Area Under the ROC Curve
+Classifier Performance Estimation
+Conditional AUC Estimation
+Cross-validation
+Leave-pair-out Cross-validation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/cesa-bianchi10a.pdf=====>
+Hierarchical classification
+Gene function prediction
+Bayesian ensembles
+Cost-sensitive classification
+FunCat taxonomy
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/mramor10a.pdf=====>
+Microarrays
+Classification
+Gene sets
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v8/nadeem10a.pdf=====>
+Classifier Comparison
+Reject Option
+Microarray
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/moridomi14.pdf=====>
+Online matrix prediction
+log-determinant
+online collaborative filtering
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/sun14.pdf=====>
+Sparsity
+Ranking
+Information Geometry
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/xiong14.pdf=====>
+Sequential Monte Carlo
+maximum likelihood learning
+undirected graphical models.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/canevet14b.pdf=====>
+Greedy Edge Expectation Maximization (GEEM)
+Boosting
+Object detection
+Image classification
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/nakamura14.pdf=====>
+bandit problem
+online learning
+collaborative filtering
+recommender systems
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/lu14.pdf=====>
+Online Learning
+Data Stream
+Active Learning
+Passive-Aggressive
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/oliveira14.pdf=====>
+ensemble methods
+time series forecasting
+bagging
+maximum embed
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/lin14.pdf=====>
+cost-sensitive classification
+one-versus-one
+meta-learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/auger14.pdf=====>
+Sparsity
+bandit algorithms
+zero-sum matrix games
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/than14.pdf=====>
+Topic models
+latent Dirichlet allocation
+MAP estimation
+stochastic gradient
+large-scale learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/zhu14.pdf=====>
+learning with Augmented multi-instance view
+multi-view learning
+multi-instance learning
+semantic subspace learning
+non-negative matrix factorization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/kimura14.pdf=====>
+Orthogonal Nonnegative Matrix Factorization
+Orthogonal Factorization.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/klami14.pdf=====>
+Binary data
+Count data
+Latent factor models
+Matrix factorization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/lim14.pdf=====>
+author-citation network
+topic model
+Bayesian non-parametric
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/zhang14.pdf=====>
+Bootstrap
+deep learning
+dimensionality reduction
+ensemble methods
+evolutionary computing
+kernel methods
+sparse coding.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/alabdulmohsin14.pdf=====>
+Support vector machines
+Indefinite kernels
+Similarity-based classification
+Supervised learning
+Linear programming
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/chou14.pdf=====>
+contextual bandit
+pseudo-reward
+upper confidence bound
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/liu14.pdf=====>
+Ordinal Random Fields
+Ordinal Matrix Factorisation
+Markov Random Fields
+Collaborative Filtering
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/ko14.pdf=====>
+Variational Gaussian inference
+bilinear models
+Poisson likelihood
+matrix factorization
+latent Gaussian models
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/canevet14a.pdf=====>
+Computer Vision
+Object Detection
+Hard Mining
+Bootstrapping
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/givchi14.pdf=====>
+reinforcement learning
+policy evaluation
+Temporal Difference
+quasi Newton gradient descent
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/tagawa14.pdf=====>
+Fault Detection and Analysis
+Denoising Autoencoder
+Semi-supervised Learning.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v39/tanaka14.pdf=====>
+function estimation
+ensemble kernel regressor
+multiple kernel regressor
+generalization ability
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/matusevich14.pdf=====>
+Clustering
+EM
+DBMS
+SQL
+Monte Carlo
+Markov chains
+Bayesian methods
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/ienco14.pdf=====>
+Active learning
+Data streams
+Density-based clustering
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/li14.pdf=====>
+Matrix factorization
+SGD
+Recommender system
+Distributed computing
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/habich14.pdf=====>
+Clustering
+GPU
+Configuration
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/debatty14.pdf=====>
+k-NN graph
+graph building
+MapReduce
+text data
+Context-Triggered Piecewise Hashing
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/qin14.pdf=====>
+Association Rule Mining
+Parameter Space Model
+Redundancy Resolution
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/duarte14.pdf=====>
+Data Streams
+Regression
+Ensembles
+Rule Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/kessl14.pdf=====>
+Parallel Frequent Graph Mining
+Graphics Processing Unit
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/ordonez14.pdf=====>
+Array
+Matrix
+Linear Models
+Summarization
+Parallel
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/takamatsu14.pdf=====>
+large scale learning
+data compression
+error bound analysis
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/ray14.pdf=====>
+Dynamic graph mining
+Frequent subgraph mining.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/qiu14.pdf=====>
+LDA
+Spark
+collapsed Gibbs sampling
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v36/hawwash14.pdf=====>
+Social Media
+Data Stream Clustering
+Visualization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/hayashi12a.pdf=====>
+Multi-task Gaussian process
+conjugate gradient
+collaborative filtering.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/silver12a.pdf=====>
+transfer learning
+unsupervised learning
+metric learning
+kernel learning
+unlabeled data
+challenges
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/liu12a.pdf=====>
+Stochastic Unsupervised Learning
+Clustering
+K-means
+Principal Component Analysis (PCA)
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/nikulin12a.pdf=====>
+matrix factorization
+unsupervised learning
+clustering
+nonparametric criterion
+nonnegativity
+bioinformatics
+leave-one-out
+classification
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/buhmann12a.pdf=====>
+Unsupervised learning
+data clustering
+model selection
+information theory
+maximum entropy
+approximation capacity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/lee12a.pdf=====>
+flow cytometry
+automatic gating
+transfer learning
+low-density separation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/acharya12a.pdf=====>
+Transfer Learning
+Ensembles
+Classification
+Clustering.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/mesnil12a.pdf=====>
+Deep Learning
+Unsupervised Learning
+Transfer Learning
+Neural Networks
+Restricted Boltzmann Machines
+Auto-Encoders
+Denoising Auto-Encoders.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/bengio12a.pdf=====>
+Deep Learning
+unsupervised learning
+representation learning
+transfer learning
+multi-task learning
+self-taught learning
+domain adaptation
+neural networks
+Restricted Boltzmann Machines
+Auto-encoders
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/widmer12a.pdf=====>
+Transfer Learning
+Multitask Learning
+Domain Adaptation
+Computational Biology
+Bioinformatics
+Sequences
+Support Vector Machines
+Kernel Methods
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/wilson12a.pdf=====>
+Reinforcement Learning
+Markov Decision Processes
+Transfer Learning
+Hierarchical Bayesian Framework
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/chin12a.pdf=====>
+Transfer learning
+classifier reuse
+Wikipedia vandalism detection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/aiolli12a.pdf=====>
+transfer learning
+kernel meta-learning
+unsupervised learning
+UTL challenge
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v27/baldi12a.pdf=====>
+autoencoders
+unsupervised learning
+compression
+clustering
+principal component analysis
+boolean
+complexity
+deep architectures
+hebbian learning
+information theory
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/hajimirsadeghi10a.pdf=====>
+Imitation
+Concept Learning
+Incremental Learning
+Hidden Markov Model
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/abudawood10a.pdf=====>
+Subgroup Discovery
+Classification
+Probability Estimation
+Ranking
+Supervised Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/sugiyama10b.pdf=====>
+Coding divergence
+Discretization
+Cantor space
+Binary encoding
+Computable Analysis
+Computational Learning Theory
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/ning10a.pdf=====>
+Collaborative Filtering
+Multi-Task Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/kersting10a.pdf=====>
+Matrix factorization
+Convex Hull
+Hierarchical Methods
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/hyvarinen10a.pdf=====>
+Structural equation models
+Bayesian networks
+non-gaussianity
+cumulants
+independent component analysis
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/ishihata10a.pdf=====>
+binary decision diagrams
+EM algorithm
+order encoding
+propositionalized probability computation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/dai10a.pdf=====>
+Clustering
+Discriminative
+Information-Theoretic Framework
+Low-density Separation Assumption
+Accelerated Maximum Relative Margin Clustering.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/momma10a.pdf=====>
+Bayes point machines
+Support vector machines
+Pegasos
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/kropotov10a.pdf=====>
+Bayesian learning
+variational inference
+feature selection
+Relevance Vector Machine
+Automatic Relevance Determination
+image classiﬁcation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/li10a.pdf=====>
+Data stream
+concept drift
+decision tree
+clustering
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/xiao10a.pdf=====>
+Gibbs sampling
+Optimization
+Latent Dirichlet Allocation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/liang10a.pdf=====>
+Uncertain data streams
+Decision Tree
+Classiﬁcation
+Concept drift
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/kaelin10a.pdf=====>
+Probabilistic Relational Models
+approximate inference
+Gibbs sampling
+aggregation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/maillard10a.pdf=====>
+Markov decision processes
+reinforcement learning
+Bellman residual minimization
+generalization bounds
+ﬁnite sample analysis
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/manwani10a.pdf=====>
+Polyhedral Learning
+Logistic Regression
+Alternating Optimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/tabei10a.pdf=====>
+SketchSort
+Multiple sorting
+Localty sensitive hashing
+All pairs similarity search
+Nearest neighbor graph
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/park10a.pdf=====>
+Gaussian process regression
+Kernel methods
+Sparse approximations
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/saito10a.pdf=====>
+Information diﬀusion
+Social network
+Maximum likelihood
+Asynchronous time delay
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/glowacka10a.pdf=====>
+Image retrieval
+Dirichlet distribution
+Reinforcement learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/matsubara10a.pdf=====>
+Policy Gradients
+Natural Policy Gradients
+Average Reward Metric
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v13/bifet10a.pdf=====>
+Data Streams
+Decision Trees
+Ensemble Methods
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Glasmachers13.pdf=====>
+Coordinate Descent
+Online Adaptation
+Convex Optimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Shen13.pdf=====>
+bipartite ranking
+binary classification
+large-scale
+active learning
+AUC
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Peltonen13.pdf=====>
+Meta-visualization
+Neighbor embedding
+Nonlinear dimensionality reduction
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Koco13.pdf=====>
+confusion matrix
+boosting
+multi-class
+imbalance datasets
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Jiang13.pdf=====>
+Boosting
+Collaborative Filtering
+Recommender Systems
+AdaBoost
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Audiffren13.pdf=====>
+Algorithmic Stability
+Multi-task kernels
+Hilbert space valued RKHS
+Regression
+Generalization bounds
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Galichet13.pdf=====>
+Multi-armed bandits
+Risk awareness
+Risk aversion
+Conditional Value at Risk
+Max-min
+Energy policy
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Liu13.pdf=====>
+Convex Programs
+Linearized Alternating Direction Method
+Parallel Splitting
+Adaptive Penalty
+Subspace Clustering
+Matrix Completion.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Eyck13.pdf=====>
+Monte Carlo Tree Search
+learning for planning
+hospital scheduling
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Nguyen13.pdf=====>
+parts-based representation
+nonnegative
+restricted Boltzmann machines
+learning representation
+semantic features
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Le13.pdf=====>
+metric learning for histograms
+Aitchison geometry
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Su13.pdf=====>
+multilabel classification
+structured output
+ensemble methods
+kernel methods
+graphical models
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Lu13.pdf=====>
+Collaborative Filtering
+Online Learning
+Matrix Factorization
+Second Order Optimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Neumann13.pdf=====>
+learning in graphs and networks
+kernels on graphs
+random walks
+label propagation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Ohara13.pdf=====>
+Predictive simulation
+Influence degree
+Information diffusion
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Louche13.pdf=====>
+Multiclass classification
+Perceptron
+Noisy labels
+Confusion Matrix
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Durrant13.pdf=====>
+Random Projections
+Linear Discriminant Analysis
+Ensemble Classifiers.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Komiyama13.pdf=====>
+Multi-armed bandits
+Online Learning
+Stochastic Optimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Wirth13.pdf=====>
+Preference Learning
+Reinforcement Learning
+Monte Carlo
+Every Visit
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Premachandra13.pdf=====>
+Prediction Markets
+Stochastic Optimisation
+Belief Aggregation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Moustafa13.pdf=====>
+Manifold learning
+neighbourhood graphs
+neighbourhood topology
+divergence based graphs
+low rank covariance matrix estimation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Wu13.pdf=====>
+multi-label learning
+semi-supervised learning
+unlabeled data
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Tran13.pdf=====>
+predictive accuracy
+fortification
+description logic learning
+specificity
+sensitivity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Gieseke13.pdf=====>
+Maximum Margin Clustering
+Combinatorial Optimization
+Unsupervised Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Wang13b.pdf=====>
+Co-training
+insufficient views
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Vanck13.pdf=====>
+Covariate Shift
+Fourier Series Approximation
+Hyperbolic Cross
+Curse of Dimensionality
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Kadri13.pdf=====>
+multimodal learning
+multiple views
+multi-task kernels
+vector-valued RKHS
+cross-covariance operator
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v29/Watanabe13.pdf=====>
+on-line learning
+prediction of individual sequences
+asymptotic minimax regret
+Bayes mixture
+last-step minimax algorithm
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v7/doetsch09.pdf=====>
+KDD cup
+Area Under Curve
+Logistic Regression
+Boosting
+Decision Trees
+Model Combination
+Missing Values
+Imbalanced Data
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v7/nikulin09.pdf=====>
+ensemble classifier
+gradient-based optimisation
+boosting
+random forests
+decision trees
+matrix factorisation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v7/kurucz09.pdf=====>
+Feature selection
+classifier combination
+LogitBoost
+Alternating Decision Trees.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v7/miller09.pdf=====>
+KDD Cup 2009
+nonparametric feature selection
+generalised boosting machine
+decision trees
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v7/sorokina09.pdf=====>
+Additive Groves
+feature evaluation
+KDD Cup 09
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v7/xie09.pdf=====>
+KDD Cup
+bagging
+boosting
+data mining
+ensemble methods
+imbalanced data
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v7/lo09.pdf=====>
+Heterogeneous large dataset
+regularized maximum entropy model
+AdaBoost
+selective na¨ıve Bayes
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v7/guyon09.pdf=====>
+challenge
+classification
+customer management
+fast scoring
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v7/busa09.pdf=====>
+AdaBoost
+Multi-Armed Bandit Problem
+Upper Confidence Bound
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v12/popescu11.pdf=====>
+Causality
+spectral decomposition
+cross-correlation
+auto regressive models
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v12/roebroeck11.pdf=====>
+fMRI
+hemodynamics
+state space model
+Granger causality
+WAGS influence
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v12/moneta11.pdf=====>
+Causal inference
+econometric time series
+SVAR
+graphical causal models
+independent component analysis
+conditional independence tests
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v12/guyon11.pdf=====>
+Causality
+Benchmark
+Challenge
+Competition
+Time Series Prediction.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v12/white11.pdf=====>
+Causal Models
+Conditional Exogeneity
+Conditional Independence
+Granger Non-causality
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v3/cawley09a.pdf=====>
+regularisation
+feature selection
+causal inference
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v3/yin08a.pdf=====>
+Causal network
+Local structural learning
+Partial orientation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v3/chang08a.pdf=====>
+SVM
+feature ranking
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v3/saeed08a.pdf=====>
+Markov blanket filtering
+mixture models
+feature selection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v3/brown08a.pdf=====>
+Causal Bayesian Networks
+Causal Discovery
+Manipulations
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v3/guyon08a.pdf=====>
+challenge
+competition
+causality
+causal discovery
+feature selection
+intervention
+manipulation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v3/nikulin08a.pdf=====>
+causal relations
+random forest
+boosting
+SVM
+CLOP
+cross validation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/chiang12.pdf=====>
+Online Learning
+Regret
+Convex Optimization
+Deviation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/balcan12c.pdf=====>
+Statistical Learning Theory
+Interactive Learning
+Query Complexity
+Active Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/lim12.pdf=====>
+autonomous exploration
+reinforcement learning
+optimism in the face of uncertainty
+computational learning theory
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/garcia12.pdf=====>
+f -divergence
+Bayes risk
+comparison of experiments
+multiclass losses
+affinity
+information distance
+similarity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/fromont12.pdf=====>
+Two-sample problem
+kernel methods
+density model
+regression model
+Poisson process
+wild bootstrap
+permutation test
+adaptive tests
+aggregation methods
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/feldman12b.pdf=====>
+PAC learning
+polynomial threshold function
+smoothed analysis
+monotone DNF
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/chaudhuri12.pdf=====>
+Spectral clustering
+unsupervised learning
+normalized Laplacian
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/balcan12b.pdf=====>
+learning
+valuations
+no complementarities
+algorithmic game theory
+economics
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/ailon12.pdf=====>
+active learning
+learning to rank from pairwise preferences
+semi-supervised clustering
+clustering with side information
+disagreement coefficient
+smooth relative regret approximation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/agrawal12.pdf=====>
+multi-armed bandit
+Thompson Sampling
+Bayesian algorithm
+online learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/acharya12.pdf=====>
+Classification
+closeness testing
+competitiveness
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/kanamori12.pdf=====>
+loss function; minimum distance problem; uncertainty set; Legendre transformation; consistency.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/guntuboyina12.pdf=====>
+convexity constrained function estimation
+empirical risk minimization
+Hausdorff distance
+Kolmogorov entropy
+L1 metric
+metric entropy
+packing numbers
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/feldman12a.pdf=====>
+statistical query learning
+computational lower bounds
+evolvability
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/buchbinder12.pdf=====>
+Online Learning
+Competitive Analysis
+Experts
+MTS
+Matroids
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/verma12.pdf=====>
+Manifold Learning
+Isometric Embeddings
+Nash’s Embedding Theorem
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/belkin12.pdf=====>
+Graph Laplacian
+singularities
+limit analysis
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/servedio12.pdf=====>
+attribute-efficient learning
+polynomial threshold functions
+decision lists
+Markov’s inequality.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/bubeck12a.pdf=====>
+online linear optimization
+multi-armed bandits
+linear bandits with expert advice
+minimax regret
+exponential weights
+mirror descent
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/rudelson12.pdf=====>
+l1 minimization
+Sparsity
+Restricted Eigenvalue conditions
+Subgaussian random matrices
+Design matrices with uniformly bounded entries
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/wang12.pdf=====>
+Generalization bounds
+Pairwise loss functions
+Online learning
+Loss bounds
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/spielman12.pdf=====>
+Dictionary learning
+matrix decomposition
+matrix sparsification
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/gopalan12.pdf=====>
+Boolean functions
+Halfspaces
+Membership queries
+Branching programs
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/hedayati12.pdf=====>
+Online Learning
+Logarithmic Loss
+Bayesian Strategy
+Jeffreys Prior
+Asymptotic Normality of Maximum Likelihood Estimator
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/mcmahan12.pdf=====>
+online convex optimization
+online learning
+regret bounds
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/suzuki12.pdf=====>
+PAC-Bayes
+Multiple Kernel Learning
+Group Lasso
+Gaussian Process
+Sparse Learning
+Additive Model
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/helmbold12.pdf=====>
+Prediction model
+initial intervals
+semi-supervised learning
+error bounds
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/hellerstein12.pdf=====>
+query learning
+exact learning
+proper learning
+DNF
+certificates
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/cesa-bianchi12.pdf=====>
+Online learning
+transductive learning
+active learning
+social balance theory.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/balcan12a.pdf=====>
+Distributed Learning
+Communication Complexity
+Privacy
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/ohannessian12.pdf=====>
+Rare events
+probability estimation
+Good-Turing
+consistency
+concentration
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v23/recht12.pdf=====>
+Positive definite matrices
+Matrix Inequalities
+Randomized algorithms
+Random matrices
+Optimization
+Stochastic gradient descent
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v16/borisov11a.pdf=====>
+tree ensembles
+query by committee
+random forest
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v16/xie11a.pdf=====>
+Active Learning
+Semi-supervised Learning
+Gradient Boosting Decision Tree
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v16/settles11a.pdf=====>
+Active Learning
+Applied Machine Learning
+Human-Computer Interaction
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v16/cawley11a.pdf=====>
+pool based active learning
+ridge regression
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v16/lovel11a.pdf=====>
+automatic hypothesis generation
+closed-loop experimentation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v16/tomanek11a.pdf=====>
+active learning
+uncertainty sampling
+sample selection bias
+covariate shift
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v16/bodo11a.pdf=====>
+active learning
+large scale spectral clustering
+normalized cuts
+support vector machines
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v16/geist11a.pdf=====>
+Value function approximation
+active learning
+exploration/exploitation dilemma
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v16/lan11a.pdf=====>
+Parzen Window
+ensemble classifiers
+clustering
+feature filter
+active learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Kane13.pdf=====>
+Log-concave distributions
+smoothed analysis
+halfspaces
+agnostic learning
+Fourier analysis
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Li13.pdf=====>
+Gibbs posterior
+model selection
+oracle inequalities
+ranking
+risk minimization.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Wang13.pdf=====>
+Ranking
+Ranking measures
+NDCG
+Consistent Distinguishability
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Urner13.pdf=====>
+learning theory
+agnostic active learning
+label complexity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Bernstein13.pdf=====>
+No-regret algorithms
+Blackwell’s approachability
+Calibrated play
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Feldman13.pdf=====>
+submodular function
+decision tree
+learning
+uniform distribution
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Dasgupta13.pdf=====>
+Nearest-neighbor search
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Minsker13.pdf=====>
+Regression
+optimization
+level sets
+selective sampling
+active learning
+multiarmed bandits
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Awasthi13.pdf=====>
+PAC learning
+membership queries
+decision trees
+DNF
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Anandkumar13.pdf=====>
+Community detection
+spectral methods
+tensor methods
+moment-based estimation
+mixed membership models
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Choi13.pdf=====>
+Graph finding
+coin weighing
+Fourier coefficients
+pseudo-Boolean functions
+query complexity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Shamir13.pdf=====>
+Stochastic Convex Optimization
+Derivative-Free Optimization
+Bandit Convex Optimization
+Regret
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Anava13.pdf=====>
+Time series analysis
+online learning
+regret minimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Gofer13.pdf=====>
+Regret Minimization
+Hedge Algorithm
+Structured Experts
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Chiang13.pdf=====>
+Online Convex Optimization
+Regret
+Deviation
+Multi-Point Bandit
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Mahdavi13.pdf=====>
+learning theory
+risk minimization
+stochastic optimization
+sample complexity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Acharya13.pdf=====>
+Good-Turing estimators
+convergence rates
+linear estimators
+competitive classification
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Scott13.pdf=====>
+Label noise
+consistency
+error estimation
+mixture proportion estimation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Balcan13.pdf=====>
+Active learning
+PAC learning
+ERM
+nearly log-concave distributions
+Tsybakov lownoise condition
+agnostic learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Livni13.pdf=====>
+Compression Conjecture
+Compression Scheme
+NIP Structures
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Hutter13.pdf=====>
+sparse coding
+adaptive parameters
+Dirichlet-Multinomial
+Polya urn
+datadependent redundancy bound
+small/large alphabet
+data compression
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Agarwal13.pdf=====>
+Area under ROC curve (AUC)
+bipartite ranking
+statistical consistency
+regret bounds
+proper losses
+strongly proper losses
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Gentile13.pdf=====>
+graph transduction
+similarity prediction
+online learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Zhang13a.pdf=====>
+Random projection
+Primal solution
+Dual solution
+Low rank
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Pontil13.pdf=====>
+Multitask learning
+random matrices
+risk bounds
+trace norm regularization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Kaufmann13.pdf=====>
+Stochastic multi-armed bandits
+subset selection
+KL-divergence.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Devroye13.pdf=====>
+Online learning
+Online combinatorial optimization
+Follow the Perturbed Leader
+Random walk
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Bartlett13.pdf=====>
+SNML Exchangeability
+Exponential Family
+Online Learning
+Logarithmic Loss
+Bayesian Strategy
+Jeffreys Prior
+Fisher Information
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Berthet13.pdf=====>
+Sparse principal component analysis
+Polynomial-time reduction
+Planted clique
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Bartok13.pdf=====>
+partial monitoring
+online learning
+limited feedback
+regret analysis
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Daniely13.pdf=====>
+Bandits
+Online
+Multiclass classification
+Littlestone Dimension
+Learnability
+Large Margin Halfspaces.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Seldin13.pdf=====>
+Adversarial Multiarmed Bandits with Expert Advice
+EXP4
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Vandermeulen13.pdf=====>
+Kernel Density Estimation
+Robust Estimation
+Reproducing Kernel Hilbert Space
+Consistency
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Hardt13.pdf=====>
+robust statistics
+unique games conjecture
+principal component analysis
+subspace recovery
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v30/Anderson13.pdf=====>
+independent component analysis
+randomized reductions
+learning convex bodies
+method of moments
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v14/burges11a.pdf=====>
+Learning to Rank
+Gradient Boosted Trees
+Lambda Gradients
+Web Search
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v14/gulin11a.pdf=====>
+Learning to rank
+gradient boosting
+IR evaluation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v14/geurts11a.pdf=====>
+Learning to rank
+regression trees
+ensemble methods
+transfer learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v14/busa-fekete11a.pdf=====>
+AdaBoost
+AdaBoost.MH
+ranking
+regression calibration
+exponentially weighted forecaster
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v14/mohan11a.pdf=====>
+Ranking
+Decision Trees
+Boosting
+Random Forests
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/cerno12a.pdf=====>
+grammatical inference
+clearing restarting automata
+subword-clearing restarting automata
+formal languages.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/shibata12a.pdf=====>
+PFAs
+collapsed Gibbs sampling
+ALERGIA
+variable-length grams
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/jayasri12a.pdf=====>
+DB-machine
+bi-ω language
+learning.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/unold12a.pdf=====>
+Grammatical Inference
+Grammar-based Classifier System
+Fuzzy Grammar
+Learning Classifier System
+Amyloid Proteins
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/becerra12a.pdf=====>
+Language learning
+Pair-HMM
+Context
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/wieczorek12a.pdf=====>
+Automata induction
+Integer programming
+Grammatical inference
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/vanzaanen12a.pdf=====>
+Sequence classification
+language boundary identification
+shallow semantics
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/lopez12a.pdf=====>
+Graph languages; graph automata; k-testable languages
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/hulden12a.pdf=====>
+EM
+Baum-Welch
+probabilistic automata
+deterministic annealing.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/steffen12a.pdf=====>
+Active Automata Learning
+Mealy Machines
+Automated Alphabet Abstraction Refinement
+Register Automata
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/balle12a.pdf=====>
+Data Streams
+PDFA
+PAC Learning
+Sketching
+Bootstrapping
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/coste12a.pdf=====>
+Local substitutable languages
+context-free grammars
+inference
+proteins
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/spitkovsky12a.pdf=====>
+Dependency Grammar Induction
+Unsupervised Dependency Parsing
+Curriculum Learning
+Partial EM
+Punctuation
+Unsupervised Structure Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/chandlee12a.pdf=====>
+motion planning
+robotics
+infinite games
+grammatical inference
+automata.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/akram12a.pdf=====>
+active learning
+probabilistic transducer learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/kepler12a.pdf=====>
+Probabilistic automata learning
+Variable length n-grams
+Markov models
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/otaki12a.pdf=====>
+patterns
+substitutions
+latent structures of strings
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/vanzaanen12b.pdf=====>
+Context-free grammars
+model merging
+model splitting
+evaluation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v21/irfan12a.pdf=====>
+black box
+Mealy machine
+model inference
+testing
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/biggio11.pdf=====>
+Support Vector Machines
+Adversarial Classification
+Label Noise
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/li11.pdf=====>
+Relative novelty detection
+Maximum Mean Discrepancy
+Mixed Integer Programming
+Multiple Kernel Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/pinto11.pdf=====>
+side information
+policy gradient RL
+adaptation-based programming
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/couetoux11.pdf=====>
+Rapid Action-Value Estimates
+continuous domains
+reinforcement learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/yamagishi11.pdf=====>
+voter model
+influence degree
+attribute dependency
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/ferng11.pdf=====>
+Multi-label Classification
+Error-correcting Codes
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/zhang11.pdf=====>
+State-space model
+Non-Gaussianity
+Identifiability
+Causality
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/zhuang11.pdf=====>
+Kernel Methods
+Multiple Kernel Learning
+Unsupervised Learning
+Dimension Reduction
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/chi11.pdf=====>
+Nonlinear online classification
+probability margin
+Probability product kernel
+Gaussian mixture models
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/shin11.pdf=====>
+kernel
+discrete structure
+alignment
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/he11.pdf=====>
+Answer Summarization
+Yes/No Questions
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/kawakita11.pdf=====>
+boosting
+classification cost
+truncation rule
+face detection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/ishihata11.pdf=====>
+statistical abduction
+Bayesian inference
+Markov chain Monte Carlo
+binary decision diagrams
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/sukhbaatar11.pdf=====>
+Deep Belief Net
+Restricted Boltzmann Machine
+motion generation
+bifurcation
+limit cycle
+phase-locking
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/koide11.pdf=====>
+pattern change detection
+information diffusion
+parameter learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/ding11.pdf=====>
+Model Selection
+Matrix Approximation
+Multilevel Circulant Matrices
+Least Squares Support Vector Machine
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/yamada11.pdf=====>
+Sufficient dimension reduction
+squared-loss mutual information
+Epanechnikov kernel
+image classification
+audio tagging
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/doppa11.pdf=====>
+missing data
+rule learning
+structured and relational data
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/bailly11.pdf=====>
+grammatical inference
+non-parametric density estimation.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/dinuzzo11.pdf=====>
+Output kernel learning
+learning the kernel
+RKHS
+coordinate descent
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v20/hung11.pdf=====>
+Active Learning
+Multi-label Classification
+Support Vector Machine
+Query Criteria
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v1/jung07a.pdf=====>
+Reinforcement Learning
+Least-squares Policy Iteration
+Regularization Networks
+RoboCup
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v1/archambeau07a.pdf=====>
+Processes  Dynamical Systems
+Stochastic Processes
+Bayesian Inference
+Gaussian
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v1/pedersen07a.pdf=====>
+Image analysis
+salient image point detection
+scale selection
+fractional Brownian images
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v1/vanhatalo07a.pdf=====>
+Sparse Log Gaussian Process
+MCMC
+FITC
+pseudo-input
+Poisson
+HMC
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v2/pena07a.pdf=====>
+Graph Cuts
+Transductive Inference
+Statistical Learning
+Clustering
+Combinatorial and Convex Optimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v17/garcia-saiz11a.pdf=====>
+Educational data mining
+Classification techniques
+Data mining tools for naive users
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v17/sanchez11a.pdf=====>
+Microbial Source Tracking
+Real-World Machine Learning Applications
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v17/sudhahar11a.pdf=====>
+network analysis
+computational social science
+story grammars
+semantic triplets
+text mining
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v17/stathopoulos11a.pdf=====>
+Information Retrieval
+Generative Models
+Image Retrieval
+Mixture Models
+Variational Inference
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v17/hall11a.pdf=====>
+AVSR
+Facial Motion
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/ramaswamy14.pdf=====>
+Multiclass learning
+output codes
+consistency
+one-versus-all
+all-pairs
+error-correcting output codes
+proper composite losses
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/burnaev14.pdf=====>
+Bayesian learning
+conformal prediction
+asymptotic analysis
+Bahadur representation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/harvey14.pdf=====>
+Herding
+discrepancy theory
+deterministic sampling methods
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/kleindessner14.pdf=====>
+non-metric multidimensional scaling
+monotone mapping
+isotonic mapping
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/maurer14.pdf=====>
+Concentration inequalities
+multitask learning
+Rademacher complexity
+risk bounds
+structured sparsity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/hardt14b.pdf=====>
+Matrix Completion
+Computational Hardness
+Coloring
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/daskalakis14.pdf=====>
+Gaussian mixture models
+proper learning
+robust statistics
+hypothesis selection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/kanade14.pdf=====>
+reliable learning
+agnostic learning
+attribute-efficiency
+polynomial approximations
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/vanerven14.pdf=====>
+Online learning
+regret bounds
+expert setting
+Follow the Leader
+Follow the Perturbed Leader
+Dropout
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/anderson14.pdf=====>
+Gaussian mixture models
+tensor methods
+blessing of dimensionality
+smoothed analysis
+Independent Component Analysis
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/samei14.pdf=====>
+multi-label concept classes
+sample compression
+VC dimension
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/hazan14b.pdf=====>
+Learning basis
+Multi-Armed Bandit
+Active Learning
+Spanners
+Convex Geometry
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/bandeira14.pdf=====>
+Convex relaxations
+Maximum likelihood estimator
+Procrustes problem
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/xu14.pdf=====>
+Community Detection
+Stochastic Blockmodel
+Spectral Methods
+Galton-Watson Tree
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/mcmahan14.pdf=====>
+Online learning
+minimax analysis
+online convex optimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/alamgir14.pdf=====>
+Vector quantization
+kNN graph
+sampling
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/tolstikhin14.pdf=====>
+Statistical Learning
+Transductive Learning
+Fast Rates
+Localized Complexities
+Concentration Inequalities
+Empirical Processes
+Kernel Classes
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/gofer14.pdf=====>
+Online Learning
+Regret Minimization
+Switching Costs
+Online Linear Optimization
+Option Pricing
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/hazan14a.pdf=====>
+Logistic regression
+Stochastic optimization
+Online learning
+Lower bounds
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/menon14.pdf=====>
+Bipartite ranking
+p-norm push
+class-probability estimation
+proper losses
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/chandrasekaran14.pdf=====>
+algorithms
+learning
+bandits
+biased coin
+Bayesian
+ranking and selection
+sequential selection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/williamson14.pdf=====>
+convex bodies
+support functions
+gauges
+polars
+proper losses
+distorted probabilities
+inverse losses
+entropies
+norms
+Bregman divergences
+aggregating algorithm
+substitution functions
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/agarwal14a.pdf=====>
+Dictionary learning
+sparse coding
+overcomplete dictionaries
+alternating minimization
+lasso
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/agarwal14b.pdf=====>
+multi-objective learning
+apprenticeship learning
+random matrix games
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/mannor14.pdf=====>
+Online learning
+multi-objective optimization
+approachability
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/guha14.pdf=====>
+Thompson Sampling
+Multi-armed bandits
+Stochastic optimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/steinwart14.pdf=====>
+Elicitation
+property
+scoring function
+identification function
+risk measure
+expectile
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/kaufmann14.pdf=====>
+Sequential testing
+Best arm identification
+Bandit models
+Sample complexity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/bhaskara14a.pdf=====>
+Kruskal uniqueness theorem
+tensor decomposition
+latent variable models
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v35/jamieson14.pdf=====>
+Multi-armed bandit
+upper confidence bound (UCB)
+iterated logarithm
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v18/jahrer12a.pdf=====>
+Collaborative Filtering
+Ensemble Learning
+KDD Cup
+Rating Prediction
+Music Ratings
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v18/jahrer12b.pdf=====>
+Collaborative Filtering
+Ensemble Learning
+KDD Cup
+Rating Prediction
+Ranking
+Music Ratings
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v18/lai12a.pdf=====>
+recommender system
+collaborative filtering
+item-based
+latent factor model
+model ensemble
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v18/xie12a.pdf=====>
+KDD Cup
+feature engineering
+recommender systems
+kNN
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v18/kong12a.pdf=====>
+collaborative filtering
+recommender systems
+square counting method
+complex network
+rating network
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v18/zhang12a.pdf=====>
+KDD Cup 2011
+musical track ranking
+ranking prediction
+prediction model
+artificial neural network
+gradient boosting decision tree
+committee of predictors
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v18/gantner12a.pdf=====>
+matrix factorization
+collaborative filtering
+personalization
+ranking
+music recommendation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v18/mnih12a.pdf=====>
+Collaborative Filtering
+Implicit Feedback
+Machine Learning
+Ranking
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/mani10a.pdf=====>
+Causal data mining
+Markov blanket
+Y structures
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/zheng10a.pdf=====>
+Boolean network
+Reverse engineering
+Structural learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/saeed10a.pdf=====>
+boolean networks
+boolean rules
+Bernoulli mixture models
+feature selection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/dawid10a.pdf=====>
+Directed acyclic graph
+conditional independence
+probabilistic causality
+statistical causality
+causal DAG
+augmented DAG
+Pearlian DAG
+causal discovery
+causal Markov condition
+reification fallacy
+instrumental variable
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/mooij10a.pdf=====>
+causal inference
+benchmarks
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/mwebaze10a.pdf=====>
+Bayesian Network
+feature ranking
+relevance learning
+committee method
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/haufe10a.pdf=====>
+Vector Autoregressive Model
+Granger Causality
+Group Lasso
+Multiple Testing
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/guyon10a.pdf=====>
+Causality
+Bayesian Networks
+Benchmark
+Challenge
+Competition
+re-simulated data
+probe method
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/jenkins10a.pdf=====>
+Boolean pseudodynamics
+plant signaling network
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/pearl10a.pdf=====>
+Structural equation models
+confounding
+graphical methods
+counterfactuals
+causal effects
+potential-outcome
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/tillman10a.pdf=====>
+causal discovery
+prediction
+interventions
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/statnikov10a.pdf=====>
+local causal discovery
+Markov boundary induction
+variable selection
+classification
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/mccann10a.pdf=====>
+Causal discovery
+feature selection
+semi-conductor manufacturing
+industry
+business improvement techniques
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/zhang10a.pdf=====>
+causal discovery
+sensor distortion
+additive noise
+nonlinear independent component analysis
+independence tests
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/nolte10a.pdf=====>
+Phase Slope Index
+Granger Causality
+Noise
+Nonlinearity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/eberhardt10a.pdf=====>
+causal discovery
+interventions
+search strategy
+game theory
+worst and expected case analysis
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/zhou10a.pdf=====>
+Causal network
+Local structural learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/voortman10a.pdf=====>
+Causal discovery
+dynamic systems
+manipulations
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v6/duvenaud10a.pdf=====>
+Bayesian Networks
+Graphical models
+Structure Learning
+Causality
+Interventions
+Cell signalling networks
+Bioinformatics
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v38/lebanon15.pdf=====>
+cost-sensitive classification
+one-versus-one
+meta-learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/chiang12.pdf=====>
+Multi-Label classification
+Nearest neighbor classification
+Ranking
+Optimization
+Generalized pattern search
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/asbeh12.pdf=====>
+learning latent variable models
+graphical models
+clustering
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/trapeznikov12.pdf=====>
+multi-stage classification
+sequential decision
+boosting
+cost sensitive learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/yasutake12.pdf=====>
+online learning
+ranking
+rank aggregation
+permutation
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/neven12.pdf=====>
+adiabatic quantum computing
+discrete optimization
+machine learning
+supervised learning
+boosting
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/tran12a.pdf=====>
+Cumulative restricted Boltzmann machine
+ordinal analysis
+matrix data
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/vovk12.pdf=====>
+Inductive conformal predictors
+conditional validity
+batch mode of learning
+boosting
+MART
+spam detection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/chatzis12.pdf=====>
+Collaborative filtering
+factor analysis
+Indian Buffet Process
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/klami12.pdf=====>
+Canonical correlation analysis
+matching
+permutation matrix
+variational Bayes
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/sasaki12.pdf=====>
+independent component analysis
+topographic representation
+higher order correlation
+linear correlation
+natural image statistics
+natural language processing
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/liu12a.pdf=====>
+subgraph matching
+convex relaxation
+concave relaxation
+feature correspondence
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/prabhakaran12.pdf=====>
+Network inference
+Gaussian graphical models
+pairwise Euclidean distances
+MCMC
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/wang12b.pdf=====>
+Monte-Carlo tree search
+multi-objective optimization
+sequential decision
+hypervolume indicator
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/tran12c.pdf=====>
+description logic
+class expression learning
+parallel learning
+exception
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/kawajiri12.pdf=====>
+WLAN Localization
+Route Annotation
+Self-Training
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/azmandian12.pdf=====>
+Feature Selection
+Outlier Detection
+Anomaly Detection
+Imbalanced Data
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/feraud12.pdf=====>
+Multi-armed bandits
+Serfling inequality
+drawing without replacement
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/haimovitch12.pdf=====>
+Sentiment Analysis
+Semi-Supervised Learning
+Domain Adaptation
+Weakly Supervised Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/mao12.pdf=====>
+Automata Learning
+Relational Learning
+Probabilistic Model Checking
+Network Data
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/demyanov12.pdf=====>
+AIC
+BIC
+SVM
+RBF kernel
+model selection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/liu12b.pdf=====>
+Key instance detection
+multi-instance learning
+neighborhood relation
+voting framework
+iterative rejection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/adhikari12.pdf=====>
+Multiresolution
+Mixture Models
+KL Divergence
+0-1 data
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/li12.pdf=====>
+Active Learning
+Support Vector Machine
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/yang12.pdf=====>
+Large scale classification
+Polynomial approximation
+Look-Up Table
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/madani12.pdf=====>
+Classifier Combination
+Independent Features
+High Precision
+Late Fusion
+Early Fusion
+Ensembles
+Multiple Views
+Supervised Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/aboumoustafa12.pdf=====>
+Divergence measures
+Gaussian densities
+manifold learning
+Riemannian metric for covariance matrices.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/nakajima12.pdf=====>
+Variational Bayes
+Robust PCA
+Matrix Factorization
+Sparsity
+Modelinduced Regulariztion
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/tran12b.pdf=====>
+Ordered sets
+ranking with ties
+split-merge
+MCMC
+latent models
+Boltzmann machines
+collaborative filtering
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/than12.pdf=====>
+supervised dimension reduction
+topic models
+scalability
+local structure
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/zhou12.pdf=====>
+PU learning
+density ratio estimation
+multi-view learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/fan12.pdf=====>
+online learning
+clustering
+Dirichlet process
+nonparametric Bayesian
+variational Bayes
+generalized Dirichlet mixtures
+localized feature selection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v25/navaroli12.pdf=====>
+Email analysis
+Changepoint detection
+Hidden Markov models
+Poisson regression
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v10/jaiantilal10a.pdf=====>
+Feature selection
+L1 penalized algorithms
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v10/gorodetsky10a.pdf=====>
+ontology
+object data base
+feature aggregation
+cause-consequence dependency
+non-classical probabilistic space
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v10/zagoruiko10a.pdf=====>
+Pattern recognition
+Function of Rival Similarity
+Compactness
+Iformativeness
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v10/xie10a.pdf=====>
+Dissimilarity
+Categorical Data
+Learning Algorithm
+Classification
+Feature Selection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v10/nguyen10a.pdf=====>
+Feature Extraction
+Dimensionality Reduction
+Outlier Detection
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v10/salehi10a.pdf=====>
+Statistical Implicative Analysis
+multiple dependencies
+Bayesian network.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v10/esseghir10a.pdf=====>
+Feature selection
+Combinatorial optimization
+Hybrid modeling
+GRASP
+Local Search
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v10/liu10b.pdf=====>
+Feature Selection
+Feature Extraction
+Dimension Reduction
+Data Mining
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v10/sanasam10a.pdf=====>
+Text categorization
+feature selection
+gini coefficient
+within class popularity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v24/vlachos12a.pdf=====>
+Real-world Applications
+Imitation Learning
+Natural Language Processing
+Structured Prediction.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v24/metzen12a.pdf=====>
+Hierarchical Reinforcement Learning
+Skill Discovery
+Multi-task Learning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v24/mann12a.pdf=====>
+Reinforcement Learning
+Transfer Learning
+Directed Exploration
+Sample Complexity
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v24/castronovo12a.pdf=====>
+Reinforcement Learning
+Exploration/Exploitation dilemma
+Formula discovery
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v24/goschin12a.pdf=====>
+Multi-armed bandits
+Planning under uncertainty
+Stochastic optimization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v11/price10a.pdf=====>
+vector space model
+cosine similarity
+web services
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v11/xie10a.pdf=====>
+F -score
+support vector machines
+feature selection
+sequential forward floating search
+erythemato-squamous diseases
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v11/lagarda10a.pdf=====>
+Interactive Machine Translation
+Interactive Speech Transcription
+Automatic Closed Captioning
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v11/rozza10a.pdf=====>
+Fisher subspace
+Online learning
+EEG classification.
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v11/dali10a.pdf=====>
+Information retrieval
+learning to rank
+personalization
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v11/trampus10a.pdf=====>
+Visualizations
+Text Mining
+Politology
+Dimensionality reduction
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v11/okita10a.pdf=====>
+Probability density estimation problem
+Noise
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v11/corona10a.pdf=====>
+Intrusion Detection
+Unsupervised learning
+Web services
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v11/ariu10a.pdf=====>
+Intrusion Detection
+Anomaly Detection
+HMM
+Multiple Classifiers Systems
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v11/smith10a.pdf=====>
+Face expression recognition
+local binary patterns
+feature selection
+multiclassifier systems
+/home/sorkhei/Desktop/LDAPapers/JMLR/Preceedings/v9/guo10a.pdf=====>
+Average causal effect
+Propensity variable
+Linear discriminant
+Quadratic discriminant
+Sufficient covariate
