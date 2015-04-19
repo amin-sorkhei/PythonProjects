@@ -2,8 +2,9 @@ from student import student
 from course import student_course
 import re
 import itertools
-import time
-import pickle
+import numpy as np
+import matplotlib.pyplot as plt
+
 
 
 support_count_dic = {}
@@ -143,8 +144,7 @@ def print_dic():
 def main():
     students_list, course_info_dictionary = read()
     transactions = []
-    for std in students_list:
-        transactions.append([course.course_code for course in std.course_list])
+    '''
     items = course_info_dictionary.keys()
     start = time.clock()
     final_items = item_gen(items, transactions, threshold=0.2)
@@ -157,8 +157,85 @@ def main():
 
     pickle.dump(support_count_dic, open('dic.pic', 'w'))
     open('dic.txt', 'w').write(print_dic())
-    print(final_frequent_closed_itemsets)
+    print(final_frequent_closed_itemsets)'''
 
 
+    course_names = map(lambda x: x[0], course_info_dictionary.values())
+    year = range(2007, 2016)
+    course_grade_dic = {key: {key: [] for key in year} for key in course_names}
+
+    for student in students_list:
+        for course in student.get_course():
+            course_year = int(course.course_year_month.split('-')[0])
+            name = course.course_name
+            course_grade_dic[name][course_year].append(int(course.final_grade))
+
+    candidates = [u'Logiikka I', u'Yleinen kemia II']
+    for candidate in candidates:
+        result = []
+        print candidate
+        for year in range(2007, 2016):
+            grade_year = course_grade_dic[candidate][year]
+            if grade_year:
+                result.append((year, np.mean(grade_year)))
+        print result
+        fig, ax = plt.subplots()
+        ax.xaxis.set_ticklabels(map(lambda x: x[0], result))
+
+        plt.plot(map(lambda x: x[0], result), map(lambda x: x[1], result),'orange')
+        plt.legend([candidate], loc='loc=upper left')
+        plt.show()
+    '''programming_dic = {'Intro_fail': 0,
+                       'Intro_pass': 0,
+                       'Intro_1-3': 0,
+                       'Intro_4-5': 0,
+                       'Adv_fail': 0,
+                       'Adv_pass': 0,
+                       'Adv_1-3': 0,
+                       'Adv_4-5': 0,
+                       'Intro_failAdv_fail': 0,
+                       'Intro_failAdv_pass': 0,
+                       'Intro_passAdv_fail': 0,
+                       'Intro_passAdv_pass': 0,
+                       }
+    for std in students_list:
+        intro = False
+        advanced = False
+        for course in std.get_course():
+
+            if course.course_name == 'Ohjelmoinnin perusteet':
+                intro = course
+                if course.failed:
+                    programming_dic['Intro_fail'] += 1
+                elif course.passed_1_3:
+                    programming_dic['Intro_pass'] += 1
+                    programming_dic['Intro_1-3'] += 1
+                elif course.passed_4_5:
+                    programming_dic['Intro_pass'] += 1
+                    programming_dic['Intro_4-5'] += 1
+            elif course.course_name == 'Ohjelmoinnin jatkokurssi' or course.course_name == 'Java-ohjelmointi':
+                advanced = course
+                if course.failed:
+                    programming_dic['Adv_fail'] += 1
+                elif course.passed_1_3:
+                    programming_dic['Adv_pass'] += 1
+                    programming_dic['Adv_1-3'] += 1
+                elif course.passed_4_5:
+                    programming_dic['Adv_pass'] += 1
+                    programming_dic['Adv_4-5'] += 1
+
+        if intro and advanced:
+                if intro.failed and advanced.failed:
+                    programming_dic['Intro_failAdv_fail'] += 1
+                elif intro.failed and advanced.passed:
+                    programming_dic['Intro_failAdv_pass'] += 1
+                elif intro.passed and advanced.failed:
+                    programming_dic['Intro_passAdv_fail'] += 1
+                elif intro.passed and advanced.passed:
+                    programming_dic['Intro_passAdv_pass'] += 1
+
+    for key in programming_dic.keys():
+        print(key, float(programming_dic[key])/len(students_list))'''
 if __name__ == '__main__':
     main()
+

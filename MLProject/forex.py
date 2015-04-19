@@ -146,7 +146,7 @@ def main():
     for item in order_one_CPT.items():
         print item
     predicted_y = np.zeros(test_data.size)
-    for i in range(1, )
+
 
 if __name__ == '__main__':
     main()
