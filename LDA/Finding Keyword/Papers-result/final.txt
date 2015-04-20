@@ -1,0 +1,6702 @@
+on-line learning
+shortest path problem
+multi-armed bandit problem
+expectation maximization
+mixtures of Gaussians
+clustering
+unsupervised learning
+probabilistic analysis
+prototype based classification
+learning vector quantization
+Winner-Takes-All algorithms
+on-line learning
+competitive learning
+graphs
+graph Laplacians
+semi-supervised learning
+spectral clustering
+dimensionality reduction
+maximum entropy
+density estimation
+regularization
+iterative scaling
+species distribution modeling
+kernel methods
+support vector machines
+sparseness
+estimating conditional probabilities
+stochastic learning algorithms
+Robbins-Monro application
+pattern recognition
+classification algorithm
+feature selection
+classifier ensembles
+boosting
+neural networks
+nonlinear projections
+linear discriminant analysis
+Fisher criterion
+small sample
+characterization
+semi-supervised learning
+statistical learning theory
+classification
+cluster assumption
+generalization bounds
+BIC
+EM
+mixture model
+penalized likelihood
+soft-thresholding
+shrinkage
+incremental algorithms
+online learning
+concept drift
+decision trees
+robust learners
+classification
+hierarchical Bayesian models
+Dirichlet process
+online learning
+multitask learning
+multiclass multilabel classiifcation
+perceptron
+clustering
+k-means algorithm
+convex analysis
+support and asymptotic functions
+distance-like functions
+Bregman and Csiszar divergences
+nonlinear means
+nonsmooth optimization
+smoothing algorithms
+fixed point methods
+deterministic annealing
+expectation maximization
+information theory and entropy methods
+local discriminant coordinates
+invariant entropy
+logistic model
+wavelet packet
+face recognition
+illumination
+pose and expression variations
+refinable kernels
+refinable feature maps
+wavelet-like reproducing kernels
+dual kernels
+learning with kernels
+reproducing kernel Hilbert spaces
+Riesz bases
+quadratic discriminant analysis
+regularized quadratic discriminant analysis
+Bregman divergence
+data-dependent prior
+eigenvalue decomposition
+Wishart
+functional analysis
+directional data
+spherical distributions
+normal distributions
+norm normalization
+linear and non-linear classifiers
+computer vision
+relational learning
+network learning
+collective inference
+collective classification
+networked data
+probabilistic relational models
+network analysis
+network data
+convex quadratic optimization
+decomposition algorithms
+support vector machines
+loop corrections
+approximate inference
+graphical models
+factor graphs
+belief propagation
+anytime algorithms
+decision tree induction
+lookahead
+hard concepts
+resource-bounded reasoning
+belief propagation
+loop calculus
+approximate inference
+partition function
+Ising grid
+random regular graphs
+medical diagnosis
+relational learning
+probabilistic relational models
+knowledge discovery
+graphical models
+dependency networks
+pseudolikelihood estimation
+transfer learning
+reinforcement learning
+temporal difference methods
+value function approximation
+inter-task mapping
+classification
+drug discovery
+fraud detection
+rare events
+unbalanced data
+multiclass classification
+consistency
+Bayes risk
+set covering machines
+sample-compression
+loss bounds
+grammatical inference
+context-free languages
+positive data only
+reduction system
+natural languages
+kernel methods
+matrix kernels
+equivariance
+group integration
+representation theory
+Hough transform
+signal processing
+Volterra series
+Markov decision processes
+reinforcement learning
+value function approximation
+manifold learning
+spectral graph theory
+kernel
+sets of features
+histogram intersection
+multi-resolution histogram pyramid
+approximate matching
+object recognition
+embedding algorithms
+manifold learning
+exponential families
+multidimensional scaling
+matrix factorization
+semidefinite programming
+multi-class classification
+error-correcting output codes
+structured outputs
+machine learning
+open source
+reproducibility
+creditability
+algorithms
+software
+neural networks
+online training
+selective attention
+activation functions
+receptive fields
+boosting algorithms
+LogitBoost
+AdaBoost
+class probability estimation
+over-sampling
+under-sampling
+stratification
+data jittering
+conditional random fields
+graphical models
+sequence labeling
+random walks
+uniform distribution learning
+cryptographic hardness
+correlated data
+PAC learning
+dimensionality reduction
+supervised learning
+Fisher discriminant analysis
+locality preserving projection
+affinity matrix
+inductive logic programming
+subsumption
+bottom-up learning
+learning with queries
+PAC-Bayes
+risk bounds
+sample-compression
+set covering machines
+decision list machines
+naive Bayes
+Bayesian
+model selection
+model averaging
+multi-class discriminant analysis
+large margin classifiers
+uniform strong laws of large numbers
+generalized VC dimensions
+multi-class SVMs
+structural risk minimization inductive principle
+model selection
+statistical learning theory
+PAC-Bayes theorems
+generalization error bounds
+dimension reduction
+l1 norm
+Johnson-Lindenstrauss (JL) lemma
+Cauchy random projections
+maximum margin classifier
+support vector machine
+decision tree
+CART
+SVM
+CVM
+large scale
+KKT gap
+stopping condition
+stopping criteria
+backward step
+boosting
+convexity
+Lasso
+regularization path
+online learning
+internal regret
+external regret
+multi-arm bandit
+sleeping experts
+reductions
+latent variable models
+variational Bayesian learning
+graphical models
+building blocks
+Bayesian modelling
+local computation
+rankboost
+ranking
+convex/concave
+regularization
+bilinear
+decomposition
+component
+classification
+regularization
+perceptron algorithm
+on-line learning
+noise tolerance
+kernel methods
+boosting
+adaboost
+consistency
+semi-Markov decision processes
+hierarchical reinforcement learning
+average reward reinforcement learning
+hierarchical and recursive optimality
+asymptotic consistency
+DAG
+graphical model
+PC-algorithm
+skeleton
+classification
+ordinal data
+support vector machines
+neural networks
+Bayesian networks
+structure learning
+continuous variables
+hidden variables
+rule learning
+na¨ıve Bayes
+statistical relational learning
+inductive logic programming
+modal clustering
+mode-based clustering
+mixture modeling
+modal EM
+ridgeline EM
+nonparametric density
+classification
+imprecise class distribution
+minimax regret
+minimax deviation
+neural networks
+step size adaptation
+gain vector adaptation
+stochastic meta-descent
+kernel Hebbian algorithm
+online learning
+canonical correlation analysis
+kernel
+consistency
+regularization
+Hilbert space
+statistical learning
+reproducing kernel Hilbert spaces
+support vector machines
+representer theorem
+regularization theory
+missing data
+classification
+classification trees
+decision trees
+imputation
+undercomplete blind subspace deconvolution
+independent subspace analysis
+joint decorrelation
+kernel methods
+transductive learning
+graph learning
+Laplacian regularization
+normalization of graph Laplacian
+model selection
+kernel methods
+Bayesian regularisation
+generalization
+grouping
+sequential quadratic programming
+support vectors
+covariate shift
+cross validation
+importance sampling
+extrapolation
+brain-computer interface
+feature generation
+text classification
+background knowledge
+support vector machines
+large margin classifiers
+kernel regression
+probabilistic models
+quadratic entropy
+Gini index
+growth transformation
+authorship attribution
+one-class learning
+unmasking
+decision tree learning
+error decomposition
+majority classes
+sampling error
+attribute selection bias
+computational learning theory
+behavioral shaping
+active learning
+compression schemes
+VC dimension
+maximum classes
+one-inclusion graph
+attribute-efficient
+non-adaptive
+membership query
+DNF
+parity function
+random linear code
+data mining theory
+complex data
+binary data
+itemsets
+face detection
+pose estimation
+convolutional networks
+energy based models
+object recognition
+concept learning
+online learning
+ensemble methods
+concept drift
+logistic regression
+feature selection
+l1 regularization
+regularization path
+interiorpoint methods.
+ranking
+ROC curve and AUC
+empirical risk minimization
+fast rates
+text processing
+local smoothing
+rank regression
+probabilistic approach
+2D partitioning
+non parametric estimation
+Bayesian model selection
+learning theory
+relevance
+classification
+Markov blanket
+bioinformatics
+reproducing kernel Hilbert space
+non-parametric Bayesian methods
+L´evy processes
+Dirichlet processes
+integral operator
+Gaussian processes
+kernel machines
+duality
+optimization
+convex analysis
+kernel learning
+Gaussian kernel
+flexible variances
+learning theory
+Glivenko-Cantelli class
+regularization scheme
+empirical covering number
+co-clustering
+matrix approximation
+Bregman divergences
+Bregman information
+maximum entropy
+Reinforcement Learning
+Q-learning
+Multiagent Learning
+k Nearest Neighbor (kNN)
+Fuzzy Interval Number (FIN)
+Metric Distance
+Classification
+Prediction
+Sugar Industry.
+Kernels
+Multiplicative Updates
+On-Line Algorithms
+Series Parallel Digraphs.
+physics  bootstrap
+kernel machines
+Gaussian processes
+approximate inference
+statistical
+Steganography
+Watermarking
+Information-Hiding
+Authentication
+ICA
+Natural Language Processing
+Information Extraction
+Relational Learning
+ICA
+Blind Source Separation
+Nonlinear ICA
+Mutual Information
+User Modeling
+Preference Elicitation
+Personalization
+Neural Networks
+Decision Theory
+corpus-based acquisition
+lexicon learning
+generative lexicon
+inductive logic programming
+subsumption under object identity
+private properties
+Information geometry
+em algorithm
+Kernel matrix completion
+Bacteria clustering
+Blind Source Separation
+Post-nonlinear Mixture
+Gaussianization
+Maximal Correlation
+Temporal Decorrelation
+Emotion
+hybrid learning
+autonomous robots
+Kernel Machines
+Large margin classifiers
+Canonical Correlation Analysis
+Independent component analysis
+blind source separation
+overlearning
+overfitting
+spikes
+bumps
+high-order ICA.
+Empirical Bayes
+Multitask learning
+Mixture of experts
+Multilevel analysis
+Model-based Clustering
+Similarity-based Clustering
+Partitional Clustering
+Hierarchical Agglomerative Clustering
+Deterministic Annealing
+Computational learning theory
+Pattern recognition
+PAC model
+Support vector machines
+Sparseness
+Independent Components Analysis
+Density Estimation
+Overcomplete Representations
+Sparse Representations
+Grammar Induction
+Occam’s Razor
+Finite State Automata
+Abbadingo One Learning Competition
+Error-correcting output codes
+all-pairs ECOC matrix
+multiclass support vector machines
+Computational auditory scene analysis (CASA)
+blind signal separation (BSS)
+independent component analysis (ICA)
+generalized Gaussian distribution
+sparse coding
+Bayes model averaging
+stacking
+robustness
+model selection
+Learning Probabilistic Models
+Expected Utility
+Relative Entropy
+Pareto Optimality
+Robustness
+Probabilistic models
+Bayesian networks
+numerical probabilities
+elicitation
+selection biases
+learning
+combining knowledge
+Blind Source Separation
+Multiscale transforms
+Maximum Likelihood
+Wavelets
+recursive neural networks
+recurrent neural networks
+directed acyclic graphs
+graphical models
+lateral processing
+protein structure
+contact maps
+Bayesian networks
+Winnow
+Concept Tracking
+On-line Learning
+Segmentation
+illumination
+reflectance
+Potts model
+general autoregressive model
+Bayesian networks
+structural learning
+object orientation
+knowledge fusion
+Bayesian networks
+graphical Markov model inclusion
+inclusion boundary
+structure learning
+Reinforcement Learning
+Markov Decision Processes
+Approximate Policy Iteration
+Value-Function Approximation
+Least-Squares Methods
+Independent component analysis
+graphical models
+blind source separation
+time series
+semiparametric models
+independent component analysis
+statistical mechanics
+Hebbian learning
+diffusion
+natural gradient
+Adaptive Testing
+Decision Trees
+Neural Decoding
+Boosting
+Learning with Noise
+Linear Threshold Functions
+Neural Networks
+Ensembles
+Committees
+Bagging
+blind source separation
+generalized eigenvalue decomposition
+non-Gaussian
+nonwhite
+non-stationary
+ILP
+expert-assistance
+relevance of background predicates
+Independent component analysis
+source separation
+information geometry
+mutual information
+minimum entropy
+non-Gaussianity
+cumulant expansions
+decision trees
+learning curves
+logistic regression
+ROC analysis
+tree induction
+Inductive Logic Programming
+Program Analysis
+PAC learning
+exact learning
+axis-parallel objects
+minimizing formula size
+Boolean formulas.
+ILP
+expert-assistance
+relevance of background predicates
+Bayesian sequence prediction
+mixture distributions
+Solomonoff induction
+Kolmogorov complexity
+learning
+universal probability
+tight loss and error bounds
+Paretooptimality
+games of chance
+classification
+Steganography
+Watermarking
+Information-Hiding
+Authentication
+ICA
+Blind Source Separation
+Nonlinear ICA
+Mutual Information
+Blind Source Separation
+Post-nonlinear Mixture
+Gaussianization
+Maximal Correlation
+Temporal Decorrelation
+Independent component analysis
+blind source separation
+overlearning
+overfitting
+spikes
+bumps
+high-order ICA
+Independent Components Analysis
+Density Estimation
+Overcomplete Representations
+Sparse Representations
+Computational auditory scene analysis (CASA)
+blind signal separation (BSS)
+independent component analysis (ICA)
+generalized Gaussian distribution
+sparse coding
+Blind Source Separation
+Multiscale transforms
+Maximum Likelihood
+Wavelets
+Segmentation
+illumination
+reflectance
+Potts model
+general autoregressive model
+Independent component analysis
+graphical models
+blind source separation
+time series
+semiparametric models
+independent component analysis
+statistical mechanics
+Hebbian learning
+diffusion
+natural gradient
+blind source separation
+generalized eigenvalue decomposition
+non-Gaussian
+nonwhite
+non-stationary
+Independent component analysis
+source separation
+information geometry
+mutual information
+minimum entropy
+non-Gaussianity
+cumulant expansions
+shallow parsing
+memory-based learning
+feature selection
+system combination
+Chunking
+Shallow parsing
+Part-of-speech taggers
+Hidden Markov models
+Maximum entropy learning
+Transformation-based learning
+Symbolic Learning
+Rule Induction
+Learning Exceptions
+Natural Language Processing
+Chunking
+Shallow Parsing
+Text Chunking
+Clause Identiﬁcation
+Statistical Language Modeling
+Specialized HMMs
+exact learning
+query learning
+combinatorial auctions
+preference elicitation.
+Transductive Confidence Machine
+on-line prediction
+Kernels
+support vector machines
+generative models
+Hellinger divergence
+KullbackLeibler divergence
+Bhattacharyya affinity
+expected likelihood
+exponential family
+graphical models
+latent models
+hidden Markov models
+dynamical systems
+mean field
+topic models
+belief propagation
+variational Bayes
+Gibbs sampling
+online learning
+confidence prediction
+text categorization
+regularization
+strong convexity
+regret bounds
+generalization bounds
+multi-task learning
+multi-class learning
+multiple kernel learning
+CART
+causal inference
+confounding
+interaction
+observational study
+personalized medicine
+recursive partitioning
+global optimization
+model selection
+neural networks
+deep learning
+response surface modeling
+non-smooth optimization
+max-margin methods
+multivariate performance measures
+Support Vector Machines
+smoothing
+gesture recognition
+action recognition
+Grassmann manifolds
+product manifolds
+one-shot-learning
+kinect data
+active learning
+selective sampling
+model selection
+classification
+confidence bands
+active learning
+selective sampling
+sequential design
+statistical learning theory
+PAC learning
+sample complexity
+boosting
+ADA BOOST.MH
+FILTER BOOST
+cascade classifier
+random forests
+randomization
+sparsity
+dimension reduction
+consistency
+rate of convergence
+nonnegative matrix factorization
+initialization methods
+quality measures
+scripting
+Python
+reinforcement learning
+transfer
+shaping
+skills
+support vector regression
+Newton methods
+coordinate descent methods
+regression
+random matrices
+dimension reduction
+optical character recognition
+probability bounding
+document-specific modeling
+computer vision
+Gaussian graphical model selection
+high-dimensional learning
+local-separation property
+walk-summability
+necessary conditions for model selection
+machine translation
+structured prediction
+large-margin methods
+online learning
+distributed computing
+human parsing
+action recognition
+part-based models
+hierarchical poselets
+maxmargin structured learning
+matrix coherence
+statistical leverage
+randomized algorithm
+crowdsourcing
+multiple annotators
+ranking annotators
+spammers
+machine learning
+statistical models
+Java
+bioinformatics
+classification
+local and global scaling
+shared near neighbors
+hubness
+classification
+curse of dimensionality
+nearest neighbor relation
+distributed computing
+online learning
+stochastic optimization
+regret bounds
+convex optimization
+sparsity
+kernel
+non-parametric
+convex
+minimax
+machine learning
+graphical models
+computer vision
+open-source software
+multi-stage
+Dantzig selector
+LASSO
+sparse signal recovery
+recommender systems
+collaborative filtering
+evaluation metrics
+multiple-instance learning
+learning theory
+sample complexity
+PAC learning
+supervised classification
+SVM
+large-scale learning
+online learning
+stochastic gradient descent
+kernel methods
+clustering
+active clustering
+k-median
+approximation algorithms
+approximation stability
+clustering accuracy
+protein sequences
+multiple kernel learning
+kernel fisher discriminant analysis
+regularised least squares
+support vector machines
+hybrid dynamical systems
+evolutionary computation
+symbolic piecewise functions
+symbolic binary classification
+clustering
+multi-assignments
+overlapping clusters
+Boolean data
+role mining
+latent feature models
+multiple kernel learning
+learning kernels
+generalization bounds
+local Rademacher complexity
+boosting
+convex analysis
+weak learnability
+coordinate descent
+maximum entropy
+feature selection
+generalization
+learning theory
+mixability
+multiclass
+prediction with expert advice
+proper loss
+learning rates
+associative memory
+pattern completion
+pattern correction
+quantum computation
+quantum search
+beta-binomial
+normal-binomial
+balanced accuracy
+Bayesian inference
+group studies
+instrumental variables
+instrumental inequality
+causal bounds
+convex polytope
+latent variables
+directed acyclic graph
+sparse inverse covariance selection
+sparsity
+graphical lasso
+Gaussian graphical models
+graph connected components
+concentration graph
+large scale covariance estimation
+Mahalanobis distance
+semidefinite programming
+column generation
+boosting
+Lagrange duality
+large margin nearest neighbor
+regularization
+dual averaging
+partly smooth manifold
+manifold identification
+Gaussian process regression
+domain decomposition method
+partial independent conditional
+bagging for Gaussian process
+local probabilistic regression
+transfer learning
+meta-generalising
+multi-task learning
+Gaussian processes
+mixture of experts
+large-margin classifiers
+hinge functions
+logistic functions
+coherence functions
+C learning
+outlier
+reproducing kernel Hilbert space
+kernel trick
+influence function
+M-estimation
+matrix rank minimization
+matrix completion
+iterative algorithms
+null-space property
+Python
+data mining
+natural language processing
+machine learning
+graph networks
+multi-task
+oracle inequality
+learning theory
+multi-target prediction
+rule learning
+rule ensembles
+regression
+robust optimization
+uncertain classification
+kernel functions
+statistics  unnormalized models
+partition function
+computation
+estimation
+natural image
+supervised topic models
+max-margin learning
+maximum entropy discrimination
+latent Dirichlet allocation
+support vector machines
+high-dimensional regression
+lasso
+phase diagram
+regularization
+structured sparsity
+overlapping Group Lasso
+alternating direction methods
+variable splitting
+augmented Lagrangian
+online learning
+ensemble methods
+supervised learning
+random forest
+implicit online learning
+sample compression
+hyperplane arrangements
+hyperbolic and piecewise-linear geometry
+one-inclusion graphs
+large-scale collaborative filtering
+context-aware recommendation
+ranking
+model selection consistency
+general information criteria
+high dimension
+regression
+autoencoder
+gaussian process
+gaussian process latent variable model
+representation learning
+unsupervised learning
+divergence  metric learning
+kernel learning
+linear transformation
+matrix divergences
+logdet
+online convex optimization
+convex-concave optimization
+bandit feedback
+variational inequality
+optimization
+non-convex
+non-smooth
+cutting plane
+bundle method
+regularized risk
+kernel methods
+learning kernels
+feature selection
+vector-valued reproducing kernel Hilbert spaces
+operator-valued reproducing kernels
+refinement
+embedding
+translation invariant kernels
+Hessian of Gaussian kernels
+Hilbert-Schmidt kernels
+numerical experiments
+approximate dynamic programming
+reinforcement learning
+Markov decision processes
+Monte-Carlo methods
+function approximation
+L1 regularization
+linear classification
+optimization methods
+logistic regression
+support vector machines
+toolbox
+classification
+parallel
+ensemble
+reproducible research
+clustering
+density estimation
+level sets
+stability
+model selection
+Gaussian process
+probabilistic classification
+multinomial logistic
+variational approximation
+sparse approximation
+sign language recognition
+sequential pattern boosting
+depth cameras
+sub-units
+signer independence
+data set
+Python
+modular architectures
+sequential processing
+classification performance metrics
+cost-sensitive evaluation
+operating condition
+Brier score
+area under the ROC curve (AUC)
+calibration loss
+refinement loss
+high-dimensional undirected graph estimation
+glasso
+huge
+semiparametric graph estimation
+data-dependent model selection
+lossless screening
+lossy screening
+causality
+graphical models
+randomized experiments
+structural equation models
+latent variables
+latent confounders
+cycles
+feature selection
+mutual information
+conditional likelihood
+optimization
+probability
+information
+Gaussian processes
+expectation propagation
+sparsity priors
+scale mixtures of exponential power distributions
+generalized inverse Gaussian distributions
+expectation-maximization algorithms
+iteratively reweighted minimization methods
+reinforcement learning
+dynamic programming
+decision making
+linear regression
+preference elicitation
+reinforcement learning
+temporal difference
+stochastic approximation
+markov decision processes
+hybrid model based model free algorithms
+reinforcement learning
+statistical relational learning
+exploration
+relational transition models
+robotics
+sparse linear models
+generalised linear models
+Bayesian inference
+approximate inference
+probabilistic regression and classification
+penalised least squares estimation
+lazy evaluation matrix class
+empirical processes
+Rademacher average
+sparse estimation.
+classification with a reject option
+perfect classification
+selective classification
+active learning
+selective sampling
+disagreement coefficient
+teaching dimension
+exploration vs. exploitation
+online learning
+regret
+label-efficient
+crowdsourcing
+manifold learning
+minimax estimation
+PAC-Bayes bound
+support vector machine
+generalization capability prediction
+classification
+low-rank approximation
+nystr¨om method
+ensemble methods
+large-scale learning
+nonnegative matrix factorization
+data preprocessing
+uniqueness
+sparsity
+inversepositive matrices
+distributed evolutionary algorithms
+software tools
+query algorithms
+evasion
+reverse engineering
+adversarial learning
+variable selection
+penalized estimation
+oracle inequality
+generalized linear models
+selection consistency
+sparsity
+computational algebraic geometry
+approximate algebra
+unsupervised Learning
+multiple kernel learning
+learning kernels
+online optimization
+stochastic subgradient descent
+convergence bounds
+large scale
+anomaly detection
+adversarial
+security analysis
+support vector data description
+computer security
+network intrusion detection
+causal inference
+interventions
+graphical model
+Markov equivalence
+greedy equivalence search
+coordinate decent algorithm
+difference convex programming
+L0 - regularization
+large-p small-n
+model selection
+nonparametric function
+oracle property
+truncated L1 penalty
+statistical learning theory
+active learning
+ranking
+pairwise ranking
+preferences
+integrative causal analysis
+causal discovery
+Bayesian networks
+maximal ancestral graphs
+structural equation models
+causality
+statistical matching
+data fusion
+static prediction games
+adversarial classification
+Nash equilibrium
+matrix completion
+collaborative filtering
+convex optimization
+computer security
+malware detection
+common segment analysis
+supervised learning
+convex risk minimization
+excess risk
+support vector machine
+empirical process
+U-process
+spectral graph partitioning
+local spectral algorithms
+Laplacian matrix
+semi-supervised learning
+personalized pagerank
+submodular optimization
+online learning
+regret minimization
+multi-armed bandits
+contextual bandits
+exploration-exploitation
+sequential allocation
+Thompson sampling
+kernel methods
+two-sample test
+uniform convergence bounds
+schema matching
+integral probability metric
+hypothesis testing
+pattern extraction
+sign language recognition
+signeme extraction
+sign modeling
+iterated conditional modes
+vision
+face perception
+emotions
+computational modeling
+categorical perception
+face detection
+restricted Boltzmann machine
+classification
+discriminative learning
+generative learning
+low rank
+Riemannian manifolds
+metric learning
+retractions
+multitask learning
+online learning
+string embedding
+bag-of-words models
+learning with sequential data
+kernel methods
+feature selection
+independence measure
+Hilbert-Schmidt independence criterion
+Hilbert space embedding of distribution
+pairwise support vector machines
+interclass generalization
+pairwise kernels
+large scale problems
+Markov decision processes
+reinforcement learning
+least-squares temporal-difference
+least-squares policy iteration
+generalization bounds
+finite-sample analysis
+metric learning
+convex optimization
+semi-definite programming
+first-order methods
+eigenvalue optimization
+matrix factorization
+face verification
+support vector machines
+kernels
+variable selection
+sensitivity.
+Feature Extraction
+Maximum Entropy
+Information Geometry
+Mutual Information
+Association Analysis.
+Variable Selection
+Dimensionality Reduction
+Support Vector Machines
+Regression
+Pattern Search
+Bootstrap Aggregation
+Model Visualization
+Metric-based Methods
+Model Selection
+additive procedure
+approximate leave-one-out scores
+confidence intervals
+input variable selection
+Jacobian matrix conditioning
+model approval
+model selection
+neural networks
+orthogonalization procedure
+overfitting avoidance
+polynomials
+statistical tests.
+Model selection
+variable selection
+feature selection
+kernel
+classification
+neural networks
+leave-one-out
+Gram-Schmidt orthogonalization
+statistical tests
+information filtering
+Variable selection
+Algorithm comparison
+Overfitting
+Cross-validation
+k nearest neighbors
+Variable selection
+feature selection
+space dimensionality reduction
+pattern discovery
+filters
+wrappers
+clustering
+information theory
+support vector machines
+model selection
+statistical testing
+bioinformatics
+computational biology
+gene expression
+microarray
+genomics
+proteomics
+QSAR
+text classification
+information retrieval.
+multitask learning
+output variable selection
+inductive transfer
+Feature selection
+functional gradient descent
+loss functions
+margin space
+boosting
+support vector machines
+document categorization
+ROC
+supervised learning
+Mutual information
+Renyi entropy
+Quadratic divergence measures
+Parzen estimation
+Feature transform
+Feature extraction
+Non-parametric estimation
+Information theory
+Feature Clustering
+Classification
+Entropy
+Kullback-Leibler Divergence
+Mutual Information
+Jensen-Shannon Divergence.
+data mining
+concept learning
+computer security
+invasive software
+parts
+unsupervised learning
+latent factor models
+collaborative filtering
+hierarchical learning
+Lasso
+regularization
+sparsity
+model selection
+consistency
+PAC learning
+attribute efficiency
+learning parity
+decision lists
+Winnow
+spam filtering
+e-mail
+images
+text categorisation
+text categorization
+spam filtering
+Markov models
+dynamic Markov compression
+prediction by partial matching
+non-negative matrix factorization
+second-order cone programming
+sequential convex optimization
+reverse-convex programming
+sparsity
+regularization
+Gaussian kernel RKHS
+one-class SVM
+convex loss functions
+kernel density estimation
+adaptive prototype learning
+cluster-based prototypes
+consistency
+instance-based prototype
+pattern classification
+active learning
+feature selection
+relevance feedback
+term feedback
+text classification
+computational learning theory
+computational complexity
+pattern classification
+Markov networks
+large-margin methods
+structured prediction
+extragradient
+Bregman projections
+classification
+Gauss-Southwell algorithm
+AdaBoost
+cross-validation
+non-parametric convergence rate
+query learning
+hypergraph
+multiple round algorithm
+sampling
+chemical reaction network
+computer security
+spam
+images with embedded text
+malicious executables
+network protocols
+encrypted traffic
+inductive program synthesis
+inductive functional programming
+explanation based generalization
+recursive program schemes
+non-negative matrix factorisation
+competitive learning
+dendritic inhibition
+object recognition
+learning to learn
+transfer learning
+multi-task learning
+Tikhnonov regularization
+variable selection
+reproducing kernel Hilbert space
+generalization bounds
+density
+translation invariant kernels
+radial kernels
+incremental algorithms
+online learning
+hierarchical classification
+second order perceptron
+support vector machines
+regret bound
+loss function
+Gaussian graphical models
+walk-sum analysis
+convergence of loopy belief propagation
+kernel methods
+hierarchical classification
+text categorization
+convex optimization
+structured outputs
+Markov decision processes
+hierarchical decomposition
+state abstraction
+seizure detection
+novelty detection
+one-class SVM
+epilepsy
+unsupervised learning
+classification
+stepwise regression
+multiple regression
+feature selection
+false discovery rate
+transduction
+transductive SVMs
+semi-supervised learning
+CCCP
+reinforcement learning
+temporal difference methods
+evolutionary computation
+neuroevolution
+on-line learning
+comparative studies
+statistical methods
+Wilcoxon signed ranks test
+Friedman test
+multiple comparisons tests
+spectral clustering
+blind source separation
+computational auditory scene analysis
+statistical learning
+hierarchy of classifiers
+coarse-to-fine computation
+support vector machines
+face detection
+chain graph
+AMP Markov equivalence
+strong equivalence
+largest deflagged graph
+component merging procedure
+deflagging procedure
+essential graph
+Bayesian networks
+na¨ıve Bayes
+plug-in classifier
+Kolmogorov distance of variation
+variational learning
+probabilistic graphical models
+parameter and structure learning
+factor graphs
+Markov networks
+Bayesian networks
+k-means
+random projection
+Bayesian information criterion
+simulation
+SimPoint
+teleoreactive control
+logic programs
+problem solving
+skill learning
+incremental SVM
+online learning
+drug discovery
+intrusion detection
+Bayesian networks
+scoring functions
+learning
+mutual information
+conditional independence tests
+sequential prediction
+the context tree weighting method
+variable order Markov models
+error bounds
+Bayesian networks
+structure learning
+gene networks
+gene expression
+approximation algorithms
+semi-supervised learning
+graph transduction
+regularization
+kernel methods
+manifold learning
+spectral graph theory
+unlabeled data
+support vector machines
+multiclass classification
+classifier
+consistency
+empirical risk minimization
+constrained comparison method
+Tsybakov noise condition
+minimum volume sets
+anomaly detection
+statistical learning theory
+uniform deviation bounds
+sample complexity
+universal consistency
+active set methods
+support vector machines
+quadratic programming
+latent variable models
+causality
+graphical models
+graphical model
+Markov random field
+belief propagation
+variational method
+parameter estimation
+prediction error
+algorithmic stability
+kernel matrix
+eigenvalues
+relative perturbation bounds
+empirical risk minimization
+empirical processes
+stability
+Donsker classes
+kernel methods
+inductive logic programming
+Prolog
+learning from program traces
+Tikhnonov regularization
+variable selection
+reproducing kernel Hilbert space
+generalization bounds
+classification
+lasso
+minimum description length (MDL)
+model selection
+nonnegative garrote
+regression
+clustering
+visualization of patterns in data
+bond energy algorithm
+traveling salesman problem
+asymmetric clustering
+assignment problem
+best approximation
+branch and bound
+inexact graph matching
+model data base
+planning under uncertainty
+partially observable Markov decision processes
+continuous state space
+continuous action space
+continuous observation space
+point-based value iteration
+independent component analysis
+non-Gaussianity
+causal discovery
+directed acyclic graph
+non-experimental data
+optimal control
+reinforcement learning
+policy search
+sensitivity analysis
+parametric optimization
+gradient estimate
+likelihood ratio method
+pathwise derivation
+Bradley-Terry model
+probability estimates
+error correcting output codes
+support vector machines
+online SVM
+stochastic meta-descent
+structured output spaces
+aggregation
+optimal rates
+Kullback-Leibler divergence
+ensemble pruning
+semi-definite programming
+heuristics
+knowledge sharing
+traffic classification
+hidden Markov models
+network security
+Tikhonov regularization
+Gaussian kernel
+theory
+kernel machines
+kernel
+triangular norm
+T -transitivity
+fuzzy relation
+residuum
+support vector machines
+kernel methods
+quantile estimation
+nonparametric techniques
+estimation with constraints
+Gaussian mixture model
+variational Bayesian learning
+stochastic complexity
+component analysis
+vector quantization
+variational learning
+link analysis
+quadratic programming
+decomposition algorithms
+approximation algorithms
+support vector machines
+Markov decision processes
+optimal control conditioned on a rare event
+simulation based algorithms
+SPSA with deterministic perturbations
+reinforcement learning
+sparse learning
+sparse large margin classifiers
+kernel learning algorithms
+support vector machine
+kernel Fisher discriminant
+Gaussian sum smoother
+switching Kalman filter
+switching linear dynamical system
+expectation propagation
+expectation correction
+SVMs
+classification
+sparse design
+convex transduction
+normalized graph cut
+semi-definite programming
+semisupervised learning
+relaxation
+combinatorial optimization
+max-cut
+Bayesian networks
+constrained optimization
+domain knowledge
+probabilistic inference
+error probability
+linear programming
+cycle-free graphs
+network flows
+blind source separation
+state-space model
+independent component analysis
+convolutive model
+EM
+speech modelling
+collaborative multiagent system
+coordination graph
+reinforcement learning
+Qlearning
+belief propagation
+waveform recognition
+random effects
+segmental hidden Markov models
+EM algorithm
+ECME
+bounded rationality
+fast and frugal heuristic
+PAC learning
+NP-completeness
+hardness of approximation
+greedy method
+Active Learning
+Conditional Expectation of Generalization Error
+Misspecification of Models
+Importance-Weighted Least-Squares Learning
+Covariate Shift.
+linear discriminant analysis
+dimensionality reduction
+null space
+orthogonal matrix
+regularization
+Gaussian distribution
+gene network
+graphical model
+microarray data
+non-rejection rate
+partial correlation
+small-sample inference
+support vector machines
+receiver operating characteristic (ROC) analysis
+linear classification
+working set selection
+sequential minimal optimization
+quadratic programming
+support vector machines
+large scale optimization
+supervised learning
+neural networks
+linear optimization
+least-squares
+initialization method
+sensitivity analysis
+quantile regression
+random forests
+adaptive neighborhood regression
+multiple kernel learning
+string kernels
+large scale optimization
+support vector machines
+support vector regression
+column generation
+semi-infinite linear programming
+support vector machines
+large scale quadratic programs
+decomposition techniques
+gradient projection methods
+parallel computation
+machine learning
+mathematical programming
+convex optimization
+selective sampling
+semi-supervised learning
+on-line learning
+kernel algorithms
+linear-threshold classifiers
+multi-label data
+classification
+ranking
+thresholding
+dimensionality reduction
+hierarchical classification
+evaluation
+domain decomposition
+boundary value problem
+Gaussian process regression
+parallel computation
+spatial prediction
+high-dimensional inference
+multi-task learning
+sparsity
+normal means
+minimax estimation
+prediction with expert advice
+follow the perturbed leader
+unbounded losses
+adaptive learning rate
+expected bounds
+Hannan consistency
+online sequential prediction
+search
+term mismatch
+kernel machines
+similarity learning
+s-function
+s-kernel
+Laplacian support vector machines
+manifold regularization
+semi-supervised learning
+classification
+optimization
+Gaussian process
+robust regression
+Student-t distribution
+approximate inference
+expectation propagation
+repeated games
+on-line learning
+regret
+partial monitoring
+calibration
+Vorono¨ı and Laguerre diagrams
+PCA
+kernel PCA
+generalizability
+variance renormalization
+weakly supervised learning
+multiclass classification
+convex learning
+generalization bounds
+names and faces
+structured sparsity
+standard sparsity
+group sparsity
+tree sparsity
+graph sparsity
+sparse learning
+feature selection
+compressive sensing
+meta-learning
+support vector machines
+feature selection
+kernel selection
+maximum entropy
+large margin
+Bayesian methods
+variational bounds
+classification
+regression
+Lasso
+graphical model structure estimation
+quadratic programming
+convex programming
+active learning
+disagreement coefficient
+label complexity
+smooth function
+support vector machines
+preference learning
+ranking models
+ordinal regression
+survival analysis
+Bayesian networks
+discriminative learning
+conditional log-likelihood
+scoring criterion
+classification
+approximation
+teaching dimension
+learning Boolean functions
+interactive learning
+collusion
+frequent itemsets
+association rules
+frequent sequences
+visualization
+non-parametric kernel learning
+semi-definite programming
+semi-supervised learning
+side information
+pairwise constraints
+unsupervised learning
+dimensionality reduction
+principal curves
+principal surfaces
+subspace constrained mean-shift
+inverse reinforcement learning
+partially observable Markov decision process
+inverse optimization
+linear programming
+quadratically constrained programming
+binary classification
+Neyman-Pearson paradigm
+anomaly detection
+empirical constraint
+empirical risk minimization
+chance constrained optimization
+k-means
+vector quantization
+distributed
+asynchronous
+stochastic optimization
+scalability
+distributed consensus
+Python
+supervised learning
+unsupervised learning
+model selection
+reinforcement learning
+model-free policy evaluation
+TD learning
+semiparametirc model
+estimating function
+BIC
+marginal likelihood
+singular models
+tree models
+Bayesian networks
+real logcanonical threshold
+sequential experimental design
+ranking and selection
+adaptive learning
+hierarchical statistics
+Bayesian statistics
+link prediction
+network analysis
+multicore
+GNU make
+PropFlow
+HPLP
+boosting
+margin bounds
+voting classifier
+supervised classification
+bipartite ranking
+area under the curve
+rank statistics
+boosting
+logistic regression
+reproducing kernel Hilbert spaces
+generalized kernel models
+Silverman’s g-prior
+Bayesian model averaging
+Gaussian processes
+blind source separation
+anechoic mixtures
+time-frequency transformations
+linear canonical transform
+Wigner-Ville spectrum
+graphical model selection
+covariance estimation
+Lasso
+nodewise regression
+thresholding
+dual augmented Lagrangian
+proximal minimization
+global convergence
+sparse estimation
+convex optimization
+processes  reinforcement learning
+Bayesian inference
+partially observable Markov decision
+nonparametric regression
+correlated errors
+bandwidth choice
+cross-validation
+shortrange dependence
+bimodal kernel
+approximate marginals
+Gaussian Markov random fields
+Laplace approximation
+variational inference
+expectation propagation
+deep networks
+kernel principal component analysis
+representations
+Chinese restaurant processes
+Bayesian nonparametrics
+reinforcement learning
+on-line learning
+temporal-difference methods
+function approximation
+data reuse
+bandits with infinitely many arms
+optimistic online optimization
+regret bounds
+minimax rates
+matrix completion
+low-rank matrices
+convex optimization
+nuclear norm minimization
+random matrices
+operator Chernoff bound
+compressed sensing
+multi-class support vector machines
+open source
+C
+value function approximation
+approximate dynamic programming
+Markov decision processes
+multiple kernel learning
+metric learning
+similarity
+spectral clustering
+graph
+unsupervised classification
+level sets
+connected components
+truncated convex models
+move making algorithms
+range moves
+multiplicative bounds
+linear programming relaxation
+convergence rates
+efficient global optimization
+expected improvement
+continuumarmed bandit
+Bayesian optimization
+linear regression
+positive semidefinite matrices
+low-rank approximation
+Riemannian geometry
+gradient-based learning
+multiple kernel learning
+mirror descent
+mixed-norm
+object categorization
+scalability
+dictionary learning
+generalization bound
+sparse representation
+machine learning
+toolkits
+data mining
+C++
+open source
+graph kernels
+graph classification
+similarity measures for graphs
+Weisfeiler-Lehman algorithm
+Bayesian learning
+Gaussian prior
+information rate
+risk
+Mat´ern kernel
+squared exponential kernel
+graphical models
+cumulative distribution function
+message-passing algorithm
+inference
+risk stratification
+cardiovascular disease
+time-series comparison
+symbolic analysis
+anomaly detection
+exact inference
+factor graphs
+factor elimination
+marginalization
+dynamic programming
+MAP computation
+model updates
+parallel tree contraction
+budgeted learning
+statistical learning
+linear predictors
+learning with partial information
+learning theory
+kernel density estimation
+forest structured Markov network
+high dimensional inference
+risk consistency
+structure selection consistency
+classification
+loss functions
+divergence
+statistical information
+regret bounds
+co-training
+multi-view learning
+semi-supervised learning
+Gaussian processes
+undirected graphical models
+active sensing
+sequence prediction
+time series
+online prediction
+realizable sequence prediction
+non-realizable sequence prediction
+deep belief network
+restricted Boltzmann machine
+likelihood estimation
+natural image statistics
+potential log-likelihood
+group Lasso
+l1 penalty
+high-dimensional covariance estimation
+basis expansion
+sparsity
+oracle inequality
+sparse PCA
+unsupervised learning
+restricted Boltzmann machines
+time series
+generative models
+motion capture
+machine translation
+Bayesian inference
+grammar induction
+natural language parsing
+online learning
+kernel method
+support vector machines
+maximum margin learning
+classification
+visual codebook
+additive kernel
+histogram intersection kernel
+matrix factorization
+variational Bayes
+empirical Bayes
+positive-part James-Stein shrinkage
+non-identifiable model
+model-induced regularization
+Bayesian nonparametrics
+generalized linear models
+posterior consistency
+hierarchical Dirichlet processes
+probabilistic topic models
+topic distributions
+ontology learning from text
+topic hierarchy
+support vector machines
+kernel machines
+multiple kernel learning
+nonparametric Bayes
+Pitman-Yor process
+language model
+unsupervised
+nonparametric Bayes
+Markov chain Monte Carlo
+latent variable models
+Chinese restaurant processes
+beta process
+exchangeable distributions
+sparse binary matrices
+Lloyd’s algorithm
+orders
+preference statements
+planted partition model
+randomization testing
+optimal Bayesian network structure
+parallel algorithm
+natural language processing
+neural networks
+statistical machine translation (SMT)
+phrase reordering
+lexicalized reordering (LR)
+maximum entropy (ME)
+support vector machine (SVM)
+maximum margin regression (MMR)
+max-margin structure learning (MMS)
+graphical models
+belief-propagation
+tropical matrix multiplication
+support vector machines
+decomposition algorithms
+multiple kernel learning
+learning kernels
+non-sparse
+support vector machine
+convex conjugate
+block coordinate descent
+large scale optimization
+bioinformatics
+generalization bounds
+Rademacher complexity
+clustering algorithm
+Gaussian mixture
+overlap
+classification
+large margin
+maximum likelihood
+multi-armed bandit
+regret minimization
+online learning
+design  inductive logic programming
+parameter screening and optimisation
+experimental
+Bayesian
+nonparametric
+dependent
+hierarchical models
+segmentation
+parsimony
+sparsity
+identifiability
+factor models
+linear Bayesian networks
+Bayesian inference
+rating system
+Bradley-Terry model
+Thurstone-Mosteller model
+Plackett-Luce model
+difference convex programming
+gene function annotation
+margins
+multi-class classification
+structured learning
+subgradient methods
+adaptivity
+online learning
+stochastic convex optimization
+graphical models
+Markov random fields
+hidden variables
+latent tree models
+structure learning
+sparsity
+consistency
+variable selection
+convex optimization
+active set algorithm
+L1 regularization
+optimization
+coordinate descent
+mirror descent
+sparsity
+Proximal methods
+dictionary learning
+structured sparsity
+matrix factorization
+graphical models
+forest distributions
+structural consistency
+risk consistency
+method of types
+kernel methods
+characteristic kernels
+Hilbert space embeddings
+universal kernels
+strictly positive definite kernels
+integrally strictly positive definite kernels
+conditionally strictly positive definite kernels
+translation invariant kernels
+radial kernels
+binary classification
+homogeneity testing
+graph-based semi-supervised learning
+transductive inference
+large-scale semi-supervised learning
+non-parametric models
+non-stationarities
+blind source separation
+dimensionality reduction
+unsupervised learning
+Gaussian processes
+convolution processes
+efficient approximations
+multitask learning
+structured outputs
+multivariate processes
+structural equation models
+Bayesian networks
+independent component analysis
+non-Gaussianity
+causal discovery
+feature selection
+minimum description length principle
+multi-task learning
+privacy
+classification
+optimization
+empirical risk minimization
+support vector machines
+logistic regression
+aggregation
+exact oracle inequality
+empirical risk minimization
+empirical process theory
+sparsity
+Lasso
+Lars
+convex optimization
+proximal methods
+sparse coding
+structured sparsity
+matrix factorization
+network flow optimization
+alternating direction method of multipliers
+Bayesian networks
+structure learning
+properties of decomposable scores
+structural constraints
+branch-and-bound technique
+corpus-based acquisition
+lexicon learning
+generative lexicon
+inductive logic programming
+subsumption under object identity
+private properties
+Inductive Logic Programming
+Program Analysis
+independence-based causal discovery
+causal Bayesian networks
+structure learning
+argumentation
+reliability improvement
+Bayesian network
+conditional independence
+decomposition
+directed acyclic graph
+structural learning
+Bayesian networks
+structure learning
+model selection
+bounded treewidth
+equations  causal models
+game theory
+machine learning
+recursive estimation
+simultaneous
+Markov properties
+linear causal models
+linear structural equation models
+graphical models
+graphical models
+structural equation models
+Bayesian inference
+Markov chain Monte Carlo
+latent variable models
+Bayesian networks
+causation
+causal inference
+local causal discovery
+Markov blanket induction
+feature selection
+classification
+causal structure learning
+learning of Bayesian networks
+causality
+graphical causal models
+identification
+Bayesian networks
+python
+open source software
+active learning
+causal networks
+directed acyclic graphs
+intervention
+Markov equivalence class
+optimal design
+structural learning
+Bayesian networks
+false discovery rate
+PC algorithm
+directed acyclic graph
+skeleton
+subset  Bayesian networks
+structure learning
+optimal search
+super-structure
+connected
+Bayesian networks
+constraint-based structure learning
+ancestral graphs
+causal Bayesian network
+do-calculus
+intervention
+Bayesian networks
+structure learning
+continuous variables
+hidden variables
+causal structure learning
+feature selection
+Markov blanket
+partial correlation
+statistical test of conditional independence
+continuous time Bayesian networks
+C++
+open source software
+conditional independence test
+contemporaneous causation
+additive model regression
+Granger causality
+ocean indices
+annealing
+graphical factor models
+variational mean-field method
+MAP estimation
+sparse factor analysis
+gene expression profiling
+Bayesian networks
+conditional expectation
+covariance
+directed acyclic graphs
+effect modification
+monotonicity
+Bayesian networks
+structure learning
+constrained optimal search
+local causal discovery
+Markov blanket induction
+feature selection
+classification
+causal structure learning
+learning of Bayesian networks
+chain graph
+conditional independence
+decomposition
+graphical model
+structural learning
+Reinforcement Learning
+Lyapunov Functions
+Safety
+Stability
+support vector machines
+document categorization
+ROC
+supervised learning
+Generalization error
+model selection
+subspace information criterion
+crossvalidation
+kernel regression
+reproducing kernel Hilbert space
+finite sample statistics
+Gaussian processes
+unbiased estimators
+support vector machines
+kernels
+variable selection
+sensitivity
+Reinforcement Learning
+Policy Search
+Experiment Design
+Gaussian Processes
+Generalisation Error Bounds
+PAC-Bayesian Framework
+Bayesian Learning
+Sparse Approximations
+Gibbs Classifier
+Kernel Machines
+Convex Duality
+Kernel Methods
+Natural Language Processing
+Information Extraction
+Feature Extraction
+Maximum Entropy
+Information Geometry
+Mutual Information
+Association Analysis
+Variable Selection
+Dimensionality Reduction
+Support Vector Machines
+Regression
+Pattern Search
+Bootstrap Aggregation
+Model Visualization
+Metric-based Methods
+Model Selection
+reinforcement learning
+convergence
+event-learning
+SARSA
+MDP
+generalized MDP
+ε-MDP
+SDS controller
+additive procedure
+approximate leave-one-out scores
+confidence intervals
+input variable selection
+Jacobian matrix conditioning
+model approval
+model selection
+neural networks
+orthogonalization procedure
+overfitting avoidance
+polynomials
+statistical tests.
+Model selection
+variable selection
+feature selection
+kernel
+classification
+neural networks
+leave-one-out
+Gram-Schmidt orthogonalization
+statistical tests
+information filtering
+Decision trees
+cross-validation
+inductive logic programming
+Variable selection
+Algorithm comparison
+Overfitting
+Cross-validation
+k nearest neighbors
+Unsupervised learning
+Clustering
+Structure mapping
+Data mining in texts
+Natural language processing
+Variable selection
+feature selection
+space dimensionality reduction
+pattern discovery
+filters
+wrappers
+clustering
+information theory
+support vector machines
+model selection
+statistical testing
+bioinformatics
+computational biology
+gene expression
+microarray
+genomics
+proteomics
+QSAR
+text classification
+information retrieval
+On-line learning
+loss bounds
+shifting experts
+share updates
+Kernel machines
+text categorisation
+linguistic processing
+string kernels
+sequence kernels
+Signal processing optimization
+regression trees
+decision trees
+reinforcement learning
+Sparse Learning Machines
+Kernel Methods
+Greedy Algorithms
+Regression
+Classification
+Model Selection
+classification
+kernel methods
+convex optimization
+second order cone programming
+Bayesian Networks
+Representational Power
+Learning Algorithms
+multitask learning
+output variable selection
+inductive transfer
+Markov Decision Problem
+Dynamic Programming
+Reinforcement Learning
+Monte Carlo
+Stochastic Approximation
+Temporal Differences
+Reinforcement Learning
+Learning in Games
+Stochastic Games
+Markov Decision Processes
+Provably Efficient Learning
+Concept Learning
+Embeddings in Half Spaces
+Large Margin Classification
+cluster analysis
+clustering
+partitioning
+unsupervised learning
+multi-learner systems
+ensemble
+mutual information
+consensus functions
+knowledge reuse
+Feature selection
+functional gradient descent
+loss functions
+margin space
+boosting
+Probabilistic Relational Models
+Bayesian Networks
+Relational Learning
+Set Covering Machines
+Computational Learning Theory
+Support Vector Machines
+Data-dependent Features
+Feature Selection
+Sample Compression
+Model Selection.
+support vector machines
+document categorization
+ROC
+supervised learning
+classiﬁcation
+margin-based bounds
+error estimation
+fat-shattering dimension
+Statistical language modeling
+artificial neural networks
+distributed representation
+curse of dimensionality
+Mutual information
+Renyi entropy
+Quadratic divergence measures
+Parzen estimation
+Feature transform
+Feature extraction
+Non-parametric estimation
+Information theory
+Feature Clustering
+Classification
+Entropy
+Kullback-Leibler Divergence
+Mutual Information
+Jensen-Shannon Divergence.
+kernel methods
+independent component analysis
+blind source separation
+mutual information
+Gram matrices
+canonical correlations
+semiparametric models
+integral equations
+Stiefel manifold
+incomplete Cholesky decomposition
+Density Estimations
+Mixture Models
+Bayesian Learning
+ICA
+Error Bounds
+Data-Dependent Complexity
+Rademacher Averages
+Maximum Discrepancy
+mization  Support Vector Machines
+Sparse Kernels
+Data Reduction
+Concave Mini-
+Sampling
+online learning
+incremental learning
+large databases.
+Online Learning
+Exploitation-Exploration
+Bandit Problem
+Reinforcement Learning
+Linear Value Function
+Recurrent Neural Networks
+Long Short-Term Memory
+Timing
+decision forests
+transfer learning
+gesture recognition
+Bayesian inference
+non-parametric statistics
+reinforcement learning
+consistency
+Dirichlet process mixture
+number of components
+finite mixture
+Bayesian nonparametrics
+Markov chain Monte Carlo
+Hamiltonian Monte Carlo
+Bayesian inference
+adaptive Monte Carlo
+dual averaging
+latent-variable PCFGs
+spectral learning algorithms
+blind deconvolution
+blind image deblurring
+variational Bayes
+sparse priors
+sparse estimation
+online learning
+massive-scale classification
+big data analytics
+support vector machines
+convex hulls
+large scale classification
+non-linear kernels
+extreme points
+nonnegative matrix factorization
+separability
+robustness to noise
+enclosing ellipsoid
+document clustering
+Kriging
+Gaussian process
+co-Kriging
+blind Kriging
+surrogate modeling
+metamodeling
+DACE
+community detection
+spectral methods
+tensor methods
+moment-based estimation
+mixed membership models
+reinforcement learning
+Bayesian
+optimization
+policy search
+Markov decision process
+MDP
+temporal differences
+policy evaluation
+value function estimation
+reinforcement learning
+support vector machine
+ramp loss
+analysis
+global optimization
+multi-task learning
+structured prediction
+state space search
+imitation learning
+cost function
+causal inference
+structural equation models
+additive noise
+identifiability
+causal minimality
+Bayesian networks
+particle Markov chain Monte Carlo
+sequential Monte Carlo
+Bayesian inference
+non-Markovian models
+state-space models
+active learning
+learning to rank from pairwise preferences
+semi-supervised clustering
+clustering with side information
+disagreement coefficient
+smooth relative regret approximation
+early stopping
+non-parametric regression
+kernel ridge regression
+stopping rule
+reproducing kernel hilbert space
+rademacher complexity
+empirical processes
+gesture recognition
+Bayesian co-boosting
+hidden Markov model
+multimodal fusion
+feature selection
+Graphical models
+Markov random fields
+junction trees
+model selection
+graphical model selection
+high-dimensional statistics
+graph decomposition
+computational learning theory
+Fourier analysis of Boolean functions
+random walks
+DNF learning
+TOP learning
+admissible path
+decoder
+HMM
+hybrid
+interpolation
+MAP sequence
+minimum error
+optimal accuracy
+power transform
+risk
+segmental classification
+symbol-bysymbol
+posterior decoding
+Viterbi algorithm
+unsupervised learning
+clustering
+agglomerative algorithms
+robustness
+sparse coding
+spike-and-slab distributions
+approximate EM
+variational Bayes
+unsupervised learning
+source separation
+denoising
+high-dimensional classification
+interactions
+min-wise hashing
+sparse data
+unsupervised learning
+hierarchical parametric models
+latent variable
+maximum likelihood method
+Bayes method
+Bayesian nonparametrics
+density regression
+predictive distribution
+random partition
+collaborative filtering
+matrix completion
+trace-norm regularization
+transductive learning
+sample complexity
+complexity-constrained learning
+detector cascades
+sequential decision-making
+boosting
+ensemble methods
+cost-sensitive learning
+real-time object detection
+multi-armed bandits
+contextual bandits
+regret
+Lipschitz-continuity
+metric space
+Markov networks
+structure learning
+decision trees
+probabilistic methods
+hypothesis testing
+confidence intervals
+LASSO
+high-dimensional models
+bias of an estimator
+directed acyclic graph
+PC-algorithm
+FCI-algorithm
+CCD-algorithm
+orderdependence
+consistency
+high-dimensional data
+neural networks
+regularization
+model combination
+deep learning
+classification
+ensemble learning
+support vector machine
+bagging
+imitation learning
+active learning
+active imitation learning
+reductions
+classification
+UCI data base
+random forest
+support vector machine
+neural networks
+decision trees
+ensembles
+rule-based classifiers
+discriminant analysis
+Bayesian classifiers
+generalized linear models
+partial least squares and principal component regression
+multiple adaptive regression splines
+nearest-neighbors
+logistic and multinomial regression
+entropy
+mutual information
+association
+divergence
+distribution kernel estimation
+independent subspace analysis and its extensions
+modularity
+Matlab/Octave
+multi-platform
+GNU GPLv3
+gesture recognition
+machine learning
+C++
+open source
+classification
+regression
+clustering
+gesture spotting
+feature extraction
+signal processing
+graphical model selection
+multi-attribute data
+network analysis
+partial canonical correlation
+ensemble learning
+feature engineering
+fraud detection
+imbalanced classification
+image compression
+mixture models
+GMM
+density modeling
+unsupervised learning
+Bayesian nonparametrics
+locally varying smoothness
+multivariate time series
+nested Gaussian process
+stochastic volatility
+Hierarchical EM algorithm
+clustering
+hidden Markov model
+hidden Markov mixture model
+variational approximation
+time-series classification
+latent variable models
+tensor decompositions
+mixture models
+topic models
+method of moments
+power method
+natural gradient
+stochastic search
+evolution strategies
+black-box optimization
+sampling
+structured prediction
+structural support vector machines
+conditional random fields
+Python
+missing data
+observed likelihood
+(partial) E- and M-Step
+Lasso
+penalized variational free energy
+stochastic approximation
+logistic regression
+self-concordance
+Bayesian optimization
+efficient global optimization
+sequential model-based optimization
+sequential experimental design
+Gaussian processes
+slow feature analysis
+nonlinear blind source separation
+statistical independence
+independent component analysis
+slowness principle
+bility traces  reinforcement learning
+value function estimation
+off-policy learning
+eligi-
+data mining
+library
+frequent pattern mining
+sequence database
+transaction database
+open-source
+recursive teaching
+combinatorial parameters
+Vapnik-Chervonenkis dimension
+upper bounds
+compression schemes
+tail matching algorithm
+supervised topic models
+max-margin learning
+Gibbs classifiers
+regularized Bayesian inference
+support vector machines
+contextual bandits
+structured prediction
+ranking
+online learning
+regret bounds
+generalized linear
+deduplication
+author disambiguation
+name matching
+causal inference
+dynamic programming
+identifiability
+inverse covariance matrix estimation
+linear structural equation models
+boosting
+large scale learning
+feature selection
+graphs
+link prediction
+low-rank
+sparsity
+autoregression
+F-measure
+Bayes-optimal predictions
+regret
+statistical decision theory
+multi-label classification
+structured output prediction
+budgeted learning
+resource efficient machine learning
+feature cost sensitive learning
+web-search ranking
+tree of classifiers
+embedding
+multidimensional scaling
+t-SNE
+space-partitioning trees
+Barnes-Hut algorithm
+dual-tree algorithm.
+big data
+ultrahigh dimensionality
+feature selection
+nonlinear feature selection
+multiple kernel learning
+feature generation
+tion  metric graph
+filament
+reconstruction
+manifold learning
+minimax estima-
+Markov chain Monte Carlo
+parallelism
+slice sampling
+elliptical slice sampling
+approximate inference
+convergence rate
+convex optimization
+iteration complexity
+feasible descent methods
+preference learning
+ranking
+incomplete data
+Mallows models
+mixture models
+generative models
+occlusion
+unsupervised learning
+sparse coding
+expectation truncation
+principal components analysis
+robust statistics
+M-estimator
+iteratively re-weighted least squares
+convex relaxation
+asymptotic minimaxity
+graph of least favorables (GOLF)
+graph of strong dependence (GOSD)
+graphlet screening (GS)
+Hamming distance
+phase diagram
+rare and weak signal model
+screen and clean
+sparsity
+high-dimensional sparse learning
+minimax rate of convergence
+model selection
+optimal aggregation
+sparse q -constraint
+semi-supervised learning
+spectral clustering
+kernel methods
+large-scale machine learning
+local spectral methods
+locally-biased learning
+optimal transport distance
+earth mover’s distance
+metric learning
+metric nearness
+commute distance
+resistance
+random graph
+k-nearest neighbor graph
+spectral gap
+online learning
+approachability
+regret
+partial monitoring
+Riemannian optimization
+nonlinear programming
+non convex
+orthogonality constraints
+rank constraints
+optimization with symmetries
+rotation matrices
+entropy
+information theory
+Bayesian estimation
+Bayesian nonparametrics
+Dirichlet process
+Pitman–Yor process
+neural coding
+high dimensional data
+sparse precision matrix
+linear programming
+parametric simplex method
+undirected graphical model
+Lasso
+Group Lasso
+Multiple Kernel Learning
+Bayesian regularization
+marginal likelihood
+Kullback-Leibler
+semi-supervised
+asymptotic bounds
+bias
+generative model
+bagging
+jackknife methods
+Monte Carlo noise
+variance estimation
+graphical model
+structured sparsity
+alternating direction method of multipliers
+gene regulatory network
+lasso
+multivariate normal
+graph clustering
+modularity
+axiomatic framework
+covariance
+graphical model
+regularization
+optimization
+Gaussian Markov random field
+ranking
+active learning
+scheduling
+optimal experimental design
+graph synthesis
+algebraic connectivity
+high-dimensional covariance estimation
+sparse graphical model selection
+sparse covariance models
+sparsistency
+convex optimization
+stochastic gradient descent
+convex optimization
+regret minimization
+online learning
+graph matching
+Erd˝os-R´enyi graph
+consistency
+estimation
+seeded vertices
+Frank-Wolfe
+assignment problem
+Hedge
+learning rate
+mixability
+online learning
+prediction with expert advice
+lasso
+fused lasso
+nonsmooth optimization
+operator splitting
+multiple criteria analysis
+multi-objective
+reinforcement learning
+Pareto sets
+hypervolume
+graph clustering
+convex optimization
+sparse and low-rank decomposition
+structural equation models
+Bayesian networks
+estimation of causal direction
+latent confounding variables
+non-Gaussianity
+gesture spotting
+crowdsourced annotation
+longest common subsequence
+template matching methods
+accelerometer sensors
+Gaussian process
+upper confidence bound
+batch
+active learning
+regret bound
+Bayesian computing
+graphical models
+matrix differential calculus
+mean field variational Bayes
+variational approximation
+distributed machine learning
+Hadoop
+AllReduce
+repeated online averaging
+distributed L-BFGS
+bipartite ranking
+area under ROC curve (AUC)
+statistical consistency
+regret bounds
+proper losses
+strongly proper losses
+signed networks
+sign prediction
+balance theory
+low rank model
+matrix completion
+graph clustering
+Boltzmann machines
+unsupervised learning
+multimodal learning
+neural networks
+deep learning
+expectation propagation
+neural network
+multilayer perceptron
+linear model
+sparse prior
+automatic relevance determination
+auto-encoders
+denoising auto-encoders
+score matching
+unsupervised representation learning
+manifold learning
+Markov chains
+generative models
+latent force models
+Gaussian processes
+Kalman filter
+kernel principle component analysis
+queueing theory
+preference aggregation
+meta-search
+learning-to-rank
+collaborative filtering
+linear regression
+logistic regressions
+lasso
+group lasso
+feature selection
+manufacturing
+Gaussian graphical model
+covariance graph
+binary network
+lasso
+hub
+alternating direction method of multipliers
+predictive state representation
+reinforcement learning
+dimensionality reduction
+random projections
+reinforcement learning
+bispectral index
+propofol
+anesthesia
+hypnosis
+closed-loop control
+reinforcement learning
+policy search
+movement primitives
+active learning
+multi-task learning
+ChaLearn
+histogram of oriented gradients
+histogram of optical flow
+dynamic time warping
+nonnegative matrix factorization
+separability
+linear programming
+convex optimization
+robustness to noise
+pure-pixel assumption
+hyperspectral unmixing
+Bayesian inference
+posterior regularization
+Bayesian nonparametrics
+large-margin learning
+classification
+multi-task learning
+factor analysis
+sparse probit regression
+sparse logistic regression
+Bayesian latent factor analysis
+personalized learning
+formation  deep learning
+optimization
+convolutional networks
+superpixels
+depth information
+large-scale
+classification
+multiclass
+online learning
+stochastic gradient
+Bayesian nonparametrics
+Indian buffet process
+categorical observations
+multinomial-logit function
+Laplace approximation
+variational inference
+conditional random field
+semi-Markov conditional random field
+high-order feature
+sequence labeling
+segmentation
+label sparsity
+gesture recognition
+action recognition
+Grassmann manifolds
+product manifolds
+one-shot-learning
+kinect data
+human parsing
+action recognition
+part-based models
+hierarchical poselets
+maxmargin structured learning
+affine-invariant shape-appearance model
+landmarks-free shape representation
+static and dynamic priors
+feature extraction
+handshape classification
+dynamic hierarchical Bayesian networks
+topic models
+activity recognition
+gesture spotting
+generative models
+gesture recognition
+gesture spotting
+false positives
+continuous recognition
+sign language recognition
+sequential pattern boosting
+depth cameras
+sub-units
+signer independence
+data set
+pattern extraction
+sign language recognition
+signeme extraction
+sign modeling
+iterated conditional modes
+vision
+face perception
+emotions
+computational modeling
+categorical perception
+face detection
+data mining
+concept learning
+computer security
+invasive software
+spam filtering
+e-mail
+images
+text categorisation
+text categorization
+spam filtering
+Markov models
+dynamic Markov compression
+prediction by partial matching
+computer security
+spam
+images with embedded text
+malicious executables
+network protocols
+encrypted traffic
+traffic classification
+hidden Markov models
+network security
+On-line learning
+loss bounds
+shifting experts
+share updates.
+Concept Learning
+Embeddings in Half Spaces
+Large Margin Classification
+Error Bounds
+Data-Dependent Complexity
+Rademacher Averages
+Maximum Discrepancy
+Online Learning
+Exploitation-Exploration
+Bandit Problem
+Reinforcement Learning
+Linear Value Function
+graphs
+graph Laplacians
+semi-supervised learning
+spectral clustering
+dimensionality reduction
+convex quadratic optimization
+decomposition algorithms
+support vector machines
+multiclass classification
+consistency
+Bayes risk
+random walks
+uniform distribution learning
+cryptographic hardness
+correlated data
+PAC learning
+online learning
+internal regret
+external regret
+multi-arm bandit
+sleeping experts
+reductions
+attribute-efficient
+non-adaptive
+membership query
+DNF
+parity function
+random linear code
+online learning
+sequential complexities
+regret minimization
+data streams
+distributed systems
+classification
+clustering
+regression
+toolbox
+machine learning
+multimodal gesture recognition
+HMMs
+speech recognition
+multimodal fusion
+activity detection
+gesture recognition
+Kinect
+linguistic characters
+multi-layered classification
+principle motion
+dynamic time warping
+topological data analysis
+statistical topology
+persistent homology
+topological summary
+persistence landscape
+asynchronous parallel optimization
+stochastic coordinate descent
+crowdsourcing
+budget allocation
+Markov decision process
+dynamic programming
+optimistic knowledge gradient
+subspace clustering
+classification
+low-rank transformation
+nuclear norm
+feature learning
+blockwise decent
+nonconvex minimization
+matrix decomposition
+structure pursuit
+multiplicity automata
+hidden Markov models
+observable operator models
+predictive state representations
+spectral learning algorithms
+large scale learning
+naive Bayes
+Bayesianism
+model selection
+model averaging
+stochastic gradient descent
+support vector machine
+conditional random fields
+risk minimization
+linear support vector machine
+multi-class classification
+binary classification
+large-scale learning
+parallelization
+support vector machine
+stochastic gradient descent
+linear SVM training
+hybrid parallelism
+largescale learning
+interior point method
+decision tree classifiers
+distributed computing
+streaming data
+scalability
+hashing
+stream
+string kernel
+graphlet kernel
+multiclass classification
+large scale
+metric learning
+image similarity
+online learning
+collaborative filtering
+recommender systems
+matrix factorization
+neighbor based correction
+Netflix prize
+Bayesian networks
+false discovery rate
+PC algorithm
+directed acyclic graph
+skeleton
+graph pattern discovery
+inductive logic programming
+Petri net
+process discovery
+positive data only
+grammar induction
+regular language
+finite state automaton
+maximum margin hyperplane
+kernel approximation
+Kernels
+Multiplicative Updates
+On-Line Algorithms
+Series Parallel Digraphs
+Winnow
+Concept Tracking
+On-line Learning
+boosting
+regularized optimization
+support vector machines
+margin maximization
+Grammatical inference
+PAC-learnability
+finite state automata
+regular languages
+support vector machines
+regularization
+coefficient path
+Sample complexity
+classification
+true error bounds
+shell bounds
+Statistical learning theory
+generalization bounds
+data-dependent complexities
+coordinate projections
+Reinforcement Learning
+Q-Learning
+Stochastic Processes
+Convergence Bounds
+Learning Rates.
+image categorization
+multiple-instance learning
+support vector machines
+image classification
+image segmentation
+pairwise coupling
+probability estimates
+random forest
+support vector machines
+Threshold decision lists
+generalization error
+large margin bounds
+growth function
+covering numbers
+perceptron decision trees
+Support vector machine
+compression coefficient
+minimum description length
+model selection
+North Atlantic Oscillation
+ICA
+spatio-temporal pattern mining
+K-fold cross validation
+on-line algorithm
+reweighted matrix algorithm
+influence function
+data contamination
+Model-based clustering
+latent class models
+local dependence
+Bayesian networks
+latent structure discovery
+non-negative matrix factorization
+sparseness
+data-adaptive representations
+Active learning
+kernel machines
+online learning
+multi-armed bandit
+entropy maximization
+generalization error analysis
+data-dependent generalization error bounds
+Rademacher complexity
+decision trees
+reduced error pruning
+joint diagonalization
+common principle component analysis
+independent component analysis
+blind source separation
+nonlinear least squares
+Newton method
+Levenberg-Marquardt algorithm
+complex interactions
+dynamic programming
+layering
+structure learning
+ensembles
+bagging
+boosting
+diversity
+distributed learning
+exact learning
+query learning
+combinatorial auctions
+preference elicitation.
+Transductive Confidence Machine
+on-line prediction
+Embedding
+multidimensional scaling
+PCA
+earth-mover’s distance
+kernel methods
+learning kernels
+transduction
+model selection
+support vector machines
+convex optimization
+semidefinite programming
+cross-validation
+variance estimators
+k-fold cross-validation
+statistical comparisons of algorithms
+classification
+mutual information
+feature selection
+naive Bayes
+information theory
+fast learning
+Bias-variance analysis
+support vector machines
+ensemble methods
+multi-classifier systems
+biological text
+gene vs. protein name disambiguation
+textual data mining
+word sense disambiguation
+context-sensitive spelling error correction
+support vector machine classification
+misclassification error
+q-norm soft margin classifier
+regularization error
+approximation error
+Bayesian networks
+Bayesian model averaging
+classification
+naïve Bayes classifiers
+feature selection
+Classification Tree
+Bayesian Bootstrap
+Dirichlet Distribution
+AdaBoost loss function
+influence function
+kernel logistic regression
+robustness
+sensitivity curve
+statistical learning
+support vector machine
+total variation
+classification
+distribution-free
+kernel
+minimum error
+sequential biased minimax probability machine
+worst-case accuracies
+learning Bayesian networks
+search complexity
+large-sample data
+NP-Hard
+Boosted wrapper induction
+information extraction
+boosting
+linear threshold neuron
+consistency problem
+computational complexity
+linear-time algorithm
+NP-completeness
+clustering
+feature selection
+unsupervised learning
+expectation-maximization
+applications
+automated indexing
+controlled vocabulary indexing
+effectiveness measures
+evaluation
+feature selection
+k-NN
+methodology
+multiclass
+multilabel
+nearest neighbor
+news articles
+operational systems
+Rocchio
+SCut
+SCutFBR
+support vector machines
+SVMs
+term weighting
+test collection
+text classification
+thresholding
+Kernels
+support vector machines
+generative models
+Hellinger divergence
+KullbackLeibler divergence
+Bhattacharyya affinity
+expected likelihood
+exponential family
+graphical models
+latent models
+hidden Markov models
+dynamical systems
+mean field
+supervised learning
+feature selection
+relevance
+redundancy
+high dimensionality
+Feature discovery
+exploratory data analysis
+embedding
+non-metric
+pairwise data
+unsupervised learning
+reinforcement learning
+policy gradient
+baseline
+actor-critic
+GPOMDP
+regression
+dimensionality reduction
+variable selection
+feature selection
+kernel methods
+conditional independence.
+statistical learning
+reproducing kernel Hilbert spaces
+convex analysis
+representer theorem
+regularization theory
+product of experts
+Boltzmann machine
+reinforcement learning
+factored actions
+Multiclass Classification
+Regularization
+boosting
+AdaBoost
+dynamics
+convergence
+margins
+kernel methods
+string kernels
+computational biology
+Rule Learning
+Subgroup Discovery
+UCI Data Sets
+Traffic Accident Data Analysis
+function approximation
+regression
+prior knowledge
+support vector machines
+linear programming
+User Modeling
+Preference Elicitation
+Personalization
+Neural Networks
+Decision Theory
+Probabilistic models
+Bayesian networks
+numerical probabilities
+elicitation
+selection biases
+learning
+combining knowledge.
+Bayesian networks
+structural learning
+object orientation
+knowledge fusion
+ILP
+expert-assistance
+relevance of background predicates
+ILP
+expert-assistance
+relevance of background predicates
+Lasso
+regularization
+sparsity
+model selection
+consistency
+kernel based regression
+robustness
+stability
+influence function
+model selection
+Support vector machine
+compression coefficient
+minimum description length
+model selection
+model selection
+performance evaluation
+bias-variance trade-off
+selection bias
+overfitting
+Metric-based Methods
+Model Selection
+model selection
+maximum likelihood estimation
+convex optimization
+Gaussian graphical model
+binary data
+Bayesian networks
+asymptotic model selection
+Bayesian information criterion (BIC)
+model selection
+ensemble methods
+multilevel inference
+multilevel optimization
+performance prediction
+bias-variance tradeoff
+Bayesian priors
+structural risk minimization
+guaranteed risk minimization
+over-fitting
+regularization
+minimum description length
+naive Bayes
+Bayesian
+model selection
+model averaging
+multi-class discriminant analysis
+large margin classifiers
+uniform strong laws of large numbers
+generalized VC dimensions
+multi-class SVMs
+structural risk minimization inductive principle
+model selection
+trees
+resampling
+importance
+masking
+residuals
+full model selection
+machine learning challenge
+particle swarm optimization
+experimentation
+cross validation
+information criterion
+supervised classification
+support vector machine
+variable selection
+model selection
+kernel methods
+Bayesian regularisation
+regression models
+multilayer perceptrons
+model selection
+information criteria
+modulus of continuity
+model selection
+kernel discriminant analysis
+semidefinite programming
+quadratically constrained quadratic programming
+semi-infinite linear programming
+rank regression
+probabilistic approach
+2D partitioning
+non parametric estimation
+Bayesian model selection
+non-negative matrix factorization
+second-order cone programming
+sequential convex optimization
+reverse-convex programming
+sparsity
+Markov networks
+large-margin methods
+structured prediction
+extragradient
+Bregman projections
+kernel methods
+hierarchical classification
+text categorization
+convex optimization
+structured outputs
+incremental SVM
+online learning
+drug discovery
+intrusion detection
+active set methods
+support vector machines
+quadratic programming
+ensemble pruning
+semi-definite programming
+heuristics
+knowledge sharing
+SVMs
+classification
+sparse design
+convex transduction
+normalized graph cut
+semi-definite programming
+semisupervised learning
+relaxation
+combinatorial optimization
+max-cut
+Bayesian networks
+constrained optimization
+domain knowledge
+probabilistic inference
+error probability
+linear programming
+cycle-free graphs
+network flows
+working set selection
+sequential minimal optimization
+quadratic programming
+support vector machines
+large scale optimization
+multiple kernel learning
+string kernels
+large scale optimization
+support vector machines
+support vector regression
+column generation
+semi-infinite linear programming
+support vector machines
+large scale quadratic programs
+decomposition techniques
+gradient projection methods
+parallel computation
+machine learning
+mathematical programming
+convex optimization
+Kernel Methods
+Natural Language Processing
+Information Extraction
+Kernel machines
+text categorisation
+linguistic processing
+string kernels
+sequence kernels
+Statistical language modeling
+artificial neural networks
+distributed representation
+curse of dimensionality
+Reinforcement Learning
+Lyapunov Functions
+Safety
+Stability
+Reinforcement Learning
+Policy Search
+Experiment Design
+Decision trees
+cross-validation
+inductive logic programming
+Unsupervised learning
+Clustering
+Structure mapping
+Data mining in texts
+Natural language processing
+Signal processing optimization
+regression trees
+decision trees
+reinforcement learning
+Sparse Learning Machines
+Kernel Methods
+Greedy Algorithms
+Regression
+Classification
+Model Selection
+Bayesian Networks
+Representational Power
+Learning Algorithms
+Probabilistic Relational Models
+Bayesian Networks
+Relational Learning
+Set Covering Machines
+Computational Learning Theory
+Support Vector Machines
+Data-dependent Features
+Feature Selection
+Sample Compression
+Model Selection
+Sampling
+online learning
+incremental learning
+large databases
+dimensionality reduction
+machine learning
+C++
+open source software
+nonparametric estimation
+nearest neighbor methods
+mathematical statistics
+bipartite ranking
+nonparametric scoring
+classification data
+ROC optimization
+AUC criterion
+tree-based ranking rules
+bootstrap
+bagging
+rank aggregation
+median ranking
+feature randomization
+stationarity
+sparsity
+Berhu
+screening
+bootstrap
+classification
+estimation
+median
+Tukey depth
+stochastic bandits
+regret lower bounds
+consistency
+selectivity
+UCB policies
+XML information extraction
+XML schemas
+interactive learning
+tree automata
+grammatical inference
+online learning
+learning on graphs
+graph prediction
+random spanning trees
+statistical learning theory
+algorithmic stability
+association rules
+sequence prediction
+convex and non-convex optimization
+network flow optimization
+graph sparsity
+time series
+reductions
+stationary ergodic
+clustering
+metrics between probability distributions
+supervised learning
+sample complexity
+linear classifiers
+distribution-dependence
+1-bit matrix completion
+low-rank matrix
+max-norm
+trace-norm
+constrained optimization
+maximum likelihood estimate
+optimal rate of convergence
+sparse eigenvalue
+power method
+sparse principal component analysis
+densest k-subgraph
+context-free grammars
+grammatical inference
+identification in the limit
+structure learning
+distributed learning
+stochastic optimization
+averaging
+subsampling
+variational inference
+nonconjugate models
+Laplace approximations
+the multivariate delta method
+AdaBoost
+optimization
+coordinate descent
+convergence rate
+variational Bayes
+matrix factorization
+empirical Bayes
+model-induced regularization
+probabilistic PCA
+reinforcement learning
+diffusion distance
+proto value functions
+slow feature analysis
+least-squares policy iteration
+visual robot navigation
+generalised linear models
+latent linear models
+variational approximate inference
+large scale inference
+sparse learning
+experimental design
+active learning
+Gaussian processes
+manifold learning
+isometry
+vector field
+covariant derivative
+out-of-sample extension
+manifold learning
+isometric embeddings
+non-linear dimensionality reduction
+Nash’s embedding theorem
+L´evy process
+risk bound
+deviation inequality
+symmetrization inequality
+statistical learning theory
+time-dependent
+precision matrix
+concentration matrix
+inverse matrix
+graphical model
+scaled Lasso
+linear regression
+spectrum norm
+weakly labeled data
+semi-supervised learning
+multi-instance learning
+clustering
+cutting plane
+convex relaxation
+statistical learning theory
+optimization
+covering numbers
+decision theory
+random angle
+uniform distribution on sphere
+empirical law
+maximum of random variables
+minimum of random variables
+extreme-value distribution
+packing on sphere
+multidimensional scaling
+force-directed layout
+cluster analysis
+clustering strength
+unsupervised learning
+Box-Cox transformations
+graphical models
+message passing
+belief propagation
+variational methods
+maximum a posteriori
+marginal-MAP
+hidden variable models
+active learning
+linear classifiers
+margin
+adaptive sub-modularity
+Gaussian copula
+graphical model
+model selection
+multivariate normal distribution
+nonparanormal distribution
+high dimensional statistics
+sparse nonlinear discriminant analysis
+Gaussian copula
+nonparanormal distribution
+rank-based statistics
+real-time action recognition
+sparse representation
+one-shot action learning
+human robot interaction
+C++
+dual-tree algorithms
+machine learning software
+open source software
+largescale learning
+PAC learning
+statistical queries
+regular languages
+deterministic finite automata
+shuffle ideals
+subsequences
+sparsity
+nonparametric
+variable selection
+regularization
+proximal methods
+RKHS
+stochastic dual coordinate ascent
+optimization
+computational complexity
+regularized loss minimization
+support vector machines
+ridge regression
+logistic regression
+supervised learning
+sparseness projection
+sparse activity
+sparse connectivity
+low-rank approximation
+manifold learning
+large-scale matrix factorization
+Markov boundary discovery
+variable/feature selection
+information equivalence
+violations of faithfulness
+orthogonal labellings of graphs
+planted cliques
+random graphs
+common dense subgraph
+clustering
+non-negative matrix factorization
+rotation
+indefinite kernel
+similarity
+completely positive
+permanent
+graphical models
+belief propagation
+exact and approximate algorithms
+learning flows
+affine-invariant shape-appearance model
+landmarks-free shape representation
+static and dynamic priors
+feature extraction
+handshape classification
+group feature selection
+generalized spike-and-slab priors
+expectation propagation
+sparse linear model
+approximate inference
+sequential experimental design
+signal reconstruction
+online learning
+clickthrough data
+diversity
+multi-armed bandits
+contextual bandits
+regret
+metric spaces
+expectation consistent inference
+expectation propagation
+perturbation correction
+Wick expansions
+Ising model
+Gaussian process
+dynamic hierarchical Bayesian networks
+topic models
+activity recognition
+gesture spotting
+generative models
+exact algorithm
+parallelization
+partial order
+space-time tradeoff
+structure learning
+multi-target tracking
+clustering
+point processes
+flow network
+sound
+pattern detection
+anomaly detection
+knowledge discovery
+Bayesian networks
+scan statistics
+discriminative clustering
+large volume principle
+sequential quadratic programming
+semi-definite programming
+finite sample stability
+clustering error bound
+large-scale matrix computation
+CUR matrix decomposition
+the Nystr¨om method
+randomized algorithms
+adaptive sampling
+causation
+counterfactual reasoning
+computational advertising
+sparsity
+online linear regression
+individual sequences
+adaptive regret bounds
+gesture recognition
+gesture spotting
+false positives
+continuous recognition
+web search
+partial least squares
+regularized mapping to latent structures
+generalization analysis
+multiclass
+boosting
+weak learning condition
+drifting games
+gesture recognition
+bag of features (BoF) model
+one-shot learning
+3D enhanced motion scale invariant feature transform (3D EMoSIFT)
+Simulation Orthogonal Matching Pursuit (SOMP)
+kernel method
+Bayes’ rule
+reproducing kernel Hilbert space
+Gaussian process
+multiclass classification
+multinomial probit
+approximate inference
+expectation propagation
+minimum error entropy
+learning theory
+R´enyi’s entropy
+empirical risk minimization
+approximation error
+reinforcement learning
+C++
+generic programming
+inductive logic programming
+program synthesis
+theory induction
+constraint satisfaction
+Boolean satisfiability problem
+maximum variance unfolding
+isometric embedding
+U-processes
+empirical processes
+proximity graphs
+association rules
+numerical and categorical attributes
+unsupervised discretization
+genetic algorithm
+simulated annealing
+non-linear classification
+large-scale learning
+SVM
+machine learning toolbox
+principal curve
+manifold estimation
+unsupervised learning
+model complexity
+model selection
+symmetry
+evolution
+estimation of distribution algorithms
+sorting networks
+combinatorial optimization
+balanced error rate
+F-score (Fβ -measure)
+cost-sensitive risk
+conditional entropy
+lower/upper bound
+loss function
+uncertainty set
+convex conjugate
+consistency
+differential privacy
+principal components analysis
+dimension reduction
+generalized degrees of freedom
+grouping
+K-means clustering
+Lasso
+penalized regression
+truncated Lasso penalty (TLP)
+adaptive partitioning
+convex regression
+nonparametric regression
+shape constraint
+treed linear model
+classification
+support vector machines
+kernel
+computer vision
+clustering
+dimensionality reduction
+open source software
+human computer interaction
+data visualization
+Gaussian process
+Bayesian hierarchical model
+nonparametric Bayes
+nonparametric derivative estimation
+model selection
+empirical derivative
+factor rule
+causality
+randomized experiments
+experiment selection
+separating systems
+completely separating systems
+cut-coverings
+Markov jump process
+MCMC
+Gibbs sampler
+uniformization
+Markov-modulated Poisson process
+continuous-time Bayesian network
+kernel
+robustness
+support vector machine
+multi-task learning
+multi-stage
+non-convex
+sparse learning
+multiple testing
+false discovery rate
+Benjamini Hochberg’s procedure
+power
+criticality
+plug-in procedures
+adaptive control
+test statistics distribution
+convergence rates
+kernel estimators
+subspace clustering
+unions of subspaces
+hybrid linear models
+sparse approximation
+structured sparsity
+nearest neighbors
+low-rank approximation
+optimal discovery
+probabilistic experts
+optimistic algorithm
+Good-Turing estimator
+UCB
+stochastic optimal control
+reinforcement learning
+Markov decision processes
+analysis of algorithms
+classification
+sensor networks
+signals
+reliability
+temporal information compression
+forecasting long range correlated time series
+neural networks
+energy-based models
+time-series
+missing values
+optimization
+Bayesian nonparametrics
+time series
+semi-Markov
+sampling algorithms
+Hierarchical Dirichlet Process Hidden Markov Model
+regularized least squares
+big data
+linear algebra
+slow feature analysis
+feature extraction
+classification
+regression
+pattern recognition
+training graphs
+nonlinear dimensionality reduction
+supervised learning
+implicitly supervised
+high-dimensional data
+image analysis
+plug-in approach
+Neyman-Pearson paradigm
+nonparametric statistics
+oracle inequality
+anomaly detection
+Bayesian inference
+variational inference
+stochastic optimization
+topic models
+Bayesian nonparametrics
+machine learning
+regularized kernel methods
+localization
+SVM
+k-nearest neighbors
+SVM-KNN
+Bayes marginal likelihood
+widely applicable Bayes information criterion
+statistical modeling
+convex analysis
+nonsmooth optimization
+robust inference
+sparsity optimization
+Kalman smoothing
+interior point methods
+belief propagation
+Gaussian graphical models
+graph covers
+Gaussian process regression
+subset of data
+FITC
+local GP
+graphical models
+sum-product for continuous state spaces
+low-complexity belief propagation
+stochastic approximation
+Monte Carlo methods
+orthogonal basis expansion
+graph transduction
+semi-supervised learning
+bivariate formulation
+mixed integer programming
+greedy Max-Cut
+sparsity
+optimization
+compressed sensing
+greedy algorithm
+harmonic function
+joint training
+cluster assumption
+semi-supervised learning
+structural equation model
+Bayesian network
+non-Gaussianity
+causality
+independent component analysis
+Gaussian process
+generalisation error
+learning curve
+cavity method
+belief propagation
+graph
+random walk kernel
+single-index model
+sparsity
+regression estimation
+PAC-Bayesian
+oracle inequality
+reversible jump Markov chain Monte Carlo method
+optimization
+numerical analysis
+probability
+Gaussian processes
+hard classification
+large-margin
+soft classification
+support vector machine
+kappa coefficient
+penalized regression
+selection consistency
+stability
+tuning
+convex analysis of mixtures
+blind source separation
+affinity propagation clustering
+compartment modeling
+information-based model selection
+semi-supervised learning
+manifold regularization
+graph Laplacian
+minimax rates
+Bayesian networks
+skeleton
+constraint-based learning
+mutual min
+high dimensional regression
+greedy algorithms
+Lasso
+compressed sensing
+differential privacy
+density estimation
+Gaussian processes
+reproducing kernel Hilbert space
+classification
+naive Bayes
+attribute independence assumption
+weighted naive Bayes classification
+risk inflation
+ridge regression
+pca
+Bayesian modeling
+canonical correlation analysis
+group-wise sparsity
+inter-battery factor analysis
+variational Bayesian approximation
+cosine
+Jaccard
+overlap
+dice
+similarity
+MapReduce
+dimension independent
+Python
+data mining
+machine learning
+toolbox
+scripting
+PAC learning
+parallel learning algorithms
+halfspace learning
+linear classifiers
+Regularization
+Uniform Convergence
+Kernels
+Entropy Numbers
+Principal Curves
+Clustering
+generative topographic map
+Support Vector Machines
+Kernel PCA
+Gradient descent
+exponentiated gradient algorithm
+natural gradient
+linkfunctions
+Riemannian metric
+Dependency networks
+Bayesian networks
+graphical models
+probabilistic inference
+data visualization
+exploratory data analysis
+collaborative ltering
+Gibbs sampling
+Clustering
+Support Vectors Machines
+Gaussian Kernel
+Multiclass problems
+SVM
+Kernel Machines
+Support Vector Machine
+SVM
+Neural Network
+Compression Neural Network
+Text Retrieval
+Positive Information
+Support vector machines
+kernel methods
+Learning  Binary Classiﬁcation
+Large Margin
+Support Vector Machines
+On-line
+Support Vector Machine
+Interior Point Method
+Cholesky Product Form
+Cholesky Factorization
+Approximate Solution
+detection  Support vector classiﬁers
+one-class classiﬁcation
+novelty detection
+outlier
+dissimilarity
+embedding
+pseudo-Euclidean space
+nearest mean classifier
+support vector classifier
+Fisher linear discriminant
+Anisotropic
+Compactly Supported
+Covariance
+Isotropic
+Locally Stationary
+Nonstationary
+Reducible
+Separable
+Stationary
+dissimilarity
+embedding
+pseudo-Euclidean space
+nearest mean classiﬁer
+support vector classiﬁer
+Fisher linear discriminant
+Clustering
+Support Vectors Machines
+Gaussian Kernel
+shallow parsing
+memory-based learning
+feature selection
+system combination
+Clustering
+Cluster Analysis
+Concept Formation
+Structural Data
+Graph Match
+Computational Learning Theory
+Empirical Process Theory
+Classiﬁcation
+Shatter Coefficient
+Structural Risk Minimization
+Clustering
+Support Vectors Machines
+Gaussian Kernel
+sampling  Learning-curve sampling method
+clustering
+scalability
+decision theory
+sampling
+Active Learning
+Selective Sampling
+Support Vector Machines
+Classiﬁcation
+Relevance Feedback
+Multiclass problems
+SVM
+Kernel Machines
+Chunking
+Shallow parsing
+Part-of-speech taggers
+Hidden Markov models
+Maximum entropy learning
+Transformation-based learning
+pairwise classiﬁcation
+inductive rule learning
+multi-class problems
+class binarization
+ensemble techniques
+Covering Numbers
+Learning Sample Complexity
+Sparse Approximation
+Mistake Bounds
+Support Vector Machine
+SVM
+Neural Network
+Compression Neural Network
+Text Retrieval
+Positive Information
+Support vector machines
+kernel methods.
+Learning  Binary Classiﬁcation
+Large Margin
+Support Vector Machines
+On-line
+Recommender Systems
+Collaborative Filtering
+Decision Trees
+Linear Models
+Unbalanced Data
+Computational learning theory
+pattern recognition
+PAC model
+support vector machines
+kernel methods
+Kernels and Support Vector Machines
+String Subsequence Kernel
+Approximating Kernels
+Text Classiﬁcation
+Support Vector Machine
+Interior Point Method
+Cholesky Product Form
+Cholesky Factorization
+Approximate Solution
+detection  Support vector classiﬁers
+one-class classiﬁcation
+novelty detection
+outlier
+dissimilarity
+embedding
+pseudo-Euclidean space
+nearest mean classifier
+support vector classifier
+Fisher linear discriminant
+Anisotropic
+Compactly Supported
+Covariance
+Isotropic
+Locally Stationary
+Nonstationary
+Reducible
+Separable
+Stationary
+Symbolic Learning
+Rule Induction
+Learning Exceptions
+Natural Language Processing
+Chunking
+Shallow Parsing
+Text Chunking
+Clause Identiﬁcation
+Statistical Language Modeling
+Specialized HMMs
+dissimilarity
+embedding
+pseudo-Euclidean space
+nearest mean classiﬁer
+support vector classiﬁer
+Fisher linear discriminant
+Clustering
+Support Vectors Machines
+Gaussian Kernel
+inductive program synthesis
+inductive functional programming
+explanation based generalization
+recursive program schemes
+teleoreactive control
+logic programs
+problem solving
+skill learning
+kernel methods
+inductive logic programming
+Prolog
+learning from program traces
+ensemble
+diversity
+regression estimators
+neural networks
+hessian matrix
+negative correlation learning
+blind source separation
+variance dependencies
+independent component analysis
+semiparametric statistical models
+estimating functions
+learning the kernel
+capacity control
+kernel methods
+support vector machines
+representer theorem
+semidefinite programming
+sample complexity bounds
+classification
+quantitative bounds
+grammatical inference
+evolutionary computation
+deterministic finite automata
+active learning
+system identification
+kernel methods
+randomized algorithms
+Gram matrix
+Nystr¨om method
+data preparation
+grouping
+Bayesianism
+model selection
+classification
+naïve Bayes
+stacking
+voting
+information extraction
+cross-validation
+multiclass classification
+multi-prototype support vector machines
+kernel machines
+stochastic search optimization
+large margin classifiers
+kernels
+heat equation
+diffusion
+information geometry
+text classification
+stability
+randomized learning algorithms
+sensitivity analysis
+bagging
+bootstrap methods
+generalization error
+leave-one-out error
+belief propagation
+sum-product
+convergence
+approximate inference
+quantization
+kernels on measures
+semigroup theory
+Jensen divergence
+generalized variance
+reproducing kernel Hilbert space
+decision list machines
+set covering machines
+sparsity
+data-dependent features
+sample compression
+model selection
+learning theory
+Markov Decision Processes
+value iteration
+policy iteration
+prioritized sweeping
+dynamic programming
+Bayesian networks
+hidden variables
+information bottleneck
+continuation
+variational methods
+computational learning theory
+kernel methods
+PAC learning
+Boolean functions
+Gaussian process
+probabilistic regression
+sparse approximation
+Bayesian committee machine
+boosting
+multiclass
+ensemble
+classification
+decision stumps
+linear SVMs
+classification
+conjugate gradient
+kernel methods
+approximation algorithm
+minimum enclosing ball
+core set
+scalability
+clustering
+directional distributions
+mixtures
+von Mises-Fisher
+expectation maximization
+maximum likelihood
+high dimensional data
+Bayesian networks
+asymptotic model selection
+Bayesian information criterion (BIC)
+clustering
+Bregman divergences
+Bregman information
+exponential families
+expectation maximization
+information theory
+unsupervised learning
+anomaly detection
+density levels
+classification
+SVMs
+dimension reduction
+support vector machines
+text classification
+linear discriminant analysis
+centroids
+Gaussian process priors
+probabilistic classification
+Laplace’s approximation
+expectation propagation
+marginal likelihood
+evidence
+MCMC
+blind source separation
+BSS
+prior information
+denoising
+denoising source separation
+DSS
+independent component analysis
+ICA
+magnetoencephalograms
+MEG
+CDMA
+kernel methods
+string kernels
+text categorization
+sparse dynamic programming
+prediction with expert advice
+follow the perturbed leader
+general weights
+adaptive learning rate
+adaptive adversary
+hierarchy of experts
+expected and high probability bounds
+general alphabet and loss
+online sequential prediction
+asymptotic distribution
+classification theory
+estimation error
+nonparametric models
+threshold-based classifiers
+Bayesian networks
+variational inference
+message passing
+EM
+variational EM
+incremental EM
+convergence
+information geometry
+support vector machines
+decomposition methods
+sequential minimal optimization
+working set selection
+batch mode reinforcement learning
+regression trees
+ensemble methods
+supervised learning
+fitted value iteration
+optimal control
+Bayesian networks
+conditional Gaussian distributions
+propagation algorithm
+elimination tree
+multi-task learning
+kernels
+vector-valued functions
+regularization
+learning algorithms
+active learning
+support vector machine
+plankton recognition
+probabilistic output
+multi-class support vector machine
+Bayesian network
+inner product space
+embedding
+linear arrangement
+Euclidean dimension
+complexities of classifiers
+generalization bounds
+SVM
+voting classifiers
+random classes
+Good-Turing estimators
+logarithmic loss
+leave-one-out estimation
+Chernoff bounds
+supervised clustering
+record linkage
+citation matching
+coreference
+Dirichlet process
+non-parametric Bayesian
+regularization
+kernel
+frames
+wavelets
+statistical learning
+inverse problems
+regularization theory
+consistency
+theory revision
+Horn formulas
+query learning
+exact learning
+computational learning theory
+differential geometry
+diffusion-type gradient
+Lie groups
+non-negative independent component analysis
+Riemannian gradient
+change point problems
+switching linear dynamical systems
+strong junction trees
+approximate inference
+expectation propagation
+Kikuchi free energies
+generalization bounds
+area under the ROC curve
+ranking
+large deviations
+uniform convergence
+recommender systems
+Markov decision processes
+learning
+commercial applications
+hard drive failure prediction
+rank-sum test
+support vector machines (SVM)
+exact nonparametric statistics
+multiple instance naive-Bayes
+algorithmic stability
+meta-learning
+learning to learn
+anomaly detection
+syndromic surveillance
+biosurveillance
+Bayesian networks
+applications
+multistage decisions
+dynamic programming
+reinforcement learning
+batch data
+clustering
+metric learning
+dimensionality reduction
+equivalence constraints
+side information
+information bottleneck
+Gaussian processes
+dimensionality reduction
+canonical correlation analysis
+statistical estimation
+non-normalized densities
+pseudo-likelihood
+Markov chain Monte Carlo
+contrastive divergence
+Gaussian processes
+latent variable models
+principal component analysis
+spectral methods
+unsupervised learning
+visualisation
+Gaussian processes
+ordinal regression
+approximate Bayesian inference
+collaborative filtering
+gene expression analysis
+feature selection
+distribution-free learning theory
+nonparametric regression
+universal algorithms
+adaptive approximation
+on-line algorithms
+cross-validation
+generalization error
+moment approximation
+prediction
+variance estimation
+ICA
+blind source separation
+nonlinear mixtures
+nonlinear separation
+image mixture
+image separation
+dimension reduction
+linear discriminant analysis
+uncorrelated LDA
+orthogonal LDA
+singular value decomposition
+independence
+covariance operator
+mutual information
+kernel
+Parzen window estimate
+independent component analysis
+large scale learning
+naive Bayes
+Bayesianism
+model selection
+model averaging
+independence-based causal discovery
+causal Bayesian networks
+structure learning
+argumentation
+reliability improvement
+agnostic learning
+membership query
+separation
+PAC learning
+difference convex programming
+classification
+nonconvex minimization
+regularization
+support vectors
+permutation
+ranking
+on-line learning
+Hedge algorithm
+doubly stochastic matrix
+relative entropy projection
+Sinkhorn balancing
+dependence
+empirical risk
+probability bound
+unbounded loss
+uniform deviation
+greedy algorithm
+feature selection
+sparsity
+Gaussian processes
+low rank approximations
+numerical stability
+photometric redshift
+subset of regressors method
+large-scale machine learning
+classification
+ranking
+regression
+energy-based models
+machine learning software
+feature extraction
+neural networks (NNs)
+support vector machines (SVMs)
+hybrid system
+majority voting
+averaging
+correlation immune functions
+skewing
+relevant variables
+Boolean functions
+product distributions
+nonadaptive learning algorithms
+probabilistic circuits
+causal Bayesian networks
+value injection queries
+test paths
+descriptive rules
+rule learning
+contrast set mining
+emerging patterns
+subgroup discovery
+transfer learning
+reinforcement learning
+multi-task learning
+equations  causal models
+game theory
+machine learning
+recursive estimation
+simultaneous
+Markov properties
+linear causal models
+linear structural equation models
+graphical models
+Bayesian networks
+consistency
+scoring criterion
+model selection
+BIC
+graph mining
+enumeration
+monotonic graph classes
+topic models
+latent Dirichlet allocation
+hierarchical Dirichlet processes
+distributed parallel computation
+maximum entropy discrimination
+structured input/output model
+maximum margin Markov network
+graphical models
+entropic regularization
+L1 regularization
+graphical models
+structural equation models
+Bayesian inference
+Markov chain Monte Carlo
+latent variable models
+identity management
+permutations
+approximate inference
+group theoretical methods
+sensor networks
+recommender systems
+collaborative filtering
+statistical analysis
+comparative studies
+consistency
+local learning
+regression
+classification
+probabilistic models
+MAP estimation
+discrete MRF
+convex relaxations
+linear programming
+second-order cone programming
+quadratic programming
+dominating relaxations
+covariate shift
+discriminative learning
+transfer learning
+risk minimization
+linear support vector machine
+multi-class classification
+binary classification
+large-scale learning
+parallelization
+open source
+machine learning
+data mining
+java library
+clustering
+feature selection
+classification
+marginal likelihood
+exact integration
+mixture of independence model
+computational algebra
+collaborative filtering
+recommender systems
+matrix factorization
+neighbor based correction
+Netflix prize
+nondeterministic
+multiclassification
+reject option
+multi-label classification
+posterior probabilities
+concept learning
+description logics
+OWL
+classification
+open-source
+support vector machine
+stochastic gradient descent
+reproducing kernel Hilbert space
+binary classification
+general convex loss
+varying Gaussian kernels
+covering number
+approximation
+Bayesian networks
+python
+open source software
+reinforcement learning
+partially observable Markov decision processes
+multi-task learning
+Dirichlet processes
+regionalized policy representation
+graphs
+graph matching
+learning in structured domains
+nonsmooth optimization
+Bayesian networks
+false discovery rate
+PC algorithm
+directed acyclic graph
+skeleton
+Bayesian networks
+constraint-based structure learning
+artificial neural networks
+deep belief networks
+restricted Boltzmann machines
+autoassociators
+unsupervised learning
+batch-wise classification
+support vector machine
+linear programming
+machine learning
+statistical methods
+unconstrained optimization
+trees
+resampling
+importance
+masking
+residuals
+machine learning
+open-source software
+distribution shift
+scenario analysis
+model type selection
+genetic algorithms
+global surrogate modeling
+function approximation
+active learning
+adaptive sampling
+Viterbi algorithm
+sequence labeling
+conditional models
+classifiers optimization
+exact inference
+pattern discovery
+motif discovery
+locality sensitive hashing
+classification
+positive definite kernels
+nonextensive information theory
+Tsallis entropy
+JensenShannon divergence
+index learning
+many-class learning
+multiclass learning
+online learning
+text categorization
+linear SVM training
+hybrid parallelism
+largescale learning
+interior point method
+kernel-methods
+svm
+rvm
+kernel clustering
+C++
+Bayesian networks
+sampling inequality
+radial basis functions
+approximation theory
+reproducing kernel Hilbert space
+Sobolev space
+full model selection
+machine learning challenge
+particle swarm optimization
+experimentation
+cross validation
+data-driven calibration
+non-parametric regression
+model selection by penalization
+heteroscedastic data
+regressogram
+classification
+feature screening
+generalized linear models
+robust regression
+feature selection
+convex optimization
+semi-definite programming
+Mahalanobis distance
+metric learning
+multi-class classification
+support vector machines
+graphical models
+Gaussian copula
+high dimensional inference
+sparsity
+l1 regularization
+graphical lasso
+paranormal
+occult
+reproducing kernels
+reproducing kernel Hilbert spaces
+learning with kernels
+refinement kernels
+translation invariant kernels
+Hilbert-Schmidt kernels
+Brier game
+classification
+on-line prediction
+strong aggregating algorithm
+weighted average algorithm
+CART
+interaction
+subgroup analysis
+random forests
+hashing
+stream
+string kernel
+graphlet kernel
+multiclass classification
+multiple testing
+false discovery rate
+adaptive procedure
+positive regression dependence
+p-values
+active learning
+perceptron
+label complexity bounds
+online learning
+similarity
+dissimilarity
+similarity-based learning
+indefinite kernels
+graph pattern discovery
+inductive logic programming
+Petri net
+process discovery
+positive data only
+reproducing kernel Banach spaces
+reproducing kernels
+learning theory
+semi-innerproducts
+representer theorems
+mixture models
+Dirichlet process
+classification
+collective inference
+statistical relational learning
+approximate probabilistic inference
+networked data
+cautious inference
+reinforcement learning
+provably efficient learning
+collaborative filtering
+matrix completion
+kernel methods
+spectral regularization
+online learning
+kernel methods
+support vector machines
+bounded support set
+nearest neighbors graph
+high dimensional data
+divide and conquer
+Lanczos algorithm
+spectral method
+linear regression
+maximum likelihood estimation
+path diagram
+structural equation model
+recursive semi-Markov model
+residual iterative conditional fitting
+reinforcement learning
+Markov decision processes
+PAC-MDP
+exploration
+sample complexity
+kernel methods
+matrix learning
+minimal norm interpolation
+multi-task learning
+regularization
+active learning
+system identification
+online Bayesian learning
+A-optimality
+Doptimality
+infomax control
+optimal design
+kernel methods
+Bregman divergences
+convex optimization
+kernel learning
+matrix nearness
+graphical models
+vertex separation
+graphoids
+weak transitivity
+bioinformatics
+truncated gradient
+stochastic gradient descent
+online learning
+sparsity
+regularization
+Lasso
+importance sampling
+covariate shift adaptation
+novelty detection
+regularization path
+leave-one-out cross validation
+beam search
+speedup learning
+automated planning
+structured classification
+unsupervised learning
+Gaussian processes
+classification and prediction
+probabilistic models
+missing variables
+ranking
+RankBoost
+generalization bounds
+ROC
+information retrieval
+Bayesian inference
+mixture models
+expectation propagation
+expectation consistent
+perturbation correction
+variational Bayes
+parallel tempering
+thermodynamic integration
+reinforcement learning
+empirical evaluation
+standardization
+open source
+non parametric empirical Bayes
+high dimension
+classification
+ranking
+generalization bounds
+algorithmic stability
+entropy
+shrinkage estimation
+James-Stein estimator
+“small n,large p” setting
+mutual information
+gene association network
+system combination
+ensemble diversity
+multiple classifier systems
+support vector machines
+speaker recognition
+kernel methods
+PAC learning
+noise tolerance
+malicious noise
+agnostic learning
+label noise
+halfspace learning
+linear classifiers
+subgradient methods
+group sparsity
+online learning
+convex optimization
+Bayesian networks
+conditional expectation
+covariance
+directed acyclic graphs
+effect modification
+monotonicity
+sampling with non-identical distributions
+online learning
+classification with a general convex loss
+regression with insensitive loss and least square loss
+reproducing kernel Hilbert space
+Markov networks
+logistic regression
+L1 penalty
+model selection
+Binary variables
+ranking
+RankBoost
+generalization bounds
+AdaBoost
+area under the ROC curve
+grammar induction
+regular language
+finite state automaton
+maximum margin hyperplane
+kernel approximation
+robustness
+regularization
+generalization
+kernel
+support vector machine
+clustering
+minimizing objective functions
+consistency
+online learning
+calibration
+regret minimization
+approachability
+neural networks
+universal approximation
+monotonicity
+convexity
+call options
+dependency grammar induction
+variational inference
+logistic normal distribution
+Bayesian inference
+grammar induction
+tree substitution grammar
+Bayesian non-parametrics
+Pitman-Yor process
+Chinese restaurant process
+machine translation
+Bayesian inference
+grammar induction
+natural language parsing
+Bayesian networks
+dynamic Bayesian networks
+grammar learning
+natural language parsing
+neural networks
+statistical machine translation (SMT)
+phrase reordering
+lexicalized reordering (LR)
+maximum entropy (ME)
+support vector machine (SVM)
+maximum margin regression (MMR)
+max-margin structure learning (MMS)
+support vector machines
+kernels
+large-scale learning
+Python
+Octave
+R
+decomposition methods
+low-degree polynomial mapping
+kernel functions
+support vector machines
+dependency parsing
+natural language processing
+binary tree
+generalization error ¨ıbound
+margin-based theory
+pattern classification
+tree decomposition
+support vector machine
+VC theory
+tree kernels
+approximation
+kernel methods
+convolution kernels
+dependency grammar induction
+variational inference
+logistic normal distribution
+Bayesian inference
+Gaussian process
+probabilistic regression
+sparse approximation
+power spectrum
+computational efficiency
+basis pursuit
+dictionary learning
+matrix factorization
+online learning
+sparse coding
+sparse principal component analysis
+stochastic approximations
+stochastic optimization
+nonnegative matrix factorization
+PAC-Bayes bounds
+non IID data
+ranking
+U-statistics
+mixing processes
+independent components analysis
+Kronecker covariance
+latent variables
+projection pursuit
+transposable data
+statistical learning theory
+learnability
+uniform convergence
+stability
+stochastic convex optimization
+information retrieval
+manifold learning
+multidimensional scaling
+nonlinear dimensionality reduction
+visualization
+matrix completion
+low-rank matrices
+spectral methods
+manifold optimization
+Bayesian networks
+graphical models
+model selection
+structure learning
+Monte Carlo methods
+collaborative filtering
+nuclear norm
+spectral regularization
+netflix prize
+large scale convex optimization
+classification
+labeled data
+permutation tests
+restricted randomization
+significance testing
+principal component analysis
+missing values
+overfitting
+regularization
+variational Bayes
+classification tree
+missing data
+separate class
+RPART
+C4.5
+CART
+error-correcting output codes
+multi-class classification
+coding
+decoding
+open source
+matlab
+octave
+passing  graphical models
+collective inference
+clique potentials
+cluster graphs
+message
+parametric density model
+symmetric distribution
+ν-spherical distributions
+non-linear independent component analysis
+independent subspace analysis
+robust Bayesian inference
+mixed norm density model
+uniform distributions on mixed norm spheres
+nested radial factorization
+permutations
+partial orderings
+Mallows model
+distance based ranking model
+exponential family
+non-parametric clustering
+branch-and-bound
+stochastic optimal control
+reinforcement learning
+parameterized policies
+probabilistic graphical models
+approximate inference
+open source software
+factor graphs
+Markov random fields
+Bayesian networks
+Lasso
+basis pursuit
+random matrix theory
+Gaussian comparison inequality
+concentration of measure
+graphical models
+time series
+topology selection
+convex optimization
+grammatical inference
+context-free language
+positive data only
+membership queries
+natural images
+statistical relations
+image denoising
+wavelets
+non-parametric methods
+kernel
+mutual information
+regularization
+locality
+kernel methods
+local learning algorithms
+support vector machines
+instancebased learning
+semi-supervised learning
+Fenchel-Legendre conjugate
+representer theorem
+multiview regularization
+support vector machine
+statistical learning theory
+learning in non-i.i.d. scenarios
+weakly dependent observations
+mixing distributions
+algorithmic stability
+generalization bounds
+learning theory
+Fisher discriminant analysis
+reproducing kernel
+generalized eigenproblems
+ridge regression
+singular value decomposition
+eigenvalue decomposition
+continuous time Markov processes
+continuous time Bayesian networks
+variational approximations
+mean field approximation
+bagging
+resampling
+nearest neighbor estimate
+rates of convergence
+model selection
+performance evaluation
+bias-variance trade-off
+selection bias
+overfitting
+component-wise functional gradient descent
+splines
+decision trees
+regularization
+classification
+bilinear decomposition
+neural signals
+brain computer interface
+grammar induction
+tree substitution grammar
+Bayesian non-parametrics
+Pitman-Yor process
+Chinese restaurant process
+BFGS
+variable metric methods
+Wolfe conditions
+subgradient
+risk minimization
+hinge loss
+multiclass
+multilabel
+bundle methods
+BMRM
+OCAS
+OWL-QN
+Kronecker graphs
+network analysis
+network models
+social networks
+graph generators
+graph mining
+network evolution
+actor critic
+single time scale convergence
+temporal difference
+spectral convergence
+empirical operators
+learning integral operators
+perturbation methods
+logistic regression
+fixed point continuation
+supervised learning
+large scale
+stochastic gradient descent
+support vector machine
+conditional random fields
+level set methods
+nonlinear classification
+geometric regularization
+consistency
+complexity
+continuous time Bayesian networks
+importance sampling
+approximate inference
+filtering
+smoothing
+structural vector autoregression
+structural equation models
+independent component analysis
+non-Gaussianity
+causality
+Bayesian networks
+causation
+causal inference
+mistake bounds
+perceptron algorithm
+multitask learning
+spectral regularization
+generalized expectation criteria
+semi-supervised learning
+logistic regression
+conditional random fields
+deep architectures
+unsupervised pre-training
+deep belief networks
+stacked denoising auto-encoders
+non-convex optimization
+kernel methods
+matrix learning
+minimal norm interpolation
+multi-task learning
+orthogonally invariant norms
+regularization
+optimization
+subgradient methods
+cutting plane method
+bundle methods
+regularized risk minimization
+parallel optimization
+local causal discovery
+Markov blanket induction
+feature selection
+classification
+causal structure learning
+learning of Bayesian networks
+gradient estimates
+manifold learning
+graphical models
+inverse regression
+dimension reduction
+gradient diffusion maps
+maximum likelihood
+deterministic approximations
+variational EM
+generative models
+component extraction
+multiple-cause models
+empirical risk minimization
+loss function
+cost-sensitive learning
+imbalanced data sets
+model selection
+ensemble methods
+multilevel inference
+multilevel optimization
+performance prediction
+bias-variance tradeoff
+Bayesian priors
+structural risk minimization
+guaranteed risk minimization
+over-fitting
+regularization
+minimum description length
+machine learning software
+open source software
+variational inference
+approximate Riemannian conjugate gradient
+fixed-form approximation
+Gaussian approximation
+nearest neighbors
+curse of dimensionality
+classification
+semi-supervised learning
+clustering
+deep learning
+unsupervised feature learning
+deep belief networks
+autoencoders
+denoising
+feature selection
+quadratic programming
+Nystr¨om method
+large data set
+highdimensional data
+belief propagation
+loop calculus
+approximate inference
+partition function
+planar graphs
+Ising model
+cross-validation
+information criterion
+singular learning machine
+birational invariant
+bin packing
+on-line learning
+prediction with expert advice
+Bandits (adversarial and stochastic)
+regret bound
+minimax rate
+label efficient
+upper confidence bound (UCB) policy
+online learning
+prediction with limited feedback
+classification
+incomplete data
+expert
+Dirichlet process
+variational Bayesian
+multitask learning
+L1 regularization
+linear classification
+optimization methods
+logistic regression
+support vector machines
+document classification
+variable selection
+sparse random projections
+high-dimensional statistics
+Lasso
+consistency
+classification
+convex surrogate loss
+empirical risk minimization
+generalized margin condition
+reject option
+support vector machines
+kernel methods
+large margin
+Rademacher complexity
+stochastic learning
+online optimization
+structural convex optimization
+dual averaging methods
+accelerated gradient methods
+decision tree classifiers
+distributed computing
+streaming data
+scalability
+surrogate modeling
+metamodeling
+function approximation
+model selection
+adaptive sampling
+active learning
+distributed computing
+dimensionality estimation
+manifold learning
+geodesic distance
+function approximation
+high-dimensional processing
+tensor voting
+instance-specific
+Bayesian network
+Markov blanket
+Bayesian model averaging
+undiscounted reinforcement learning
+Markov decision process
+regret
+online learning
+sample complexity
+classification with a reject option
+selective classification
+perfect learning
+high performance classification
+risk-coverage trade-off
+hypothesis test
+independence
+L1
+log-likelihood
+kernel methods
+distribution-free consistent test
+sparse PCA
+power method
+gradient ascent
+strongly convex sets
+block algorithms
+sparsity
+non-convex optimization
+convex relaxation
+multi-stage convex relaxation
+maximum entropy
+iterative scaling
+coordinate descent
+natural language processing
+optimization
+Python
+neural networks
+reinforcement learning
+optimization
+large scale
+metric learning
+image similarity
+online learning
+Bayesian networks
+dynamic Bayesian networks
+grammar learning
+natural language parsing
+neural networks
+covariance selection
+Dantzig selector
+Gaussian graphical model
+inverse covariance matrix
+Lasso
+linear programming
+oracle inequality
+sparsity
+support vector machine
+distributed optimization
+distributed data mining
+distributed learning
+sensor networks
+encoding  transfer learning
+task transfer
+evolutionary computation
+neuroevolution
+indirect
+clustering
+hierarchical clustering
+stability of clustering
+Gromov-Hausdorff distance
+multiple annotators
+multiple experts
+multiple teachers
+crowdsourcing
+microarray gene expression
+multiclass gene selection
+phenotypic up-regulated gene
+multicategory classification
+continuous time Bayesian networks
+C++
+open source software
+Bayesian networks
+classification
+discriminative learning
+structure learning
+graphical model
+missing feature
+Gaussian processes
+nonparametric Bayes
+probabilistic regression and classification
+graphical models
+MAP Estimation
+LP relaxation
+proximal minimization
+rounding schemes
+explaining
+nonlinear
+black box model
+kernel methods
+Ames mutagenicity
+linear algebra in RKHS
+Sylvester equations
+spectral decomposition
+bioinformatics
+rational kernels
+transducers
+semirings
+random walks
+annealing
+graphical factor models
+variational mean-field method
+MAP estimation
+sparse factor analysis
+gene expression profiling
+surrogate loss
+convexity
+probability estimation
+classification
+Fisher consistency
+classification-calibrated
+regret bound
+proper scoring rule
+Bregman divergence
+robustness
+misclassification noise
+Boltzmann machine
+non-regular learning machine
+resolution of singularities
+zeta function
+semi-supervised learning
+novelty detection
+Neyman-Pearson classification
+learning reduction
+two-sample problem
+multiple testing
+classification and regression
+maximum likelihood
+latent variable models
+kernel learning
+translation invariant kernels
+capacity control
+support vector machines
+classification
+semi-infinite programming
+probability metrics
+homogeneity tests
+independence tests
+kernel methods
+universal kernels
+characteristic kernels
+Hilbertian metric
+weak topology
+graphical models
+Markov random field
+loopy belief propagation
+approximate inference
+active learning
+excess risk
+Rademacher complexities
+capacity function
+disagreement coefficient
+clustering comparison
+information theory
+adjustment for chance
+normalized information distance
+data streams
+classification
+ensemble methods
+java
+machine learning software
+Bayesian networks
+structure learning
+constrained optimal search
+local causal discovery
+Markov blanket induction
+feature selection
+classification
+causal structure learning
+learning of Bayesian networks
+sequence prediction
+time series
+online prediction
+Bayesian prediction
+data postprocessing
+classification
+explanation
+visualization
+Markov random fields
+composite likelihood
+maximum likelihood estimation
+conditional independence inference
+linear programming approach
+variable selection
+estimation
+oracle inequality
+minimax
+linear regression
+penalized least squares
+linear programming
+posterior regularization framework
+unsupervised learning
+latent variables models
+prior knowledge
+natural language processing
+matrix tri-factorization
+graphical models
+graph clustering
+pairwise clustering
+combinatorial priors
+density estimation
+sparse linear model
+Laplace prior
+expectation propagation
+approximate inference
+optimal design
+Bayesian statistics
+gene network recovery
+image coding
+compressive sensing
+sparsity
+regularization
+consistency
+convex optimization
+covariance operators
+ranked data
+partially ordered sets
+kernel smoothing
+online learning
+parallel computation
+mistake bounds
+structured prediction
+statistical methods
+non-parametric test
+multiple comparisons tests
+adjusted p-values
+logically related hypotheses
+Markov decision processes
+reinforcement learning
+changing environments
+(ε,δ)MDPs
+value function bounds
+stochastic iterative algorithms
+Bayes classifiers
+classification
+convex surrogate loss
+empirical risk minimization
+hinge loss
+large margin classifiers
+margin condition
+reject option
+support vector machines
+Bayesian network
+conditional independence
+decomposition
+directed acyclic graph
+structural learning
+supervised learning
+computer vision
+image interpretation
+cats
+stationary features
+hierarchical search
+linear discriminant analysis
+equivalence relation
+linear subspaces
+Bayes error
+hierarchical Bayes
+latent variables
+mean-field approximation
+statistical network analysis
+social networks
+protein interaction networks
+feature ranking
+categorical features
+generalization bounds
+Gini index
+decision trees
+sequential supervised learning
+conditional random fields
+functional gradient
+gradient tree boosting
+missing values
+linear support vector machines
+document classification
+coordinate descent
+ensemble learning
+boosting
+support vector machine
+kernel
+fitted value iteration
+discounted Markovian decision processes
+generative model
+reinforcement learning
+supervised learning
+regression
+Pollard’s inequality
+statistical learning theory
+optimal control
+multi-hinge classification
+all-at-once
+moment bound
+fast rate
+entropy
+kernel based regression
+robustness
+stability
+influence function
+model selection
+linear discriminant analysis
+dimension reduction
+linear transformation
+Bayesian networks
+structure learning
+model selection
+bounded treewidth
+error bound
+transduction
+nearest neighbor
+dynamic programming
+logistic regression
+newton method
+trust region
+conjugate gradient
+support vector machines
+ancestral graph
+covariance graph
+graphical model
+marginal independence
+maximum likelihood estimation
+multivariate normal distribution
+ILP
+qualitative system identification
+biology
+error bounds
+multi-task learning
+imprecise probabilities
+missing data
+naive Bayes
+naive credal classifier 2
+Java
+model selection
+maximum likelihood estimation
+convex optimization
+Gaussian graphical model
+binary data
+semi-supervised learning
+support vector machines
+non-convex optimization
+transductive learning
+dimension-reduction
+multi-index regression model
+structure-adaptive approach
+central subspace
+clustering
+unobserved features
+learning theory
+generalization in clustering
+information bottleneck
+asymptotic normality
+Bahadur representation
+classification
+convexity lemma
+Radon transform
+additive regression
+motor primitives
+sparse representations
+visualization
+dimensionality reduction
+manifold learning
+embedding algorithms
+multidimensional scaling
+string kernels
+string distances
+learning with sequential data
+ranking
+group comparison
+binary/scored outcomes
+Bradley-Terry model
+multiclass classification
+multiple kernel learning
+support vector machines
+support vector regression
+multiclass SVM
+gradient descent
+dimensionality reduction
+manifold learning
+Laplacian eigenmap
+diffusion maps
+locally linear embedding
+local tangent space alignment
+Hessian eigenmap
+compression
+error bound
+support vector machine
+nearly uniform
+causality
+graphical causal models
+identification
+reinforcement learning
+multi-agent reinforcement learning
+stochastic games
+graph-based training set representation
+nearest neighbor
+instance selection for instancebased learning
+conditional random fields
+dynamic hierarchical Markov random fields
+integrated web data extraction
+statistical hierarchical modeling
+blocky artifact issue
+active learning
+causal networks
+directed acyclic graphs
+intervention
+Markov equivalence class
+optimal design
+structural learning
+hierarchical statistics
+approximate dynamic programming
+mixture models
+adaptive learning
+multiattribute resources
+image coding
+non-linear perception models
+statistical independence
+support vector machines
+insensitivity zone
+frequent itemset mining
+bipartite graph
+biclique
+submatrix of 1s
+statistical significance
+nonlinear ICA
+regularization
+minimal nonlinear distortion
+mean square error
+best linear reconstruction
+kernel methods
+feature space
+dimension reduction
+effective dimensionality
+subset  Bayesian networks
+structure learning
+optimal search
+super-structure
+connected
+networks  Gaussian processes
+experimental design
+active learning
+spatial learning; sensor
+principal component analysis
+online learning
+density matrix
+expert setting
+quantum Bayes rule
+component extraction
+maximum likelihood
+approximate EM
+competitive learning
+neural networks
+factor graphs
+approximate inference algorithms
+structured classification
+protein subcellular location patterns
+location proteomics
+k-fold cross-validation
+model evaluation
+perturbation-resampling
+prediction errors
+support vector machine
+max margin
+missing features
+network reconstruction
+metabolic pathways
+machine learning software
+neural networks
+kernel-methods
+evolutionary algorithms
+optimization
+multi-objective-optimization
+naive Bayes
+naive credal classifier
+imprecise probabilities
+missing values
+conservative inference rule
+missing at random
+Laplace approximation
+expectation propagation
+LASSO
+PCA
+Bayesian model selection
+random matrix theory
+high dimensional inference
+structured output prediction
+discriminative learning
+Z-score
+discriminant analysis
+PAC bound
+moments
+generalization error
+decision trees
+coevolution
+recurrent neural networks
+non-linear control
+genetic algorithms
+experimental comparison
+spam filtering
+multiple instance learning
+good word attack
+adversarial learning
+PCA
+subset selection
+sparse eigenvalues
+sparse recovery
+lasso
+random forests
+classification trees
+consistency
+bagging  This paper is dedicated to the memory of Leo Breiman.
+Bouligand derivatives
+empirical risk minimization
+influence function
+robustness
+support vector machines
+ancestral graphs
+causal Bayesian network
+do-calculus
+intervention
+probabilistic reasoning
+Bayesian networks
+smoothing
+hierarchical Bayes
+empirical Bayes
+diffusion processes
+diffusion geometry
+spectral graph theory
+image denoising
+transductive learning
+semi-supervised learning
+active learning
+spherical subdivision
+error bounds
+simplex halving
+information criterion
+supervised classification
+support vector machine
+variable selection
+causal structure learning
+feature selection
+Markov blanket
+partial correlation
+statistical test of conditional independence
+feature selection
+unobserved features
+meta-features
+classification
+support vector machines
+learning rates
+approximation
+aggregation of classifiers
+grammatical inference
+oracle learning
+correction queries
+edit distance
+balls of strings
+confidence
+on-line compression modeling
+on-line learning
+prediction regions
+large-scale linear classification
+logistic regression
+support vector machines
+open source
+machine learning
+max-xum classifier
+hidden Markov networks
+support vector machines
+regression
+local learning
+online learning
+C
+C++
+Matlab
+Octave
+Python
+multiagent learning
+reinforcement learning
+cooperative coevolution
+evolutionary game theory
+formal models
+visualization
+basins of attraction
+boosting algorithms
+LogitBoost
+AdaBoost
+regression models
+multilayer perceptrons
+model selection
+information criteria
+modulus of continuity
+conditional independence test
+contemporaneous causation
+additive model regression
+Granger causality
+ocean indices
+rule relevancy
+closed sets
+ROC space
+emerging patterns
+essential rules
+subgroup discovery
+observation selection
+experimental design
+active learning
+submodular functions
+Gaussian processes
+exponentiated gradient
+log-linear models
+maximum-margin models
+structured prediction
+conditional random fields 
+learning similarity
+similarity
+transfer learning
+model selection
+kernel discriminant analysis
+semidefinite programming
+quadratically constrained quadratic programming
+semi-infinite linear programming
+web page views
+forecast
+Holt-Winters
+Kalman filtering
+elastic smooth season fitting
+boosting algorithms
+LogitBoost
+AdaBoost
+chain graph
+conditional independence
+decomposition
+graphical model
+structural learning
+planning
+machine learning
+knowledge representation
+search
+multi-way classification
+kernel logistic regression
+hierarchical classification
+cross validation optimization
+Newton-Raphson optimization
+convex optimization
+singular value decomposition
+trace norm
+consistency
+Gaussian process priors
+probabilistic classification
+Laplaces’s approximation
+expectation propagation
+variational bounding
+mean field methods
+marginal likelihood evidence
+MCMC
+multi-task learning
+multi-task kernels
+universal approximation
+vector-valued reproducing kernel Hilbert spaces
