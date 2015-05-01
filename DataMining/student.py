@@ -1,7 +1,7 @@
 class student:
     'This class contains information regarding each student'
     def __init__(self, registration_year, course_list):
-        self.registration_year = registration_year
+        self.registration_year = int(registration_year)
         self.course_list = course_list
         self.courses = self.taken_courses()
         self.enrol_2007 = self.enrol_2008 = self.enrol_2009 = self.enrol_2010 = self.enrol_2011 = self.enrol_2012 = self.enrol_2013 = False
@@ -42,7 +42,19 @@ class student:
         else:
             return False
 
+    def get_registeration_year(self):
+        return self.registration_year
+
     def display(self):
         return self.registration_year + '\n'.join(self.courses)
+
+    def get_course_data(self, course_name):
+        max_score = 0
+        for crs in self.course_list:
+            if crs.course_name == course_name and crs.final_grade >= max_score:
+                result = crs
+                max_score = crs.final_grade
+        return result
+
 
 

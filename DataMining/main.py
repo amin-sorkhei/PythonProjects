@@ -2,15 +2,13 @@ from student import student
 from course import student_course
 import re
 import itertools
-<<<<<<< HEAD
+
 import time
 import pickle
 import math
-=======
+
 import numpy as np
 import matplotlib.pyplot as plt
-
->>>>>>> 4dead3d0849b86cd9bdc7f610741b617d30f1523
 
 
 support_count_dic = {}
@@ -121,11 +119,13 @@ def one_level_rule_gen(itemset, conf):
         precedent = [item for item in itemset if item not in head]
         rule_conf = support_count_dic[frozenset(head + precedent)] / support_count_dic[frozenset(precedent)]
         rule_lift = rule_conf / support_count_dic[frozenset(head)]
-        rule_IS = support_count_dic[frozenset(head + precedent)] / (math.sqrt(support_count_dic[frozenset(precedent)] * support_count_dic[frozenset(head)]))
+        rule_IS = support_count_dic[frozenset(head + precedent)] / (
+            math.sqrt(support_count_dic[frozenset(precedent)] * support_count_dic[frozenset(head)]))
         if rule_conf < conf:
             consequent = list(set(consequent) - set(head))
 
-        print str(precedent) + ' => ' + str(head) + '  ' + ' conf: ' + str(rule_conf) + ' lift: ' + str(rule_lift) + ' IS: ' + str(rule_IS)
+        print str(precedent) + ' => ' + str(head) + '  ' + ' conf: ' + str(rule_conf) + ' lift: ' + str(
+            rule_lift) + ' IS: ' + str(rule_IS)
     consequent = map(list, list(itertools.combinations(consequent, 2)))
     print 'First set of consequents ' + str(consequent)
     while consequent:
@@ -136,10 +136,12 @@ def one_level_rule_gen(itemset, conf):
                 break
             rule_conf = support_count_dic[frozenset(head + precedent)] / support_count_dic[frozenset(precedent)]
             rule_lift = rule_conf / support_count_dic[frozenset(head)]
-            rule_IS = support_count_dic[frozenset(head + precedent)] / (math.sqrt(support_count_dic[frozenset(precedent)] * support_count_dic[frozenset(head)]))
+            rule_IS = support_count_dic[frozenset(head + precedent)] / (
+                math.sqrt(support_count_dic[frozenset(precedent)] * support_count_dic[frozenset(head)]))
             if rule_conf < conf:
                 consequent = [x for x in consequent if x != head]
-            print str(precedent) + ' => ' + str(head) + '  ' + ' conf: ' + str(rule_conf) + ' lift: ' + str(rule_lift) + ' IS: ' + str(rule_IS)
+            print str(precedent) + ' => ' + str(head) + '  ' + ' conf: ' + str(rule_conf) + ' lift: ' + str(
+                rule_lift) + ' IS: ' + str(rule_IS)
         consequent = merge(consequent)
         print 'This is the list of new consequents ' + str(consequent)
 
@@ -170,7 +172,7 @@ def main():
 
     pickle.dump(support_count_dic, open('dic.pic', 'w'))
     open('dic.txt', 'w').write(print_dic())
-<<<<<<< HEAD
+
     print(final_frequent_closed_itemsets)
 
     print '-----------------------------------'
@@ -191,11 +193,10 @@ def main():
     rule_generator(f_itemset, conf=0.1)
 
 
-=======
+
     print(final_frequent_closed_itemsets)'''
 
-
-    course_names = map(lambda x: x[0], course_info_dictionary.values())
+    '''course_names = map(lambda x: x[0], course_info_dictionary.values())
     year = range(2007, 2016)
     course_grade_dic = {key: {key: [] for key in year} for key in course_names}
 
@@ -219,7 +220,7 @@ def main():
 
         plt.plot(map(lambda x: x[0], result), map(lambda x: x[1], result),'orange')
         plt.legend([candidate], loc='loc=upper left')
-        plt.show()
+        plt.show()'''
     '''programming_dic = {'Intro_fail': 0,
                        'Intro_pass': 0,
                        'Intro_1-3': 0,
@@ -271,7 +272,20 @@ def main():
 
     for key in programming_dic.keys():
         print(key, float(programming_dic[key])/len(students_list))'''
->>>>>>> 4dead3d0849b86cd9bdc7f610741b617d30f1523
+
+    candiate_less2010 = [std for std in students_list if std.has_taken_course([u'Ohjelmoinnin perusteet']) and std.get_course_data(u'Ohjelmoinnin perusteet').final_grade == '5']
+    print len(candiate_less2010)
+    grades = []
+    for std in candiate_less2010:
+        Intro = std.get_course_data(u'Ohjelmoinnin perusteet')
+        #data = std.get_course_data(u'Tietorakenteet ja algoritmit')
+        #if Intro.passed_4_5:
+            #grades.append(int(data.final_grade))
+        print Intro.final_grade
+    #print np.mean(grades)
+
+
+
 if __name__ == '__main__':
     main()
 
