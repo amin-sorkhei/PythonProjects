@@ -13,7 +13,7 @@ collaborative ltering
 natural gradient
 monte-carlo noise
 value iteration
-y structures
+y-structure
 infomax control
 skeleton
 distribution shift
@@ -658,7 +658,7 @@ modal em
 detector cascades
 margin condition
 one-shot-learning
-k-nn graph
+knn graph
 hard drive failure prediction
 label propagation
 on-line clustering
@@ -1322,7 +1322,7 @@ linear bandits with expert advice
 instrumental variables
 applications
 identification with polynomial bound
-k-nn
+knn
 holt-winters
 random graphs
 representation
@@ -1657,7 +1657,6 @@ optimistic algorithm
 all-at-once
 bifurcation
 median
-c++
 multiple-cause model
 outlier detection
 nuclear norm minimization
@@ -2132,7 +2131,7 @@ rank-based statistics
 neural network (nns)
 multiple comparisons test
 stochastic complexity
-hmms
+hmm
 consistent distinguishability
 human-computer interaction
 divergence measures
@@ -2686,7 +2685,7 @@ learning convex bodies
 kolmogorov entropy
 transfer learning
 click prediction
-spikes
+spike
 redundancy resolution
 graphical markov model inclusion
 knowledge reuse
@@ -3474,7 +3473,7 @@ regressogram
 structured experts
 metrics between probability distribution
 least-squares method
-specialized hmms
+specialized hmm
 bounded treewidth
 combinatorial prior
 model averaging

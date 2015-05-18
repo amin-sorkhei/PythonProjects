@@ -241,7 +241,7 @@ def main():
 
             if course.course_name == 'Ohjelmoinnin perusteet':
                 intro = course
-                if course.failed:
+                 if course.failed:
                     programming_dic['Intro_fail'] += 1
                 elif course.passed_1_3:
                     programming_dic['Intro_pass'] += 1
